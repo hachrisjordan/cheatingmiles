@@ -1,0 +1,4237 @@
+name,iso_country,iso_region,scheduled_service,iata_code
+Utirik Airport,MH,MH-UTI,yes,UTK
+Nunapitchuk Airport,US,US-AK,yes,NUP
+Port Protection Seaplane Base,US,US-AK,yes,PPV
+Blakely Island Airport,US,US-WA,yes,BYW
+Atmautluak Airport,US,US-AK,yes,ATT
+Pedro Bay Airport,US,US-AK,yes,PDB
+Ouzinkie Airport,US,US-AK,yes,KOZ
+Tununak Airport,US,US-AK,yes,TNK
+Hyder Seaplane Base,US,US-AK,yes,WHD
+Minto Al Wright Airport,US,US-AK,yes,MNT
+Aleknagik / New Airport,US,US-AK,yes,WKK
+Ketchikan Harbor Seaplane Base,US,US-AK,yes,WFB
+Lake Brooks Seaplane Base,US,US-AK,yes,BKF
+New York Skyports Inc Seaplane Base,US,US-NY,yes,NYS
+Center Island Airport,US,US-WA,yes,CWS
+Tatitlek Airport,US,US-AK,yes,TEK
+Stuart Island Airpark,US,US-WA,yes,SSW
+Waldron Airstrip,US,US-WA,yes,WDN
+Whale Pass Seaplane Float Harbor Facility,US,US-AK,yes,WWP
+Chuathbaluk Airport,US,US-AK,yes,CHU
+Levelock Airport,US,US-AK,yes,KLL
+Tuntutuliak Airport,US,US-AK,yes,WTL
+Twin Hills Airport,US,US-AK,yes,TWA
+Chignik Lake Airport,US,US-AK,yes,KCQ
+Afutara Aerodrome,SB,SB-ML,yes,AFT
+Uru Harbour Airport,SB,SB-ML,yes,ATD
+Gwaunaru'u Airport,SB,SB-ML,yes,AKS
+Bellona/Anua Airport,SB,SB-RB,yes,BNY
+Choiseul Bay Airport,SB,SB-CH,yes,CHY
+Ballalae Airport,SB,SB-WE,yes,BAS
+Fera/Maringe Airport,SB,SB-IS,yes,FRE
+Honiara International Airport,SB,SB-GU,yes,HIR
+Babanakira Airport,SB,SB-GU,yes,MBU
+Ngorangora Airport,SB,SB-MK,yes,IRA
+Santa Cruz/Graciosa Bay/Luova Airport,SB,SB-TE,yes,SCZ
+Munda Airport,SB,SB-WE,yes,MUA
+Nusatupe Airport,SB,SB-WE,yes,GZO
+Mono Airport,SB,SB-WE,yes,MNY
+Rennell/Tingoa Airport,SB,SB-RB,yes,RNL
+Santa Ana Airport,SB,SB-MK,yes,NNB
+Marau Airport,SB,SB-GU,yes,RUS
+Suavanao Airport,SB,SB-IS,yes,VAO
+Yandina Airport,SB,SB-CE,yes,XYA
+Kaghau Airport,SB,SB-CH,yes,KGE
+Manaoba Airport,SB,SB-ML,yes,MHM
+Gatokae Aerodrome,SB,SB-WE,yes,GTA
+Ramata Airport,SB,SB-WE,yes,RBV
+Ailinglaplap Airok Airport,MH,MH-ALL,yes,AIC
+Naukati Bay Seaplane Base,US,US-AK,yes,NKI
+Amook Bay Seaplane Base,US,US-AK,yes,AOS
+Alitak Seaplane Base,US,US-AK,yes,ALZ
+Mar de Cortés International Airport,MX,MX-SON,yes,PPE
+Nauru International Airport,NR,NR-14,yes,INU
+Aitape Airport,PG,PG-SAN,yes,ATP
+Gruyere Airport,AU,AU-WA,yes,GYZ
+Karara Airport,AU,AU-WA,yes,KQR
+Hayman Island Resort Seaplane Base,AU,AU-QLD,yes,HIS
+Alxa Left Banner Bayanhot Airport,CN,CN-15,yes,AXF
+Buka Airport,PG,PG-NSB,yes,BUA
+Chimbu Airport,PG,PG-CPK,yes,CMU
+Daru Airport,PG,PG-WPD,yes,DAU
+Goroka Airport,PG,PG-EHG,yes,GKA
+Gurney Airport,PG,PG-MBA,yes,GUR
+Girua Airport,PG,PG-NPP,yes,PNP
+Hoskins Airport,PG,PG-WBK,yes,HKN
+Aropa Airport,PG,PG-NSB,yes,KIE
+Losuia Airport,PG,PG-MBA,yes,LSA
+Kiunga Airport,PG,PG-WPD,yes,UNG
+Kikori Airport,PG,PG-GPK,yes,KRI
+Kerema Airport,PG,PG-GPK,yes,KMA
+Kavieng Airport,PG,PG-NIK,yes,KVG
+Londolovit Airport,PG,PG-NIK,yes,LNV
+Madang Airport,PG,PG-MPM,yes,MAG
+Mount Hagen Kagamuga Airport,PG,PG-WHM,yes,HGU
+Mendi Airport,PG,PG-SHM,yes,MDU
+Momote Airport,PG,PG-MRL,yes,MAS
+Moro Airport,PG,PG-SHM,yes,MXH
+Misima Island Airport,PG,PG-MBA,yes,MIS
+Nadzab Airport,PG,PG-MPL,yes,LAE
+Port Moresby Jacksons International Airport,PG,PG-NCD,yes,POM
+Tari Airport,PG,PG-HE,yes,TIZ
+Tabubil Airport,PG,PG-WPD,yes,TBG
+Tapini Airport,PG,PG-CPM,yes,TPI
+Tokua Airport,PG,PG-EBR,yes,RAB
+Vanimo Airport,PG,PG-SAN,yes,VAI
+Wapenamanda Airport,PG,PG-EPW,yes,WBM
+Wewak International Airport,PG,PG-ESW,yes,WWK
+Woitape Airport,PG,PG-CPM,yes,WTP
+Yasuru Airport,PG,PG-MPL,yes,KSX
+Aasiaat Airport,GL,GL-QK,yes,JEG
+Narsarsuaq Airport,GL,GL-KU,yes,UAK
+Neerlerit Inaat Airport,GL,GL-SE,yes,CNP
+Nuuk Airport,GL,GL-SE,yes,GOH
+Ilulissat Airport,GL,GL-AV,yes,JAV
+Kulusuk Airport,GL,GL-SE,yes,KUS
+Maniitsoq Airport,GL,GL-QA,yes,JSU
+Paamiut Airport,GL,GL-SE,yes,JFR
+Qaanaaq Airport,GL,GL-AV,yes,NAQ
+Kangerlussuaq Airport,GL,GL-QA,yes,SFJ
+Sisimiut Airport,GL,GL-QA,yes,JHS
+Pituffik Space Base,GL,GL-AV,yes,THU
+Upernavik Airport,GL,GL-AV,yes,JUV
+Qaarsut Airport,GL,GL-AV,yes,JQA
+Akureyri Airport,IS,IS-6,yes,AEY
+Egilsstaðir Airport,IS,IS-7,yes,EGS
+Grímsey Airport,IS,IS-6,yes,GRY
+Hornafjörður Airport,IS,IS-8,yes,HFN
+Húsavík Airport,IS,IS-6,yes,HZK
+Ísafjörður Airport,IS,IS-4,yes,IFJ
+Keflavik International Airport,IS,IS-2,yes,KEF
+Reykjavik Airport,IS,IS-1,yes,RKV
+Þórshöfn Airport,IS,IS-6,yes,THO
+Vopnafjörður Airport,IS,IS-7,yes,VPN
+Bentota River Waterdrome,LK,LK-1,yes,BJT
+Priština Adem Jashari International Airport,XK,XK-01,yes,PRN
+Rurrenabaque Airport,BO,BO-B,yes,RBQ
+Bosset Airport,PG,PG-WPD,yes,BOT
+Pedro Vieira Moreira Airport,BR,BR-PB,yes,CJZ
+Glauber de Andrade Rocha Airport,BR,BR-BA,yes,VDC
+Bimini North Seaplane Base,BS,BS-BI,yes,NSB
+Hector Silva Airstrip,BZ,BZ-CY,yes,BCV
+Caye Caulker Airport,BZ,BZ-BZ,yes,CUK
+Caye Chapel Airport,BZ,BZ-BZ,yes,CYC
+Corozal Municipal Airport,BZ,BZ-CZL,yes,CZH
+Dangriga Airport,BZ,BZ-SC,yes,DGA
+Independence Airport,BZ,BZ-SC,yes,INB
+Placencia Airport,BZ,BZ-SC,yes,PLJ
+Punta Gorda Airport,BZ,BZ-TOL,yes,PND
+Sartaneja Airport,BZ,BZ-CZL,yes,SJX
+John Greif II Airport,BZ,BZ-CY,yes,SPR
+Sir Barry Bowen Municipal Airport,BZ,BZ-BZ,yes,TZA
+Montague Harbour Seaplane Base,CA,CA-BC,yes,YMF
+Bedwell Harbour Seaplane Base,CA,CA-BC,yes,YBW
+Tofino Harbour Seaplane Base,CA,CA-BC,yes,YTP
+Nanaimo Harbour Water Aerodrome,CA,CA-BC,yes,ZNA
+Trail Regional Airport,CA,CA-BC,yes,YZZ
+Campbell River Seaplane Base,CA,CA-BC,yes,YHH
+Whistler/Green Lake Water Aerodrome,CA,CA-BC,yes,YWS
+Bamfield Seaplane Base,CA,CA-BC,yes,YBF
+Big Bay Seaplane Base,CA,CA-BC,yes,YIG
+Anahim Lake Airport,CA,CA-BC,yes,YAA
+Powell Lake Seaplane Base,CA,CA-BC,yes,WPL
+Qualicum Beach Airport,CA,CA-BC,yes,XQU
+Port McNeill Airport,CA,CA-BC,yes,YMP
+Sullivan Bay Seaplane Base,CA,CA-BC,yes,YTG
+Ganges Seaplane Base,CA,CA-BC,yes,YGG
+Cache Creek-Ashcroft Regional Airport,CA,CA-BC,yes,YZA
+Bella Bella (Campbell Island) Airport,CA,CA-BC,yes,ZEL
+Williams Harbour Airport,CA,CA-NL,yes,YWM
+Postville Airport,CA,CA-NL,yes,YSO
+Black Tickle Airport,CA,CA-NL,yes,YBI
+Charlottetown Airport,CA,CA-NL,yes,YHG
+St. Lewis (Fox Harbour) Airport,CA,CA-NL,yes,YFX
+Port Hope Simpson Airport,CA,CA-NL,yes,YHA
+Rigolet Airport,CA,CA-NL,yes,YRG
+Whatì Airport,CA,CA-NT,yes,YLE
+Wekweètì Airport,CA,CA-NT,yes,YFJ
+Craig Seaplane Base,US,US-AK,yes,CGA
+Summer Beaver Airport,CA,CA-ON,yes,SUR
+Crooked Creek Airport,US,US-AK,yes,CKD
+Wapekeka Airport,CA,CA-ON,yes,YAX
+Wunnumin Lake Airport,CA,CA-ON,yes,WNN
+North Spirit Lake Airport,CA,CA-ON,yes,YNO
+Chicken Airport,US,US-AK,yes,CKX
+Tangshan Sannühe Airport,CN,CN-13,yes,TVS
+Zhangjiakou Ningyuan Airport,CN,CN-13,yes,ZQZ
+Baoshan Yunrui Airport,CN,CN-53,yes,BSD
+Lincang Boshang Airport,CN,CN-53,yes,LNJ
+Xigaze Peace Airport / Shigatse Air Base,CN,CN-54,yes,RKZ
+Panzhihua Bao'anying Airport,CN,CN-51,yes,PZI
+Foshan Shadi Airport,CN,CN-44,yes,FUO
+Bazhong Enyang Airport,CN,CN-51,yes,BZX
+Xinyang Minggang Airport,CN,CN-41,yes,XAI
+Huizhou Pingtan Airport,CN,CN-44,yes,HUZ
+Shaoguan Danxia Airport,CN,CN-44,yes,HSC
+Jinggangshan Airport,CN,CN-36,yes,JGS
+Baise Youjiang Airport,CN,CN-45,yes,AEB
+Lianyungang Huaguoshan International Airport,CN,CN-32,yes,LYG
+Altay Xuedu Airport,CN,CN-65,yes,AAT
+Tianshui Maijishan Airport,CN,CN-62,yes,THQ
+Zhangye Ganzhou Airport,CN,CN-62,yes,YZY
+Dandong Langtou Airport,CN,CN-21,yes,DDG
+Rikaze Dingri Airport,CN,CN-54,yes,DDR
+Tashikuergan Hongqilafu Airport,CN,CN-65,yes,HQL
+Zhanjiang Wuchuan Airport,CN,CN-44,yes,ZHA
+Zhaosu Tianma Airport,CN,CN-65,yes,ZFL
+Nantong Xingdong International Airport,CN,CN-32,yes,NTG
+Bearskin Lake Airport,CA,CA-ON,yes,XBE
+Natuashish Airport,CA,CA-NL,yes,YNP
+Kingfisher Lake Airport,CA,CA-ON,yes,KIF
+Ogoki Post Airport,CA,CA-ON,yes,YOG
+La Chorrera Airport,CO,CO-AMA,yes,LCR
+Tarapacá Airport,CO,CO-AMA,yes,TCD
+Poplar Hill Airport,CA,CA-ON,yes,YHP
+Keewaywin Airport,CA,CA-ON,yes,KEW
+Chisasibi Airport,CA,CA-QC,yes,YKU
+Tête-à-la-Baleine Airport,CA,CA-QC,yes,ZTB
+Kégashka Airport,CA,CA-QC,yes,ZKG
+La Romaine Airport,CA,CA-QC,yes,ZGS
+La Tabatière Airport,CA,CA-QC,yes,ZLT
+Lefkoniko Airport / Geçitkale Air Base,CY,CY-03,yes,GEC
+Arctic Bay Airport,CA,CA-NU,yes,YAB
+Cat Lake Airport,CA,CA-ON,yes,YAC
+Fort Frances Municipal Airport,CA,CA-ON,yes,YAG
+Alert Bay Airport,CA,CA-BC,yes,YAL
+Sault Ste Marie Airport,CA,CA-ON,yes,YAM
+Kasabonika Airport,CA,CA-ON,yes,XKS
+Kangirsuk Airport,CA,CA-QC,yes,YKG
+Attawapiskat Airport,CA,CA-ON,yes,YAT
+St. Anthony Airport,CA,CA-NL,yes,YAY
+Tofino / Long Beach Airport,CA,CA-BC,yes,YAZ
+Kugaaruk Airport,CA,CA-NU,yes,YBB
+Baie-Comeau Airport,CA,CA-QC,yes,YBC
+Bella Coola Airport,CA,CA-BC,yes,QBC
+Uranium City Airport,CA,CA-SK,yes,YBE
+Bonnyville Airport,CA,CA-AB,yes,YBY
+CFB Bagotville / Saguenay-Bagotville Airport,CA,CA-QC,yes,YBG
+Baker Lake Airport,CA,CA-NU,yes,YBK
+Campbell River Airport,CA,CA-BC,yes,YBL
+Tadoule Lake Airport,CA,CA-MB,yes,XTL
+Brandon Municipal Airport,CA,CA-MB,yes,YBR
+Brochet Airport,CA,CA-MB,yes,YBT
+Berens River Airport,CA,CA-MB,yes,YBV
+Lourdes-de-Blanc-Sablon Airport,CA,CA-QC,yes,YBX
+Cartwright Airport,CA,CA-NL,yes,YRF
+Cambridge Bay Airport,CA,CA-NU,yes,YCB
+Nanaimo Airport,CA,CA-BC,yes,YCD
+Castlegar/West Kootenay Regional Airport,CA,CA-BC,yes,YCG
+Miramichi Airport,CA,CA-NB,yes,YCH
+Charlo Airport,CA,CA-NB,yes,YCL
+Kugluktuk Airport,CA,CA-NU,yes,YCO
+Cross Lake (Charlie Sinclair Memorial) Airport,CA,CA-MB,yes,YCR
+Chesterfield Inlet Airport,CA,CA-NU,yes,YCS
+Clyde River Airport,CA,CA-NU,yes,YCY
+Dawson City Airport,CA,CA-YT,yes,YDA
+Deer Lake Airport,CA,CA-NL,yes,YDF
+Dease Lake Airport,CA,CA-BC,yes,YDL
+Dauphin Barker Airport,CA,CA-MB,yes,YDN
+Nain Airport,CA,CA-NL,yes,YDP
+Edmonton International Airport,CA,CA-AB,yes,YEG
+Arviat Airport,CA,CA-NU,yes,YEK
+Fort Severn Airport,CA,CA-ON,yes,YER
+Inuvik Mike Zubko Airport,CA,CA-NT,yes,YEV
+Fort Albany Airport,CA,CA-ON,yes,YFA
+Iqaluit Airport,CA,CA-NU,yes,YFB
+Fredericton Airport,CA,CA-NB,yes,YFC
+Fort Hope Airport,CA,CA-ON,yes,YFH
+Flin Flon Airport,CA,CA-MB,yes,YFO
+Fort Simpson Airport,CA,CA-NT,yes,YFS
+Makkovik Airport,CA,CA-NL,yes,YMN
+Fort Good Hope Airport,CA,CA-NT,yes,YGH
+La Grande Rivière Airport,CA,CA-QC,yes,YGL
+Gods Lake Narrows Airport,CA,CA-MB,yes,YGO
+Michel-Pouliot Gaspé Airport,CA,CA-QC,yes,YGP
+Îles-de-la-Madeleine Airport,CA,CA-QC,yes,YGR
+Igloolik Airport,CA,CA-NU,yes,YGT
+Havre-Saint-Pierre Airport,CA,CA-QC,yes,YGV
+Kuujjuarapik Airport,CA,CA-QC,yes,YGW
+Gillam Airport,CA,CA-MB,yes,YGX
+Grise Fiord Airport,CA,CA-NU,yes,YGZ
+Quaqtaq Airport,CA,CA-QC,yes,YQC
+Vancouver Harbour Water Aerodrome,CA,CA-BC,yes,CXH
+Dryden Regional Airport,CA,CA-ON,yes,YHD
+Nemiscau Airport,CA,CA-QC,yes,YNS
+Ulukhaktok Holman Airport,CA,CA-NT,yes,YHI
+Gjoa Haven Airport,CA,CA-NU,yes,YHK
+John C. Munro Hamilton International Airport,CA,CA-ON,yes,YHM
+Hopedale Airport,CA,CA-NL,yes,YHO
+Chevery Airport,CA,CA-QC,yes,YHR
+Montréal / Saint-Hubert Airport,CA,CA-QC,yes,YHU
+Hay River / Merlyn Carter Airport,CA,CA-NT,yes,YHY
+Halifax / Stanfield International Airport,CA,CA-NS,yes,YHZ
+St Augustin Airport,CA,CA-QC,yes,YIF
+Ivujivik Airport,CA,CA-QC,yes,YIK
+Pond Inlet Airport,CA,CA-NU,yes,YIO
+Island Lake Airport,CA,CA-MB,yes,YIV
+Kamloops John Moose Fulton Field Regional Airport,CA,CA-BC,yes,YKA
+Aklavik/Freddie Carmichael Airport,CA,CA-NT,yes,LAK
+Region of Waterloo International Airport,CA,CA-ON,yes,YKF
+Kangiqsujuaq (Wakeham Bay) Airport,CA,CA-QC,yes,YWB
+Schefferville Airport,CA,CA-QC,yes,YKL
+Akulivik Airport,CA,CA-QC,yes,AKV
+Waskaganish Airport,CA,CA-QC,yes,YKQ
+Aupaluk Airport,CA,CA-QC,yes,YPJ
+Kimmirut Airport,CA,CA-NU,yes,YLC
+Lansdowne House Airport,CA,CA-ON,yes,YLH
+Lutselk'e Airport,CA,CA-NT,yes,YSG
+Lloydminster Airport,CA,CA-AB,yes,YLL
+Barrie-Lake Simcoe Regional Airport,CA,CA-ON,yes,YLK
+Kangiqsualujjuaq (Georges River) Airport,CA,CA-QC,yes,XGR
+Kelowna International Airport,CA,CA-BC,yes,YLW
+Chatham Seaplane Base,US,US-AK,yes,CYM
+Mary's Harbour Airport,CA,CA-NL,yes,YMH
+Fort McMurray Airport,CA,CA-AB,yes,YMM
+Moosonee Airport,CA,CA-ON,yes,YMO
+Chapais Airport,CA,CA-QC,yes,YMT
+Umiujaq Airport,CA,CA-QC,yes,YUD
+Natashquan Airport,CA,CA-QC,yes,YNA
+Wemindji Airport,CA,CA-QC,yes,YNC
+Ottawa / Gatineau Airport,CA,CA-QC,yes,YND
+Norway House Airport,CA,CA-MB,yes,YNE
+Points North Landing Airport,CA,CA-SK,yes,YNL
+Old Crow Airport,CA,CA-YT,yes,YOC
+Oxford House Airport,CA,CA-MB,yes,YOH
+High Level Airport,CA,CA-AB,yes,YOJ
+Ottawa Macdonald-Cartier International Airport,CA,CA-ON,yes,YOW
+Prince Albert Glass Field,CA,CA-SK,yes,YPA
+Paulatuk (Nora Aliqatchialuk Ruben) Airport,CA,CA-NT,yes,YPC
+Peace River Airport,CA,CA-AB,yes,YPE
+Inukjuak Airport,CA,CA-QC,yes,YPH
+Pickle Lake Airport,CA,CA-ON,yes,YPL
+Pikangikum Airport,CA,CA-ON,yes,YPM
+Port-Menier Airport,CA,CA-QC,yes,YPN
+Peawanuck Airport,CA,CA-ON,yes,YPO
+Prince Rupert Airport,CA,CA-BC,yes,YPR
+Powell River Airport,CA,CA-BC,yes,YPW
+Puvirnituq Airport,CA,CA-QC,yes,YPX
+Fort Chipewyan Airport,CA,CA-AB,yes,YPY
+Burns Lake Airport,CA,CA-BC,yes,YPZ
+Muskoka Airport,CA,CA-ON,yes,YQA
+Quebec Jean Lesage International Airport,CA,CA-QC,yes,YQB
+The Pas Airport,CA,CA-MB,yes,YQD
+Windsor Airport,CA,CA-ON,yes,YQG
+Watson Lake Airport,CA,CA-YT,yes,YQH
+Kenora Airport,CA,CA-ON,yes,YQK
+Lethbridge County Airport,CA,CA-AB,yes,YQL
+Greater Moncton Roméo LeBlanc International Airport,CA,CA-NB,yes,YQM
+Nakina Airport,CA,CA-ON,yes,YQN
+Comox Valley Airport / CFB Comox,CA,CA-BC,yes,YQQ
+Regina International Airport,CA,CA-SK,yes,YQR
+Thunder Bay Airport,CA,CA-ON,yes,YQT
+Grande Prairie Airport,CA,CA-AB,yes,YQU
+Gander International Airport / CFB Gander,CA,CA-NL,yes,YQX
+Sydney / J.A. Douglas McCurdy Airport,CA,CA-NS,yes,YQY
+Quesnel Airport,CA,CA-BC,yes,YQZ
+Rae Lakes Airport,CA,CA-NT,yes,YRA
+Resolute Bay Airport,CA,CA-NU,yes,YRB
+Roberval Airport,CA,CA-QC,yes,YRJ
+Red Lake Airport,CA,CA-ON,yes,YRL
+Red Sucker Lake Airport,CA,CA-MB,yes,YRS
+Rankin Inlet Airport,CA,CA-NU,yes,YRT
+Sudbury Airport,CA,CA-ON,yes,YSB
+Stony Rapids Airport,CA,CA-SK,yes,YSF
+Saint John Airport,CA,CA-NB,yes,YSJ
+Sanikiluaq Airport,CA,CA-NU,yes,YSK
+Fort Smith Airport,CA,CA-NT,yes,YSM
+Niagara District Airport,CA,CA-ON,yes,YCM
+St. Theresa Point Airport,CA,CA-MB,yes,YST
+Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,CA,CA-NT,yes,YSY
+Cape Dorset Airport,CA,CA-NU,yes,YTE
+Thompson Airport,CA,CA-MB,yes,YTH
+Big Trout Lake Airport,CA,CA-ON,yes,YTL
+Tasiujaq Airport,CA,CA-QC,yes,YTQ
+Timmins/Victor M. Power,CA,CA-ON,yes,YTS
+Billy Bishop Toronto City Centre Airport,CA,CA-ON,yes,YTZ
+Montreal / Pierre Elliott Trudeau International Airport,CA,CA-QC,yes,YUL
+Naujaat Airport,CA,CA-NU,yes,YUT
+Hall Beach Airport,CA,CA-NU,yes,YUX
+Rouyn Noranda Airport,CA,CA-QC,yes,YUY
+Bonaventure Airport,CA,CA-QC,yes,YVB
+La Ronge Airport,CA,CA-SK,yes,YVC
+Tommy Kochon Airport,CA,CA-NT,yes,YCK
+Qikiqtarjuaq Airport,CA,CA-NU,yes,YVM
+Val-d'Or Airport,CA,CA-QC,yes,YVO
+Kuujjuaq Airport,CA,CA-QC,yes,YVP
+Norman Wells Airport,CA,CA-NT,yes,YVQ
+Vancouver International Airport,CA,CA-BC,yes,YVR
+Wiarton Airport,CA,CA-ON,yes,YVV
+Deer Lake Airport,CA,CA-ON,yes,YVZ
+Winnipeg / James Armstrong Richardson International Airport,CA,CA-MB,yes,YWG
+Victoria Harbour Seaplane Base,CA,CA-BC,yes,YWH
+Déline Airport,CA,CA-NT,yes,YWJ
+Wabush Airport,CA,CA-NL,yes,YWK
+Williams Lake Airport,CA,CA-BC,yes,YWL
+Webequie Airport,CA,CA-ON,yes,YWP
+Cranbrook/Canadian Rockies International Airport,CA,CA-BC,yes,YXC
+Saskatoon John G. Diefenbaker International Airport,CA,CA-SK,yes,YXE
+Medicine Hat Regional Airport,CA,CA-AB,yes,YXH
+Fort St John / North Peace Regional Airport,CA,CA-BC,yes,YXJ
+Rimouski Airport,CA,CA-QC,yes,YXK
+Sioux Lookout Airport,CA,CA-ON,yes,YXL
+Whale Cove Airport,CA,CA-NU,yes,YXN
+Pangnirtung Airport,CA,CA-NU,yes,YXP
+Prince George Airport,CA,CA-BC,yes,YXS
+Northwest Regional Airport Terrace-Kitimat,CA,CA-BC,yes,YXT
+London Airport,CA,CA-ON,yes,YXU
+Abbotsford International Airport,CA,CA-BC,yes,YXX
+Whitehorse / Erik Nielsen International Airport,CA,CA-YT,yes,YXY
+North Bay Jack Garland Airport,CA,CA-ON,yes,YYB
+Calgary International Airport,CA,CA-AB,yes,YYC
+Smithers Airport,CA,CA-BC,yes,YYD
+Fort Nelson Airport,CA,CA-BC,yes,YYE
+Penticton Airport,CA,CA-BC,yes,YYF
+Charlottetown Airport,CA,CA-PE,yes,YYG
+Taloyoak Airport,CA,CA-NU,yes,YYH
+Victoria International Airport,CA,CA-BC,yes,YYJ
+Lynn Lake Airport,CA,CA-MB,yes,YYL
+Churchill Airport,CA,CA-MB,yes,YYQ
+Goose Bay Airport,CA,CA-NL,yes,YYR
+St. John's International Airport,CA,CA-NL,yes,YYT
+Mont Joli Airport,CA,CA-QC,yes,YYY
+Toronto Lester B. Pearson International Airport,CA,CA-ON,yes,YYZ
+Yellowknife International Airport,CA,CA-NT,yes,YZF
+Salluit Airport,CA,CA-QC,yes,YZG
+Sandspit Airport,CA,CA-BC,yes,YZP
+Coral Harbour Airport,CA,CA-NU,yes,YZS
+Port Hardy Airport,CA,CA-BC,yes,YZT
+Whitecourt Airport,CA,CA-AB,yes,YZU
+Sept-Îles Airport,CA,CA-QC,yes,YZV
+York Landing Airport,CA,CA-MB,yes,ZAC
+Ilford Airport,CA,CA-MB,yes,ILF
+Bathurst Airport,CA,CA-NB,yes,ZBF
+Eastmain River Airport,CA,CA-QC,yes,ZEM
+Fond-du-Lac Airport,CA,CA-SK,yes,ZFD
+Pukatawagan Airport,CA,CA-MB,yes,XPK
+Fort Mcpherson Airport,CA,CA-NT,yes,ZFM
+Tulita Airport,CA,CA-NT,yes,ZFN
+Gods River Airport,CA,CA-MB,yes,ZGI
+Little Grand Rapids Airport,CA,CA-MB,yes,ZGR
+Kashechewan Airport,CA,CA-ON,yes,ZKE
+Muskrat Dam Airport,CA,CA-ON,yes,MSA
+Masset Airport,CA,CA-BC,yes,ZMT
+Chisana Airport,US,US-AK,yes,CZN
+Poplar River Airport,CA,CA-MB,yes,XPP
+Sachigo Lake Airport,CA,CA-ON,yes,ZPB
+Round Lake (Weagamow Lake) Airport,CA,CA-ON,yes,ZRJ
+Sandy Lake Airport,CA,CA-ON,yes,ZSJ
+South Indian Lake Airport,CA,CA-MB,yes,XSI
+Bloodvein River Airport,CA,CA-MB,yes,YDV
+Shamattawa Airport,CA,CA-MB,yes,ZTM
+Churchill Falls Airport,CA,CA-NL,yes,ZUM
+Lac Brochet Airport,CA,CA-MB,yes,XLB
+Wollaston Lake Airport,CA,CA-SK,yes,ZWL
+Delta Junction Airport,US,US-AK,yes,DJN
+Soummam–Abane Ramdane Airport,DZ,DZ-06,yes,BJA
+Houari Boumediene Airport,DZ,DZ-16,yes,ALG
+Djanet Inedbirene Airport,DZ,DZ-56,yes,DJG
+Illizi Takhamalt Airport,DZ,DZ-33,yes,VVZ
+Ain Arnat Airport,DZ,DZ-19,yes,QSF
+Aguenar – Hadj Bey Akhamok Airport,DZ,DZ-11,yes,TMR
+Jijel Ferhat Abbas Airport,DZ,DZ-18,yes,GJL
+Annaba Rabah Bitat Airport,DZ,DZ-23,yes,AAE
+Mohamed Boudiaf International Airport,DZ,DZ-25,yes,CZL
+Cheikh Larbi Tébessi Airport,DZ,DZ-12,yes,TEE
+Batna Mostefa Ben Boulaid Airport,DZ,DZ-05,yes,BLJ
+Hassi R'Mel Airport,DZ,DZ-03,yes,HRM
+Tindouf Airport,DZ,DZ-37,yes,TIN
+Chlef Aboubakr Belkaid International Airport,DZ,DZ-02,yes,CFK
+Zenata – Messali El Hadj Airport,DZ,DZ-13,yes,TLM
+Oran Es-Sénia (Ahmed Ben Bella) International Airport,DZ,DZ-31,yes,ORN
+Béchar Boudghene Ben Ali Lotfi Airport,DZ,DZ-08,yes,CBH
+Bordj Badji Mokhtar Airport,DZ,DZ-52,yes,BMW
+Touat Cheikh Sidi Mohamed Belkebir Airport,DZ,DZ-01,yes,AZR
+Biskra - Mohamed Khider Airport,DZ,DZ-07,yes,BSK
+El Golea Airport,DZ,DZ-50,yes,ELG
+Noumérat - Moufdi Zakaria Airport,DZ,DZ-47,yes,GHA
+Hassi Messaoud-Oued Irara Krim Belkacem Airport,DZ,DZ-30,yes,HME
+In Salah Airport,DZ,DZ-57,yes,INZ
+Touggourt Sidi Madhi Airport,DZ,DZ-55,yes,TGR
+Guemar Airport,DZ,DZ-39,yes,ELU
+Timimoun Airport,DZ,DZ-54,yes,TMX
+Ain Beida Airport,DZ,DZ-30,yes,OGX
+Zarzaitine - In Aménas Airport,DZ,DZ-33,yes,IAM
+Cadjehoun Airport,BJ,BJ-AQ,yes,COO
+Baicheng Chang'an Airport,CN,CN-22,yes,DBC
+Nop Goliat Dekai Airport,ID,ID-PP,yes,DEX
+Ouagadougou Airport,BF,BF-KAD,yes,OUA
+Bobo Dioulasso Airport,BF,BF-HOU,yes,BOY
+Kotoka International Airport,GH,GH-AA,yes,ACC
+Tamale Airport,GH,GH-NP,yes,TML
+Kumasi Airport,GH,GH-AH,yes,KMS
+Sunyani Airport,GH,GH-BO,yes,NYI
+Takoradi Airport,GH,GH-WP,yes,TKD
+Deer Harbor SPB,US,US-WA,yes,DHB
+Félix-Houphouët-Boigny International Airport,CI,CI-AB,yes,ABJ
+Bouaké Airport,CI,CI-VB,yes,BYK
+Dalnerechensk Airport,RU,RU-PRI,yes,DLR
+Nnamdi Azikiwe International Airport,NG,NG-FC,yes,ABV
+Akwa Ibom International Airport,NG,NG-AK,yes,QUO
+Akure Airport,NG,NG-ON,yes,AKR
+Sir Abubakar Tafawa Balewa International Airport,NG,NG-BA,yes,BCU
+Benin Airport,NG,NG-ED,yes,BNI
+Margaret Ekpo International Airport,NG,NG-CR,yes,CBQ
+Akanu Ibiam International Airport,NG,NG-EN,yes,ENU
+Ibadan Airport,NG,NG-OY,yes,IBA
+Ilorin International Airport,NG,NG-KW,yes,ILR
+Sam Mbakwe International Airport,NG,NG-IM,yes,QOW
+Yakubu Gowon Airport,NG,NG-PL,yes,JOS
+Kaduna Airport,NG,NG-KD,yes,KAD
+Mallam Aminu International Airport,NG,NG-KN,yes,KAN
+Maiduguri International Airport,NG,NG-BO,yes,MIU
+Makurdi Airport,NG,NG-BE,yes,MDI
+Murtala Muhammed International Airport,NG,NG-LA,yes,LOS
+Port Harcourt International Airport,NG,NG-RI,yes,PHC
+Sadiq Abubakar III International Airport,NG,NG-SO,yes,SKO
+Yola Airport,NG,NG-AD,yes,YOL
+Deputatskiy Airport,RU,RU-SA,yes,DPT
+Daqing Sa'ertu Airport,CN,CN-23,yes,DQA
+Diori Hamani International Airport,NE,NE-8,yes,NIM
+Mano Dayak International Airport,NE,NE-1,yes,AJY
+Zinder Airport,NE,NE-7,yes,ZND
+Tabarka-Aïn Draham International Airport,TN,TN-32,yes,TBJ
+Monastir Habib Bourguiba International Airport,TN,TN-52,yes,MIR
+Enfidha - Hammamet International Airport,TN,TN-51,yes,NBE
+Tunis Carthage International Airport,TN,TN-11,yes,TUN
+Gafsa Ksar International Airport,TN,TN-71,yes,GAF
+Gabès Matmata International Airport,TN,TN-81,yes,GAE
+Djerba Zarzis International Airport,TN,TN-82,yes,DJE
+Sfax Thyna International Airport,TN,TN-61,yes,SFA
+Tozeur Nefta International Airport,TN,TN-72,yes,TOE
+Diyawanna Oya Seaplane Base,LK,LK-1,yes,DWO
+Lomé–Tokoin International Airport,TG,TG-M,yes,LFW
+Dazhou Jinya Airport,CN,CN-51,yes,DZH
+Antwerp International Airport (Deurne),BE,BE-VAN,yes,ANR
+Brussels Airport,BE,BE-VBR,yes,BRU
+Brussels South Charleroi Airport,BE,BE-WHT,yes,CRL
+Liège Airport,BE,BE-WLG,yes,LGG
+Oostende-Brugge International Airport,BE,BE-VWV,yes,OST
+Edna Bay Seaplane Base,US,US-AK,yes,EDA
+Heringsdorf Airport,DE,DE-MV,yes,HDF
+Berlin Brandenburg Airport,DE,DE-BR,yes,BER
+Dresden Airport,DE,DE-SN,yes,DRS
+Erfurt-Weimar Airport,DE,DE-TH,yes,ERF
+Frankfurt Airport,DE,DE-HE,yes,FRA
+Münster Osnabrück Airport,DE,DE-NW,yes,FMO
+Hamburg Helmut Schmidt Airport,DE,DE-HH,yes,HAM
+Cologne Bonn Airport,DE,DE-NW,yes,CGN
+Düsseldorf Airport,DE,DE-NW,yes,DUS
+Munich Airport,DE,DE-BY,yes,MUC
+Nuremberg Airport,DE,DE-BY,yes,NUE
+Leipzig/Halle Airport,DE,DE-SN,yes,LEJ
+Saarbrücken Airport,DE,DE-SL,yes,SCN
+Stuttgart Airport,DE,DE-BW,yes,STR
+Hannover Airport,DE,DE-NI,yes,HAJ
+Bremen Airport,DE,DE-HB,yes,BRE
+Frankfurt-Hahn Airport,DE,DE-RP,yes,HHN
+Mannheim-City Airport,DE,DE-BW,yes,MHG
+Lübeck Blankensee Airport,DE,DE-SH,yes,LBC
+Memmingen Allgau Airport,DE,DE-BY,yes,FMM
+Paderborn Lippstadt Airport,DE,DE-NW,yes,PAD
+Weeze Airport,DE,DE-NW,yes,NRN
+Dortmund Airport,DE,DE-NW,yes,DTM
+Friedrichshafen Airport,DE,DE-BW,yes,FDH
+Karlsruhe Baden-Baden Airport,DE,DE-BW,yes,FKB
+Kassel Airport,DE,DE-HE,yes,KSF
+Emden Airport,DE,DE-NI,yes,EME
+Wangerooge Airport,DE,DE-NI,yes,AGE
+Juist Airport,DE,DE-NI,yes,JUI
+Borkum Airport,DE,DE-NI,yes,BMK
+Norden-Norddeich Airport,DE,DE-NI,yes,NOD
+Norderney Airport,DE,DE-NI,yes,NRD
+Baltrum Airport,DE,DE-NI,yes,BMR
+Heide-Büsum Airport,DE,DE-SH,yes,HEI
+Helgoland-Düne Airport,DE,DE-SH,yes,HGL
+Westerland Sylt Airport,DE,DE-SH,yes,GWT
+Kärdla Airport,EE,EE-39,yes,KDL
+Kuressaare Airport,EE,EE-74,yes,URE
+Pärnu Airport,EE,EE-67,yes,EPU
+Lennart Meri Tallinn Airport,EE,EE-37,yes,TLL
+Tartu Airport,EE,EE-7B,yes,TAY
+Enontekio Airport,FI,FI-10,yes,ENF
+Helsinki Vantaa Airport,FI,FI-18,yes,HEL
+Ivalo Airport,FI,FI-10,yes,IVL
+Joensuu Airport,FI,FI-13,yes,JOE
+Jyväskylä Airport,FI,FI-08,yes,JYV
+Kemi-Tornio Airport,FI,FI-10,yes,KEM
+Kajaani Airport,FI,FI-05,yes,KAJ
+Kokkola-Pietarsaari Airport,FI,FI-07,yes,KOK
+Kuusamo Airport,FI,FI-14,yes,KAO
+Kittilä Airport,FI,FI-10,yes,KTT
+Kuopio Airport,FI,FI-15,yes,KUO
+Lappeenranta Airport,FI,FI-02,yes,LPP
+Mariehamn Airport,FI,FI-01,yes,MHQ
+Oulu Airport,FI,FI-14,yes,OUL
+Pori Airport,FI,FI-17,yes,POR
+Rovaniemi Airport,FI,FI-10,yes,RVN
+Savonlinna Airport,FI,FI-04,yes,SVL
+Tampere-Pirkkala Airport,FI,FI-11,yes,TMP
+Turku Airport,FI,FI-19,yes,TKU
+Vaasa Airport,FI,FI-12,yes,VAA
+Belfast International Airport,GB,GB-NIR,yes,BFS
+George Best Belfast City Airport,GB,GB-NIR,yes,BHD
+City of Derry Airport,GB,GB-NIR,yes,LDY
+Birmingham International Airport,GB,GB-ENG,yes,BHX
+Manchester Airport,GB,GB-ENG,yes,MAN
+Campbeltown Airport,GB,GB-SCT,yes,CAL
+Eday Airport,GB,GB-SCT,yes,EOI
+Fair Isle Airport,GB,GB-SCT,yes,FIE
+North Ronaldsay Airport,GB,GB-SCT,yes,NRL
+Papa Westray Airport,GB,GB-SCT,yes,PPW
+Stronsay Airport,GB,GB-SCT,yes,SOY
+Sanday Airport,GB,GB-SCT,yes,NDY
+Lerwick / Tingwall Airport,GB,GB-SCT,yes,LWK
+Westray Airport,GB,GB-SCT,yes,WRY
+Cardiff International Airport,GB,GB-WLS,yes,CWL
+Bristol Airport,GB,GB-ENG,yes,BRS
+Liverpool John Lennon Airport,GB,GB-ENG,yes,LPL
+London Luton Airport,GB,GB-ENG,yes,LTN
+Land's End Airport,GB,GB-ENG,yes,LEQ
+St. Mary's Airport,GB,GB-ENG,yes,ISC
+Bournemouth Airport,GB,GB-ENG,yes,BOH
+Southampton Airport,GB,GB-ENG,yes,SOU
+Cornwall Airport Newquay,GB,GB-ENG,yes,NQY
+Alderney Airport,GG,GG-A,yes,ACI
+Guernsey Airport,GG,GG-G,yes,GCI
+Jersey Airport,JE,JE-U-A,yes,JER
+London Gatwick Airport,GB,GB-ENG,yes,LGW
+London City Airport,GB,GB-ENG,yes,LCY
+London Heathrow Airport,GB,GB-ENG,yes,LHR
+London Southend Airport,GB,GB-ENG,yes,SEN
+Blackpool International Airport,GB,GB-ENG,yes,BLK
+Humberside Airport,GB,GB-ENG,yes,HUY
+Leeds Bradford Airport,GB,GB-ENG,yes,LBA
+Isle of Man Airport,IM,IM-U-A,yes,IOM
+Newcastle Airport,GB,GB-ENG,yes,NCL
+Teesside International Airport,GB,GB-ENG,yes,MME
+East Midlands Airport,GB,GB-ENG,yes,EMA
+Anglesey Airport,GB,GB-WLS,yes,VLY
+Kirkwall Airport,GB,GB-SCT,yes,KOI
+Sumburgh Airport,GB,GB-SCT,yes,LSI
+Wick Airport,GB,GB-SCT,yes,WIC
+Aberdeen Dyce Airport,GB,GB-SCT,yes,ABZ
+Inverness Airport,GB,GB-SCT,yes,INV
+Glasgow International Airport,GB,GB-SCT,yes,GLA
+Edinburgh Airport,GB,GB-SCT,yes,EDI
+Islay Airport,GB,GB-SCT,yes,ILY
+Glasgow Prestwick Airport,GB,GB-SCT,yes,PIK
+Benbecula Airport,GB,GB-SCT,yes,BEB
+Dundee Airport,GB,GB-SCT,yes,DND
+Stornoway Airport,GB,GB-SCT,yes,SYY
+Barra Airport,GB,GB-SCT,yes,BRR
+Tiree Airport,GB,GB-SCT,yes,TRE
+Norwich Airport,GB,GB-ENG,yes,NWI
+London Stansted Airport,GB,GB-ENG,yes,STN
+Exeter International Airport,GB,GB-ENG,yes,EXT
+Mount Pleasant Airport,FK,FK-U-A,yes,MPN
+Amsterdam Airport Schiphol,NL,NL-NH,yes,AMS
+Maastricht Aachen Airport,NL,NL-LI,yes,MST
+Eindhoven Airport,NL,NL-NB,yes,EIN
+Groningen Airport Eelde,NL,NL-DR,yes,GRQ
+Rotterdam The Hague Airport,NL,NL-ZH,yes,RTM
+Ezhou Huahu Airport,CN,CN-13,yes,EHU
+Connemara Regional Airport,IE,IE-G,yes,NNR
+Cork Airport,IE,IE-C,yes,ORK
+Galway Airport,IE,IE-G,yes,GWY
+Donegal Airport,IE,IE-DL,yes,CFN
+Dublin Airport,IE,IE-D,yes,DUB
+Inishmore Aerodrome,IE,IE-G,yes,IOR
+Inisheer Aerodrome,IE,IE-G,yes,INQ
+Ireland West Knock Airport,IE,IE-MO,yes,NOC
+Kerry Airport,IE,IE-KY,yes,KIR
+Inishmaan Aerodrome,IE,IE-G,yes,IIA
+Shannon Airport,IE,IE-CE,yes,SNN
+Ejin Banner Taolai Airport,CN,CN-15,yes,EJN
+Enejit Airport,MH,MH-MIL,yes,EJT
+Aarhus Airport,DK,DK-82,yes,AAR
+Billund Airport,DK,DK-83,yes,BLL
+Copenhagen Kastrup Airport,DK,DK-84,yes,CPH
+Esbjerg Airport,DK,DK-83,yes,EBJ
+Karup Airport,DK,DK-82,yes,KRP
+Læsø Airport,DK,DK-81,yes,BYR
+Odense Airport,DK,DK-83,yes,ODE
+Copenhagen Roskilde Airport,DK,DK-85,yes,RKE
+Bornholm Airport,DK,DK-84,yes,RNN
+Sønderborg Airport,DK,DK-83,yes,SGD
+Sindal Airport,DK,DK-81,yes,CNL
+Vágar Airport,FO,FO-U-A,yes,FAE
+Aalborg Airport,DK,DK-81,yes,AAL
+Luxembourg-Findel International Airport,LU,LU-L,yes,LUX
+"Ålesund Airport, Vigra",NO,NO-15,yes,AES
+"Andøya Airport, Andenes",NO,NO-18,yes,ANX
+Alta Airport,NO,NO-54,yes,ALF
+"Førde Airport, Bringeland",NO,NO-46,yes,FDE
+"Brønnøysund Airport, Brønnøy",NO,NO-18,yes,BNN
+Bodø Airport,NO,NO-18,yes,BOO
+"Bergen Airport, Flesland",NO,NO-46,yes,BGO
+Båtsfjord Airport,NO,NO-54,yes,BJF
+Berlevåg Airport,NO,NO-54,yes,BVG
+"Kristiansand Airport, Kjevik",NO,NO-42,yes,KRS
+Bardufoss Airport,NO,NO-54,yes,BDU
+"Harstad/Narvik Airport, Evenes",NO,NO-18,yes,EVE
+Florø Airport,NO,NO-46,yes,FRO
+"Oslo Airport, Gardermoen",NO,NO-30,yes,OSL
+"Haugesund Airport, Karmøy",NO,NO-11,yes,HAU
+Hammerfest Airport,NO,NO-54,yes,HFT
+Hasvik Airport,NO,NO-54,yes,HAA
+"Honningsvåg Airport, Valan",NO,NO-54,yes,HVG
+"Kristiansund Airport, Kvernberget",NO,NO-15,yes,KSU
+"Kirkenes Airport, Høybuktmoen",NO,NO-54,yes,KKN
+Leknes Airport,NO,NO-18,yes,LKN
+Mehamn Airport,NO,NO-54,yes,MEH
+"Molde Airport, Årø",NO,NO-15,yes,MOL
+"Mosjøen Airport, Kjærstad",NO,NO-18,yes,MJF
+"Lakselv Airport, Banak",NO,NO-54,yes,LKL
+Namsos Airport,NO,NO-50,yes,OSY
+Ørland Airport,NO,NO-50,yes,OLA
+"Ørsta-Volda Airport, Hovden",NO,NO-15,yes,HOV
+"Mo i Rana Airport, Røssvoll",NO,NO-18,yes,MQN
+"Rørvik Airport, Ryum",NO,NO-50,yes,RVK
+Røros Airport,NO,NO-50,yes,RRS
+Røst Airport,NO,NO-18,yes,RET
+"Svalbard Airport, Longyear",NO,NO-21,yes,LYR
+"Sandane Airport, Anda",NO,NO-46,yes,SDN
+"Sogndal Airport, Haukåsen",NO,NO-46,yes,SOG
+"Svolvær Airport, Helle",NO,NO-18,yes,SVJ
+"Stokmarknes Airport, Skagen",NO,NO-18,yes,SKN
+"Stord Airport, Sørstokken",NO,NO-46,yes,SRP
+Sørkjosen Airport,NO,NO-54,yes,SOJ
+"Vardø Airport, Svartnes",NO,NO-54,yes,VAW
+"Sandnessjøen Airport, Stokka",NO,NO-18,yes,SSJ
+"Tromsø Airport, Langnes",NO,NO-54,yes,TOS
+"Sandefjord Airport, Torp",NO,NO-39,yes,TRF
+"Trondheim Airport, Værnes",NO,NO-50,yes,TRD
+Vadsø Airport,NO,NO-54,yes,VDS
+Yan'an Nanniwan Airport,CN,CN-61,yes,ENY
+"Stavanger Airport, Sola",NO,NO-11,yes,SVG
+Bydgoszcz Ignacy Jan Paderewski Airport,PL,PL-KP,yes,BZG
+Gdańsk Lech Wałęsa Airport,PL,PL-PM,yes,GDN
+Kraków John Paul II International Airport,PL,PL-MA,yes,KRK
+Katowice Wojciech Korfanty International Airport,PL,PL-SL,yes,KTW
+Lublin Airport,PL,PL-LU,yes,LUZ
+Łódź Władysław Reymont Airport,PL,PL-LD,yes,LCJ
+Modlin Airport,PL,PL-MZ,yes,WMI
+Poznań-Ławica Airport,PL,PL-WP,yes,POZ
+Radom Airport,PL,PL-MZ,yes,RDO
+Rzeszów-Jasionka Airport,PL,PL-PK,yes,RZE
+"Szczecin-Goleniów ""Solidarność"" Airport",PL,PL-ZP,yes,SZZ
+Olsztyn-Mazury Airport,PL,PL-WN,yes,SZY
+Warsaw Chopin Airport,PL,PL-MZ,yes,WAW
+Copernicus Wrocław Airport,PL,PL-DS,yes,WRO
+Zielona Góra-Babimost Airport,PL,PL-LB,yes,IEG
+Ronneby Airport,SE,SE-K,yes,RNB
+Göteborg Landvetter Airport,SE,SE-Q,yes,GOT
+Jönköping Airport,SE,SE-F,yes,JKG
+Trollhättan-Vänersborg Airport,SE,SE-Q,yes,THN
+Mora Airport,SE,SE-W,yes,MXX
+Stockholm Skavsta Airport,SE,SE-D,yes,NYO
+Scandinavian Mountains Airport,SE,SE-W,yes,SCR
+Kristianstad Airport,SE,SE-M,yes,KID
+Kalmar Airport,SE,SE-H,yes,KLR
+Malmö Sturup Airport,SE,SE-M,yes,MMX
+Halmstad Airport,SE,SE-N,yes,HAD
+Växjö Kronoberg Airport,SE,SE-G,yes,VXO
+Sveg Airport,SE,SE-Z,yes,EVG
+Gällivare Airport,SE,SE-BD,yes,GEV
+Kramfors-Sollefteå Höga Kusten Airport,SE,SE-Y,yes,KRF
+Lycksele Airport,SE,SE-AC,yes,LYC
+Sundsvall-Härnösand Airport,SE,SE-Y,yes,SDL
+Örnsköldsvik Airport,SE,SE-Y,yes,OER
+Kiruna Airport,SE,SE-BD,yes,KRN
+Skellefteå Airport,SE,SE-AC,yes,SFT
+Umeå Airport,SE,SE-AC,yes,UME
+Vilhelmina South Lapland Airport,SE,SE-AC,yes,VHM
+Arvidsjaur Airport,SE,SE-BD,yes,AJR
+Åre Östersund Airport,SE,SE-Z,yes,OSD
+Örebro Airport,SE,SE-T,yes,ORB
+Hagfors Airport,SE,SE-S,yes,HFS
+Karlstad Airport,SE,SE-S,yes,KSD
+Stockholm Västerås Airport,SE,SE-U,yes,VST
+Luleå Airport,SE,SE-BD,yes,LLA
+Stockholm-Arlanda Airport,SE,SE-AB,yes,ARN
+Stockholm-Bromma Airport,SE,SE-AB,yes,BMA
+Dala Airport,SE,SE-W,yes,BLE
+Linköping City Airport,SE,SE-E,yes,LPI
+Norrköping Airport,SE,SE-E,yes,NRK
+Torsby Airport,SE,SE-S,yes,TYF
+Visby Airport,SE,SE-I,yes,VBY
+Ängelholm-Helsingborg Airport,SE,SE-M,yes,AGH
+Pajala Airport,SE,SE-BD,yes,PJA
+Hemavan Airport,SE,SE-AC,yes,HMV
+Kombolcha Airport,ET,ET-AM,yes,DSE
+Shire Inda Selassie Airport,ET,ET-TI,yes,SHC
+Nordholz Naval Airbase,DE,DE-NI,yes,FCN
+Rostock-Laage Airport,DE,DE-MV,yes,RLG
+Riga International Airport,LV,LV-062,yes,RIX
+Excursion Inlet Seaplane Base,US,US-AK,yes,EXI
+Kaunas International Airport,LT,LT-KU,yes,KUN
+Palanga International Airport,LT,LT-KL,yes,PLQ
+Vilnius International Airport,LT,LT-VL,yes,VNO
+Bram Fischer International Airport,ZA,ZA-FS,yes,BFN
+Cape Town International Airport,ZA,ZA-WC,yes,CPT
+Ben Schoeman Airport,ZA,ZA-EC,yes,ELS
+George Airport,ZA,ZA-WC,yes,GRJ
+Hoedspruit Air Force Base Airport,ZA,ZA-NP,yes,HDS
+Kimberley Airport,ZA,ZA-NC,yes,KIM
+Kruger Mpumalanga International Airport,ZA,ZA-MP,yes,MQP
+Lanseria International Airport,ZA,ZA-GT,yes,HLA
+King Shaka International Airport,ZA,ZA-NL,yes,DUR
+Malamala Airport,ZA,ZA-MP,yes,AAM
+Margate Airport,ZA,ZA-NL,yes,MGH
+Mmabatho International Airport,ZA,ZA-NW,yes,MBD
+O.R. Tambo International Airport,ZA,ZA-GT,yes,JNB
+Chief Dawid Stuurman International Airport,ZA,ZA-EC,yes,PLZ
+Plettenberg Bay Airport,ZA,ZA-WC,yes,PBZ
+Hendrik Van Eck Airport,ZA,ZA-NP,yes,PHW
+Pietermaritzburg Airport,ZA,ZA-NL,yes,PZB
+Pilanesberg International Airport,ZA,ZA-NW,yes,NTY
+Polokwane International Airport,ZA,ZA-NP,yes,PTG
+Richards Bay Airport,ZA,ZA-NL,yes,RCB
+Sishen Airport,ZA,ZA-NC,yes,SIS
+Pierre Van Ryneveld Airport,ZA,ZA-NC,yes,UTN
+K. D. Matanzima Airport,ZA,ZA-EC,yes,UTT
+P G Matante Intl,BW,BW-FR,yes,FRW
+Ghanzi Airport,BW,BW-GH,yes,GNZ
+Jwaneng Airport,BW,BW-JW,yes,JWA
+Kasane Airport,BW,BW-CH,yes,BBK
+Maun Airport,BW,BW-NW,yes,MUB
+Orapa Airport,BW,BW-CE,yes,ORP
+Sir Seretse Khama International Airport,BW,BW-GA,yes,GBE
+Selebi Phikwe Airport,BW,BW-SP,yes,PKW
+Shakawe Airport,BW,BW-NW,yes,SWX
+Tuli Lodge Airport,BW,BW-CE,yes,TLD
+Maya-Maya Airport,CG,CG-12,yes,BZV
+Ngot Nzoungou Airport,CG,CG-9,yes,DIS
+Antonio Agostinho-Neto International Airport,CG,CG-5,yes,PNR
+King Mswati III International Airport,SZ,SZ-LU,yes,SHO
+Bangui M'Poko International Airport,CF,CF-MP,yes,BGF
+Annobón Airport,GQ,GQ-AN,yes,NBN
+Bata Airport,GQ,GQ-LI,yes,BSG
+Malabo Airport,GQ,GQ-BN,yes,SSG
+RAF Ascension Island,SH,SH-AC,yes,ASI
+Saint Helena Airport,SH,SH-SH,yes,HLE
+Sir Seewoosagur Ramgoolam International Airport,MU,MU-GP,yes,MRU
+Sir Charles Gaetan Duval Airport,MU,MU-VP,yes,RRG
+Douala International Airport,CM,CM-LT,yes,DLA
+Salak Airport,CM,CM-EN,yes,MVR
+N'Gaoundéré Airport,CM,CM-AD,yes,NGE
+Garoua International Airport,CM,CM-NO,yes,GOU
+Yaoundé Nsimalen International Airport,CM,CM-CE,yes,NSI
+Chipata Airport,ZM,ZM-03,yes,CIP
+Kasama Airport,ZM,ZM-05,yes,KAA
+Harry Mwanga Nkumbula International Airport,ZM,ZM-07,yes,LVI
+Kenneth Kaunda International Airport,ZM,ZM-09,yes,LUN
+Mfuwe Airport,ZM,ZM-03,yes,MFU
+Simon Mwansa Kapwepwe International Airport,ZM,ZM-08,yes,NLA
+Solwesi Airport,ZM,ZM-06,yes,SLI
+Prince Said Ibrahim International Airport,KM,KM-G,yes,HAH
+Mohéli Bandar Es Eslam Airport,KM,KM-M,yes,NWA
+Ouani Airport,KM,KM-A,yes,AJN
+Dzaoudzi Pamandzi International Airport,YT,YT-U-A,yes,DZA
+Roland Garros Airport,RE,RE-SD,yes,RUN
+Pierrefonds Airport,RE,RE-SR,yes,ZSE
+Antsalova Airport,MG,MG-M,yes,WAQ
+Ivato Airport,MG,MG-T,yes,TNR
+Ankavandra Airport,MG,MG-U,yes,JVA
+Belo sur Tsiribihina Airport,MG,MG-U,yes,BMD
+Miandrivazo Airport,MG,MG-U,yes,ZVA
+Maintirano Airport,MG,MG-M,yes,MXT
+Morafenobe Airport,MG,MG-M,yes,TVA
+Sainte Marie Airport,MG,MG-A,yes,SMS
+Toamasina Ambalamanasy Airport,MG,MG-A,yes,TMM
+Tambohorano Airport,MG,MG-M,yes,WTA
+Morondava Airport,MG,MG-U,yes,MOQ
+Tsiroanomandidy Airport,MG,MG-T,yes,WTS
+Ambatondrazaka Airport,MG,MG-A,yes,WAM
+Arrachart Airport,MG,MG-D,yes,DIE
+Mananara Nord Airport,MG,MG-A,yes,WMR
+Port Bergé Airport,MG,MG-M,yes,WPB
+Antsirabe Airport,MG,MG-D,yes,ANM
+Analalava Airport,MG,MG-M,yes,HVA
+Amborovy Airport,MG,MG-M,yes,MJN
+Fascene Airport,MG,MG-D,yes,NOS
+Soalala Airport,MG,MG-M,yes,DWB
+Mampikony Airport,MG,MG-M,yes,WMP
+Besalampy Airport,MG,MG-M,yes,BPY
+Maroantsetra Airport,MG,MG-A,yes,WMN
+Sambava Airport,MG,MG-D,yes,SVB
+Tsaratanana Airport,MG,MG-M,yes,TTS
+Vohemar Airport,MG,MG-D,yes,VOH
+Ambalabe Airport,MG,MG-M,yes,WAI
+Mandritsara Airport,MG,MG-M,yes,WMA
+Tôlanaro Airport,MG,MG-U,yes,FTU
+Fianarantsoa Airport,MG,MG-F,yes,WFI
+Farafangana Airport,MG,MG-F,yes,RVA
+Manja Airport,MG,MG-U,yes,MJA
+Manakara Airport,MG,MG-F,yes,WVK
+Mananjary Airport,MG,MG-F,yes,MNJ
+Morombe Airport,MG,MG-U,yes,MXM
+Toliara Airport,MG,MG-U,yes,TLE
+Mbanza Congo Airport,AO,AO-ZAI,yes,SSY
+Cabinda Airport,AO,AO-CAB,yes,CAB
+Catumbela Airport,AO,AO-BGU,yes,CBT
+Funadhoo Airport,MV,MV-24,yes,FND
+Dundo Airport,AO,AO-LNO,yes,DUE
+Ngjiva Pereira Airport,AO,AO-CNN,yes,VPE
+Nova Lisboa Airport,AO,AO-HUA,yes,NOV
+Quatro de Fevereiro International Airport,AO,AO-LUA,yes,LAD
+Malanje Airport,AO,AO-MAL,yes,MEG
+Menongue Airport,AO,AO-CCU,yes,SPP
+Welwitschia Mirabilis International Airport,AO,AO-NAM,yes,MSZ
+Negage Airport,AO,AO-UIG,yes,GXG
+Soyo Airport,AO,AO-ZAI,yes,SZA
+Lubango Airport,AO,AO-HUI,yes,SDD
+Koulamoutou Mabimbi Airport,GA,GA-7,yes,KOU
+Mouilla Ville Airport,GA,GA-4,yes,MJL
+Oyem Airport,GA,GA-9,yes,OYE
+Port Gentil Airport,GA,GA-8,yes,POG
+Makokou Airport,GA,GA-6,yes,MKU
+Libreville Leon M'ba International Airport,GA,GA-1,yes,LBV
+M'Vengue El Hadj Omar Bongo Ondimba International Airport,GA,GA-2,yes,MVB
+Tchibanga Airport,GA,GA-5,yes,TCH
+Principe Airport,ST,ST-P,yes,PCP
+São Tomé International Airport,ST,ST-01,yes,TMS
+Beira Airport,MZ,MZ-S,yes,BEW
+Chimoio Airport,MZ,MZ-B,yes,VPY
+Inhambane Airport,MZ,MZ-I,yes,INH
+Lichinga Airport,MZ,MZ-A,yes,VXC
+Maputo Airport,MZ,MZ-MPM,yes,MPM
+Nampula Airport,MZ,MZ-N,yes,APL
+Pemba Airport,MZ,MZ-P,yes,POL
+Quelimane Airport,MZ,MZ-Q,yes,UEL
+Chingozi Airport,MZ,MZ-T,yes,TET
+Vilankulo Airport,MZ,MZ-I,yes,VNX
+Xai-Xai Chongoene Airport,MZ,MZ-G,yes,VJB
+Seychelles International Airport,SC,SC-20,yes,SEZ
+Praslin Airport,SC,SC-14,yes,PRI
+Sarh Airport,TD,TD-MC,yes,SRH
+Abeche Airport,TD,TD-OD,yes,AEH
+Moundou Airport,TD,TD-LO,yes,MQQ
+N'Djamena International Airport,TD,TD-ND,yes,NDJ
+Joshua Mqabuko Nkomo International Airport,ZW,ZW-BU,yes,BUQ
+Victoria Falls International Airport,ZW,ZW-MN,yes,VFA
+Robert Gabriel Mugabe International Airport,ZW,ZW-HA,yes,HRE
+Chileka International Airport,MW,MW-BL,yes,BLZ
+Lilongwe International Airport,MW,MW-LI,yes,LLW
+Moshoeshoe I International Airport,LS,LS-A,yes,MSU
+Halali Airport,,NA-OT,yes,HAL
+Katima Mulilo Airport,,NA-CA,yes,MPA
+Luderitz Airport,,NA-KA,yes,LUD
+Ondangwa Airport,,NA-ON,yes,OND
+Oranjemund Airport,,NA-KA,yes,OMD
+Rundu Airport,,NA-KE,yes,NDU
+Walvis Bay Airport,,NA-ER,yes,WVB
+Eros Airport,,NA-KH,yes,ERS
+Hosea Kutako International Airport,,NA-KH,yes,WDH
+Ndjili International Airport,CD,CD-KN,yes,FIH
+Boma Airport,CD,CD-BC,yes,BOA
+Inongo Airport,CD,CD-MN,yes,INO
+Nioki Airport,CD,CD-MN,yes,NIO
+Bandundu Airport,CD,CD-KL,yes,FDU
+Kiri Airport,CD,CD-MN,yes,KRZ
+Kikwit Airport,CD,CD-KL,yes,KKW
+Mbandaka Airport,CD,CD-EQ,yes,MDK
+Basankusu Airport,CD,CD-EQ,yes,BSU
+Gbadolite Airport,CD,CD-NU,yes,BDT
+Gemena Airport,CD,CD-SU,yes,GMA
+Boende Airport,CD,CD-TU,yes,BNB
+Bangoka International Airport,CD,CD-TO,yes,FKI
+Matari Airport,CD,CD-HU,yes,IRP
+Bunia Airport,CD,CD-IT,yes,BUX
+Goma International Airport,CD,CD-NK,yes,GOM
+Kindu Airport,CD,CD-MA,yes,KND
+Lubumbashi International Airport,CD,CD-HK,yes,FBM
+Kolwezi Airport,CD,CD-LU,yes,KWZ
+Kalemie Airport,CD,CD-TA,yes,FMI
+Kamina City Airport,CD,CD-HL,yes,KMN
+Kananga Airport,CD,CD-KC,yes,KGA
+Tshikapa Airport,CD,CD-KS,yes,TSH
+Lodja Airport,CD,CD-SA,yes,LJA
+Ilebo Airport,CD,CD-KS,yes,PFR
+Mbuji Mayi Airport,CD,CD-KE,yes,MJM
+Gamba Airport,GA,GA-8,yes,GAX
+Modibo Keita International Airport,ML,ML-2,yes,BKO
+Gao Airport,ML,ML-7,yes,GAQ
+Kayes Dag Dag Airport,ML,ML-1,yes,KYS
+Mopti Ambodédjo International Airport,ML,ML-5,yes,MZI
+Timbuktu Airport,ML,ML-7,yes,TOM
+Foula Airfield,GB,GB-SCT,yes,FOA
+Banjul International Airport,GM,GM-W,yes,BJL
+Fuerteventura Airport,ES,ES-CN,yes,FUE
+La Gomera Airport,ES,ES-CN,yes,GMZ
+El Hierro Airport,ES,ES-CN,yes,VDE
+La Palma Airport,ES,ES-CN,yes,SPC
+Gran Canaria Airport,ES,ES-CN,yes,LPA
+César Manrique-Lanzarote Airport,ES,ES-CN,yes,ACE
+Tenerife Sur Airport,ES,ES-CN,yes,TFS
+Tenerife Norte-Ciudad de La Laguna Airport,ES,ES-CN,yes,TFN
+Melilla Airport,ES,ES-ML,yes,MLN
+Camopi Airport,GF,GF-CY,yes,OYC
+Bo Airport,SL,SL-S,yes,KBS
+Kenema Airport,SL,SL-E,yes,KEN
+Lungi International Airport,SL,SL-N,yes,FNA
+Yengema Airport,SL,SL-E,yes,WYE
+Osvaldo Vieira International Airport,GW,GW-BS,yes,OXB
+Spriggs Payne Airport,LR,LR-MO,yes,MLW
+Roberts International Airport,LR,LR-MG,yes,ROB
+Al Massira Airport,MA,MA-AGD,yes,AGA
+Tan Tan Airport,MA,MA-TNT,yes,TTA
+Fes Saïss International Airport,MA,MA-FES,yes,FEZ
+Moulay Ali Cherif Airport,MA,MA-ERR,yes,ERH
+Oujda Angads Airport,MA,MA-OUJ,yes,OUD
+Smara Airport,EH,EH-U-A,yes,SMW
+Beni Mellal Airport,MA,MA-BEM,yes,BEM
+Rabat-Salé Airport,MA,MA-RBA,yes,RBA
+Dakhla Airport,EH,EH-U-A,yes,VIL
+Essaouira-Mogador Airport,MA,MA-ESI,yes,ESU
+Hassan I Airport,EH,EH-U-A,yes,EUN
+Mohammed V International Airport,MA,MA-CAS,yes,CMN
+Nador Al Aaroui International Airport,MA,MA-NAD,yes,NDR
+Menara Airport,MA,MA-MAR,yes,RAK
+Ouarzazate Airport,MA,MA-OUA,yes,OZZ
+Golog Maqên Airport,CN,CN-63,yes,GMQ
+Cherif Al Idrissi Airport,MA,MA-HOC,yes,AHU
+Sania Ramel Airport,MA,MA-TET,yes,TTU
+Tangier Ibn Battuta Airport,MA,MA-TNG,yes,TNG
+Goodnews Airport,US,US-AK,yes,GNU
+Blaise Diagne International Airport,SN,SN-DK,yes,DSS
+Ziguinchor Airport,SN,SN-ZG,yes,ZIG
+Cap Skirring Airport,SN,SN-ZG,yes,CSK
+Ouro Sogui Airport,SN,SN-MT,yes,MAX
+Saint Louis Airport,SN,SN-SL,yes,XLS
+Tambacounda Airport,SN,SN-TC,yes,TUD
+Nouakchott–Oumtounsy International Airport,MR,MR-NKC,yes,NKC
+Nouadhibou International Airport,MR,MR-08,yes,NDB
+Conakry International Airport,GN,GN-C,yes,CKY
+Amílcar Cabral International Airport,CV,CV-B,yes,SID
+Rabil Airport,CV,CV-B,yes,BVC
+Maio Airport,CV,CV-S,yes,MMO
+Nelson Mandela International Airport,CV,CV-S,yes,RAI
+São Filipe Airport,CV,CV-S,yes,SFL
+Preguiça Airport,CV,CV-B,yes,SNE
+São Pedro Airport,CV,CV-B,yes,VXE
+Botopasi Airport,SR,SR-SI,yes,BTO
+Djumu-Djomoe Airport,SR,SR-SI,yes,DOE
+Ladouanie Airport,SR,SR-SI,yes,LDO
+Addis Ababa Bole International Airport,ET,ET-AA,yes,ADD
+Arba Minch Airport,ET,ET-SN,yes,AMH
+Axum Airport,ET,ET-TI,yes,AXU
+Bahir Dar Airport,ET,ET-AM,yes,BJR
+Beica Airport,ET,ET-OR,yes,BEI
+Dembidollo Airport,ET,ET-OR,yes,DEM
+Aba Tenna Dejazmach Yilma International Airport,ET,ET-DD,yes,DIR
+Gambela Airport,ET,ET-GA,yes,GMB
+Gondar Airport,ET,ET-AM,yes,GDQ
+Gode Airport,ET,ET-SO,yes,GDE
+Gore Airport,ET,ET-OR,yes,GOR
+Wilwal International Airport,ET,ET-SO,yes,JIJ
+Jimma Airport,ET,ET-OR,yes,JIM
+Kebri Dahar Airport,ET,ET-SO,yes,ABK
+Hawassa International Airport,ET,ET-XSD,yes,AWA
+Alula Aba Nega Airport,ET,ET-TI,yes,MQX
+Mizan Teferi Airport,ET,ET-SW,yes,MTF
+Semera Airport,ET,ET-AF,yes,SZE
+Asosa Airport,ET,ET-BE,yes,ASO
+Tippi Airport,ET,ET-SW,yes,TIE
+Bujumbura Melchior Ndadaye International Airport,BI,BI-BM,yes,BJM
+Kirundo Airport,BI,BI-KI,yes,KRE
+Haibei Qilian Airport,CN,CN-63,yes,HBQ
+Hambantota Seaplane Base,LK,LK-3,yes,HBT
+Bosaso / Bender Qassim International Airport,SO,SO-BR,yes,BSA
+Egal International Airport,SO,SO-WO,yes,HGA
+Berbera Airport,SO,SO-WO,yes,BBO
+Aden Adde International Airport,SO,SO-BN,yes,MGQ
+Beledweyne Airport,SO,SO-HI,yes,BLW
+Galcaio Airport,SO,SO-MU,yes,GLK
+Garowe Airport,SO,SO-NU,yes,GGR
+Djibouti-Ambouli Airport,DJ,DJ-DJ,yes,JIB
+El Alamein International Airport,EG,EG-MT,yes,DBB
+El Arish International Airport,EG,EG-SIN,yes,AAC
+Asyut International Airport,EG,EG-AST,yes,ATZ
+Borj El Arab International Airport,EG,EG-ALX,yes,HBE
+Abu Simbel Airport,EG,EG-ASN,yes,ABS
+Cairo International Airport,EG,EG-C,yes,CAI
+Hurghada International Airport,EG,EG-BA,yes,HRG
+Luxor International Airport,EG,EG-LX,yes,LXR
+Marsa Alam International Airport,EG,EG-BA,yes,RMF
+Marsa Matruh International Airport,EG,EG-MT,yes,MUH
+Suhaj Mubarak International Airport,EG,EG-SHG,yes,HMB
+Sharm El Sheikh International Airport,EG,EG-JS,yes,SSH
+Aswan International Airport,EG,EG-ASN,yes,ASW
+Siwa Oasis North Airport,EG,EG-MT,yes,SEW
+Sphinx International Airport,EG,EG-GZ,yes,SPX
+Taba International Airport,EG,EG-JS,yes,TCP
+Asmara International Airport,ER,ER-SK,yes,ASM
+Massawa International Airport,ER,ER-SK,yes,MSW
+Assab International Airport,ER,ER-DK,yes,ASA
+Huai'an Lianshui International Airport,CN,CN-32,yes,HIA
+Shilavo Airport,ET,ET-SO,yes,HIL
+Juba International Airport,SS,SS-17,yes,JUB
+Amboseli Airport,KE,KE-700,yes,ASV
+Healy Lake Airport,US,US-AK,yes,HKB
+Eldoret International Airport,KE,KE-700,yes,EDL
+Jomo Kenyatta International Airport,KE,KE-110,yes,NBO
+Kisumu Airport,KE,KE-600,yes,KIS
+Lokichoggio Airport,KE,KE-700,yes,LKG
+Manda Airport,KE,KE-300,yes,LAU
+Mulika Lodge Airport,KE,KE-400,yes,JJM
+Malindi Airport,KE,KE-300,yes,MYD
+Moi International Airport,KE,KE-300,yes,MBA
+Mara Serena Lodge Airstrip,KE,KE-700,yes,MRE
+Nakuru Airport,KE,KE-700,yes,NUU
+Nairobi Wilson Airport,KE,KE-110,yes,WIL
+Nanyuki Airport,KE,KE-200,yes,NYK
+Wajir Airport,KE,KE-500,yes,WJR
+Sirt International Airport / Ghardabiya Airbase,LY,LY-SR,yes,SRX
+Ghat Airport,LY,LY-GT,yes,GHT
+Kufra Airport,LY,LY-KF,yes,AKF
+Benina International Airport,LY,LY-BA,yes,BEN
+Mitiga International Airport,LY,LY-TB,yes,MJI
+Al Abraq International Airport,LY,LY-JA,yes,LAQ
+Sabha Airport,LY,LY-SB,yes,SEB
+Ghadames East Airport,LY,LY-NL,yes,LTD
+Tobruk International Airport,LY,LY-BU,yes,TOB
+Kigali International Airport,RW,RW-01,yes,KGL
+Kamembe Airport,RW,RW-04,yes,KME
+Atbara Airport,SD,SD-04,yes,ATB
+Dongola Airport,SD,SD-01,yes,DOG
+El Fasher Airport,SD,SD-02,yes,ELF
+Kassala Airport,SD,SD-05,yes,KSL
+Rumbek Airport,SS,SS-18,yes,RBX
+Nyala Airport,SD,SD-11,yes,UYL
+El-Obeid Airport,SD,SD-09,yes,EBD
+Port Sudan New International Airport,SD,SD-26,yes,PZU
+Khartoum International Airport,SD,SD-03,yes,KRT
+Malakal Airport,SS,SS-23,yes,MAK
+Wau Airport,SS,SS-14,yes,WUU
+Arusha Airport,TZ,TZ-01,yes,ARK
+Bukoba Airport,TZ,TZ-05,yes,BKZ
+Julius Nyerere International Airport,TZ,TZ-02,yes,DAR
+Dodoma Airport,TZ,TZ-03,yes,DOD
+Songwe Airport,TZ,TZ-14,yes,MBI
+Kigoma Airport,TZ,TZ-08,yes,TKQ
+Kilimanjaro International Airport,TZ,TZ-01,yes,JRO
+Lindi Airport,TZ,TZ-12,yes,LDI
+Mafia Airport,TZ,TZ-19,yes,MFA
+Mtwara Airport,TZ,TZ-17,yes,MYW
+Musoma Airport,TZ,TZ-13,yes,MUZ
+Mwanza Airport,TZ,TZ-18,yes,MWZ
+Seronera Airport,TZ,TZ-13,yes,SEU
+Shinyanga Airport,TZ,TZ-22,yes,SHY
+Tabora Airport,TZ,TZ-24,yes,TBO
+Tanga Airport,TZ,TZ-25,yes,TGT
+Abeid Amani Karume International Airport,TZ,TZ-07,yes,ZNZ
+Arua Airport,UG,UG-N,yes,RUA
+Entebbe International Airport,UG,UG-C,yes,EBB
+Gulu Airport,UG,UG-N,yes,ULU
+Soroti Airport,UG,UG-E,yes,SRT
+Hollis Clark Bay Seaplane Base,US,US-AK,yes,HYL
+Notohadinegoro Airport,ID,ID-JI,yes,JBB
+Banyuwangi International Airport,ID,ID-JI,yes,BWX
+Bawean - Harun Thohir Airport,ID,ID-JI,yes,BXW
+Sangia Nibandera Airport,ID,ID-SG,yes,KXB
+Tebelian Airport,ID,ID-KB,yes,SQG
+Bolaang Mongondow Airport,ID,ID-SA,yes,LKM
+Departi Parbo Airport,ID,ID-JA,yes,KRC
+Mentawai Airport,ID,ID-SB,yes,RKI
+Tumbang Samba Airport,ID,ID-KT,yes,TBM
+Bilogai-Sugapa Airport,ID,ID-PT,yes,UGU
+Pakyong Airport,IN,IN-SK,yes,PYG
+Ayodhya Airport,IN,IN-UP,yes,AYJ
+Deoghar Airport,IN,IN-JH,yes,DGH
+Manohar International Airport,IN,IN-GA,yes,GOX
+Itanagar Donyi Polo Hollongi Airport,IN,IN-AR,yes,HGI
+Utkela Airport,IN,IN-OR,yes,UKE
+Jagdalpur Airport,IN,IN-CT,yes,JGB
+New Ishigaki Airport,JP,JP-47,yes,ISG
+Daxing'anling Elunchun Airport,CN,CN-23,yes,JGD
+Jinchang Jinchuan Airport,CN,CN-62,yes,JIC
+Jos Orno Imsula Airport,ID,ID-MA,yes,JIO
+Qianjiang Wulingshan Airport,CN,CN-50,yes,JIQ
+Comandante Ariston Pessoa Airport,BR,BR-CE,yes,JJD
+Jinzhou Bay Airport,CN,CN-21,yes,JNZ
+Chizhou Jiuhuashan Airport,CN,CN-34,yes,JUH
+Boulder City Municipal Airport,US,US-NV,yes,BLD
+Anacortes Airport,US,US-WA,yes,OTS
+Lehigh Valley International Airport,US,US-PA,yes,ABE
+Abilene Regional Airport,US,US-TX,yes,ABI
+Albuquerque International Sunport,US,US-NM,yes,ABQ
+Aberdeen Regional Airport,US,US-SD,yes,ABR
+Southwest Georgia Regional Airport,US,US-GA,yes,ABY
+Nantucket Memorial Airport,US,US-MA,yes,ACK
+Waco Regional Airport,US,US-TX,yes,ACT
+California Redwood Coast-Humboldt County Airport,US,US-CA,yes,ACV
+Atlantic City International Airport,US,US-NJ,yes,ACY
+Kake Seaplane Base,US,US-AK,yes,KAE
+Alexandria International Airport,US,US-LA,yes,AEX
+Augusta Regional At Bush Field,US,US-GA,yes,AGS
+Alliance Municipal Airport,US,US-NE,yes,AIA
+Albany International Airport,US,US-NY,yes,ALB
+Waterloo Regional Airport,US,US-IA,yes,ALO
+San Luis Valley Regional Airport/Bergman Field,US,US-CO,yes,ALS
+Walla Walla Regional Airport,US,US-WA,yes,ALW
+Rick Husband Amarillo International Airport,US,US-TX,yes,AMA
+Altoona Blair County Airport,US,US-PA,yes,AOO
+Alpena County Regional Airport,US,US-MI,yes,APN
+Watertown International Airport,US,US-NY,yes,ART
+Aspen-Pitkin County Airport (Sardy Field),US,US-CO,yes,ASE
+Hartsfield Jackson Atlanta International Airport,US,US-GA,yes,ATL
+Appleton International Airport,US,US-WI,yes,ATW
+Watertown Regional Airport,US,US-SD,yes,ATY
+Augusta State Airport,US,US-ME,yes,AUG
+Austin Bergstrom International Airport,US,US-TX,yes,AUS
+Asheville Regional Airport,US,US-NC,yes,AVL
+Wilkes Barre Scranton International Airport,US,US-PA,yes,AVP
+Kalamazoo Battle Creek International Airport,US,US-MI,yes,AZO
+Branson Airport,US,US-MO,yes,BKG
+Bradley International Airport,US,US-CT,yes,BDL
+Laurence G Hanscom Field,US,US-MA,yes,BED
+Bradford Regional Airport,US,US-PA,yes,BFD
+Western Neb. Rgnl/William B. Heilig Airport,US,US-NE,yes,BFF
+Boeing Field King County International Airport,US,US-WA,yes,BFI
+Meadows Field,US,US-CA,yes,BFL
+Greater Binghamton/Edwin A Link field,US,US-NY,yes,BGM
+Bangor International Airport,US,US-ME,yes,BGR
+Hancock County-Bar Harbor Airport,US,US-ME,yes,BHB
+Birmingham-Shuttlesworth International Airport,US,US-AL,yes,BHM
+Block Island State Airport,US,US-RI,yes,BID
+Eastern Sierra Regional Airport,US,US-CA,yes,BIH
+Billings Logan International Airport,US,US-MT,yes,BIL
+Bismarck Municipal Airport,US,US-ND,yes,BIS
+Rocky Mountain Metropolitan Airport,US,US-CO,yes,BJC
+Raleigh County Memorial Airport,US,US-WV,yes,BKW
+Bellingham International Airport,US,US-WA,yes,BLI
+Scott AFB/Midamerica Airport,US,US-IL,yes,BLV
+Central Illinois Regional Airport at Bloomington-Normal,US,US-IL,yes,BMI
+Nashville International Airport,US,US-TN,yes,BNA
+Boise Air Terminal/Gowen Field,US,US-ID,yes,BOI
+Logan International Airport,US,US-MA,yes,BOS
+Jack Brooks Regional Airport,US,US-TX,yes,BPT
+Brunswick Golden Isles Airport,US,US-GA,yes,BQK
+Brainerd Lakes Regional Airport,US,US-MN,yes,BRD
+Southeast Iowa Regional Airport,US,US-IA,yes,BRL
+Brownsville South Padre Island International Airport,US,US-TX,yes,BRO
+Kaben Airport,MH,MH-MAL,yes,KBT
+Bert Mooney Airport,US,US-MT,yes,BTM
+Baton Rouge Metropolitan Airport,US,US-LA,yes,BTR
+Burlington International Airport,US,US-VT,yes,BTV
+Buffalo Niagara International Airport,US,US-NY,yes,BUF
+Hollywood Burbank Airport,US,US-CA,yes,BUR
+Baltimore/Washington International Thurgood Marshall Airport,US,US-MD,yes,BWI
+Bozeman Yellowstone International Airport,US,US-MT,yes,BZN
+Columbia Metropolitan Airport,US,US-SC,yes,CAE
+Akron Canton Regional Airport,US,US-OH,yes,CAK
+Coffman Cove Seaplane Base,US,US-AK,yes,KCC
+Buchanan Field,US,US-CA,yes,CCR
+Cedar City Regional Airport,US,US-UT,yes,CDC
+Chadron Municipal Airport,US,US-NE,yes,CDR
+Jack Mc Namara Field Airport,US,US-CA,yes,CEC
+Cortez Municipal Airport,US,US-CO,yes,CEZ
+Cape Girardeau Regional Airport,US,US-MO,yes,CGI
+Chattanooga Metropolitan Airport (Lovell Field),US,US-TN,yes,CHA
+Charlottesville Albemarle Airport,US,US-VA,yes,CHO
+Charleston International Airport,US,US-SC,yes,CHS
+The Eastern Iowa Airport,US,US-IA,yes,CID
+Chippewa County International Airport,US,US-MI,yes,CIU
+North Central West Virginia Airport,US,US-WV,yes,CKB
+Chignik Lagoon Airport,US,US-AK,yes,KCL
+Cleveland Hopkins International Airport,US,US-OH,yes,CLE
+Easterwood Field,US,US-TX,yes,CLL
+Charlotte Douglas International Airport,US,US-NC,yes,CLT
+John Glenn Columbus International Airport,US,US-OH,yes,CMH
+University of Illinois Willard Airport,US,US-IL,yes,CMI
+Houghton County Memorial Airport,US,US-MI,yes,CMX
+Cavern City Air Terminal,US,US-NM,yes,CNM
+Canyonlands Regional Airport,US,US-UT,yes,CNY
+Yellowstone Regional Airport,US,US-WY,yes,COD
+City of Colorado Springs Municipal Airport,US,US-CO,yes,COS
+Columbia Regional Airport,US,US-MO,yes,COU
+Casper-Natrona County International Airport,US,US-WY,yes,CPR
+Corpus Christi International Airport,US,US-TX,yes,CRP
+McClellan-Palomar Airport,US,US-CA,yes,CLD
+Yeager Airport,US,US-WV,yes,CRW
+Columbus Metropolitan Airport,US,US-GA,yes,CSG
+Cincinnati Northern Kentucky International Airport,US,US-KY,yes,CVG
+Clovis Municipal Airport,US,US-NM,yes,CVN
+Central Wisconsin Airport,US,US-WI,yes,CWA
+Cheyenne Regional Jerry Olson Field,US,US-WY,yes,CYS
+Daytona Beach International Airport,US,US-FL,yes,DAB
+Dallas Love Field,US,US-TX,yes,DAL
+James M Cox Dayton International Airport,US,US-OH,yes,DAY
+Dubuque Regional Airport,US,US-IA,yes,DBQ
+Ronald Reagan Washington National Airport,US,US-DC,yes,DCA
+Dodge City Regional Airport,US,US-KS,yes,DDC
+Decatur Airport,US,US-IL,yes,DEC
+Denver International Airport,US,US-CO,yes,DEN
+Dallas Fort Worth International Airport,US,US-TX,yes,DFW
+Dothan Regional Airport,US,US-AL,yes,DHN
+Dickinson Theodore Roosevelt Regional Airport,US,US-ND,yes,DIK
+Duluth International Airport,US,US-MN,yes,DLH
+Durango La Plata County Airport,US,US-CO,yes,DRO
+Des Moines International Airport,US,US-IA,yes,DSM
+Destin Executive Airport,US,US-FL,yes,DSI
+Detroit Metropolitan Wayne County Airport,US,US-MI,yes,DTW
+DuBois Regional Airport,US,US-PA,yes,DUJ
+Devils Lake Regional Airport,US,US-ND,yes,DVL
+Polgolla Reservoir Seaplane Base,LK,LK-2,yes,KDZ
+Kearney Regional Airport,US,US-NE,yes,EAR
+Pangborn Memorial Airport,US,US-WA,yes,EAT
+Chippewa Valley Regional Airport,US,US-WI,yes,EAU
+Nanwalek Airport,US,US-AK,yes,KEB
+Northwest Florida Beaches International Airport,US,US-FL,yes,ECP
+Eagle County Regional Airport,US,US-CO,yes,EGE
+Ekwok Airport,US,US-AK,yes,KEK
+Elko Regional Airport,US,US-NV,yes,EKO
+South Arkansas Regional Airport at Goodwin Field,US,US-AR,yes,ELD
+Elmira Corning Regional Airport,US,US-NY,yes,ELM
+El Paso International Airport,US,US-TX,yes,ELP
+Erie International Tom Ridge Field,US,US-PA,yes,ERI
+Delta County Airport,US,US-MI,yes,ESC
+Mahlon Sweet Field,US,US-OR,yes,EUG
+Evansville Regional Airport,US,US-IN,yes,EVV
+New Bedford Regional Airport,US,US-MA,yes,EWB
+Coastal Carolina Regional Airport,US,US-NC,yes,EWN
+Newark Liberty International Airport,US,US-NJ,yes,EWR
+Key West International Airport,US,US-FL,yes,EYW
+Hector International Airport,US,US-ND,yes,FAR
+Fresno Yosemite International Airport,US,US-CA,yes,FAT
+Fayetteville Regional Airport - Grannis Field,US,US-NC,yes,FAY
+Friday Harbor Airport,US,US-WA,yes,FRD
+Flagstaff Pulliam International Airport,US,US-AZ,yes,FLG
+Fort Lauderdale Hollywood International Airport,US,US-FL,yes,FLL
+Florence Regional Airport,US,US-SC,yes,FLO
+Bishop International Airport,US,US-MI,yes,FNT
+Fort Dodge Regional Airport,US,US-IA,yes,FOD
+Sioux Falls Regional Airport / Joe Foss Field,US,US-SD,yes,FSD
+Fort Smith Regional Airport,US,US-AR,yes,FSM
+Fort Wayne International Airport,US,US-IN,yes,FWA
+Northeast Wyoming Regional Airport,US,US-WY,yes,GCC
+Garden City Regional Airport,US,US-KS,yes,GCK
+Grand Canyon National Park Airport,US,US-AZ,yes,GCN
+Dawson Community Airport,US,US-MT,yes,GDV
+Spokane International Airport,US,US-WA,yes,GEG
+Grand Forks International Airport,US,US-ND,yes,GFK
+East Texas Regional Airport,US,US-TX,yes,GGG
+Glasgow Valley County Airport Wokal Field,US,US-MT,yes,GGW
+Grand Junction Regional Airport,US,US-CO,yes,GJT
+Mid Delta Regional Airport,US,US-MS,yes,GLH
+Gainesville Regional Airport,US,US-FL,yes,GNV
+Glacier Park International Airport,US,US-MT,yes,FCA
+Gulfport Biloxi International Airport,US,US-MS,yes,GPT
+Austin Straubel International Airport,US,US-WI,yes,GRB
+Central Nebraska Regional Airport,US,US-NE,yes,GRI
+Killeen Regional Airport,US,US-TX,yes,GRK
+Gerald R. Ford International Airport,US,US-MI,yes,GRR
+Piedmont Triad International Airport,US,US-NC,yes,GSO
+Greenville Spartanburg International Airport,US,US-SC,yes,GSP
+Great Falls International Airport,US,US-MT,yes,GTF
+Golden Triangle Regional Airport,US,US-MS,yes,GTR
+Gunnison Crested Butte Regional Airport,US,US-CO,yes,GUC
+Gallup Municipal Airport,US,US-NM,yes,GUP
+Grayling Airport,US,US-AK,yes,KGX
+Yampa Valley Airport,US,US-CO,yes,HDN
+Hagerstown Regional Richard A Henson Field,US,US-MD,yes,HGR
+Jack Northrop Field Hawthorne Municipal Airport,US,US-CA,yes,HHR
+Range Regional Airport,US,US-MN,yes,HIB
+Helena Regional Airport,US,US-MT,yes,HLN
+Lea County Regional Airport,US,US-NM,yes,HOB
+Memorial Field Airport,US,US-AR,yes,HOT
+William P Hobby Airport,US,US-TX,yes,HOU
+Westchester County Airport,US,US-NY,yes,HPN
+Valley International Airport,US,US-TX,yes,HRL
+Boone County Airport,US,US-AR,yes,HRO
+Huntsville International Carl T Jones Field,US,US-AL,yes,HSV
+Tri-State Airport / Milton J. Ferguson Field,US,US-WV,yes,HTS
+Tweed New Haven Airport,US,US-CT,yes,HVN
+Havre City County Airport,US,US-MT,yes,HVR
+Hilton Head Airport,US,US-SC,yes,HHH
+Cape Cod Gateway Airport,US,US-MA,yes,HYA
+Hays Regional Airport,US,US-KS,yes,HYS
+Washington Dulles International Airport,US,US-VA,yes,IAD
+Niagara Falls International Airport,US,US-NY,yes,IAG
+George Bush Intercontinental Houston Airport,US,US-TX,yes,IAH
+Wichita Eisenhower National Airport,US,US-KS,yes,ICT
+Idaho Falls Regional Airport,US,US-ID,yes,IDA
+Wilmington Airport,US,US-DE,yes,ILG
+Wilmington International Airport,US,US-NC,yes,ILM
+Ford Airport,US,US-MI,yes,IMT
+Indianapolis International Airport,US,US-IN,yes,IND
+Falls International Airport,US,US-MN,yes,INL
+Imperial County Airport,US,US-CA,yes,IPL
+Williamsport Regional Airport,US,US-PA,yes,IPT
+Kirksville Regional Airport,US,US-MO,yes,IRK
+Long Island Mac Arthur Airport,US,US-NY,yes,ISP
+Ithaca Tompkins Regional Airport,US,US-NY,yes,ITH
+Phoenix–Mesa Gateway Airport,US,US-AZ,yes,AZA
+Gogebic Iron County Airport,US,US-MI,yes,IWD
+Jackson Hole Airport,US,US-WY,yes,JAC
+Jackson-Medgar Wiley Evers International Airport,US,US-MS,yes,JAN
+Jacksonville International Airport,US,US-FL,yes,JAX
+Jonesboro Municipal Airport,US,US-AR,yes,JBR
+John F Kennedy International Airport,US,US-NY,yes,JFK
+Joplin Regional Airport,US,US-MO,yes,JLN
+Jamestown Regional Airport,US,US-ND,yes,JMS
+Concord-Padgett Regional Airport,US,US-NC,yes,USA
+John Murtha Johnstown Cambria County Airport,US,US-PA,yes,JST
+Kitoi Bay Seaplane Base,US,US-AK,yes,KKB
+Purdue University Airport,US,US-IN,yes,LAF
+Lakeland Linder International Airport,US,US-FL,yes,LAL
+Capital City Airport,US,US-MI,yes,LAN
+Laramie Regional Airport,US,US-WY,yes,LAR
+Harry Reid International Airport,US,US-NV,yes,LAS
+Lawton Fort Sill Regional Airport,US,US-OK,yes,LAW
+Los Angeles International Airport,US,US-CA,yes,LAX
+Lubbock Preston Smith International Airport,US,US-TX,yes,LBB
+Arnold Palmer Regional Airport,US,US-PA,yes,LBE
+North Platte Regional Airport Lee Bird Field,US,US-NE,yes,LBF
+Liberal Mid-America Regional Airport,US,US-KS,yes,LBL
+Lake Charles Regional Airport,US,US-LA,yes,LCH
+Rickenbacker International Airport,US,US-OH,yes,LCK
+Lebanon Municipal Airport,US,US-NH,yes,LEB
+Blue Grass Airport,US,US-KY,yes,LEX
+Lafayette Regional Airport,US,US-LA,yes,LFT
+La Guardia Airport,US,US-NY,yes,LGA
+Long Beach Airport (Daugherty Field),US,US-CA,yes,LGB
+Bill & Hillary Clinton National Airport/Adams Field,US,US-AR,yes,LIT
+Lincoln Airport,US,US-NE,yes,LNK
+Lancaster Airport,US,US-PA,yes,LNS
+Laredo International Airport,US,US-TX,yes,LRD
+Las Cruces International Airport,US,US-NM,yes,LRU
+La Crosse Regional Airport,US,US-WI,yes,LSE
+Cincinnati Municipal Airport Lunken Field,US,US-OH,yes,LUK
+Greenbrier Valley Airport,US,US-WV,yes,LWB
+Lewiston Nez Perce County Airport,US,US-ID,yes,LWS
+Lynchburg Regional Airport - Preston Glenn Field,US,US-VA,yes,LYH
+Midland International Air and Space Port,US,US-TX,yes,MAF
+Manistee County Blacker Airport,US,US-MI,yes,MBL
+MBS International Airport,US,US-MI,yes,MBS
+Merced Regional Macready Field,US,US-CA,yes,MCE
+Kansas City International Airport,US,US-MO,yes,MCI
+McCook Ben Nelson Regional Airport,US,US-NE,yes,MCK
+Middle Georgia Regional Airport,US,US-GA,yes,MCN
+Orlando International Airport,US,US-FL,yes,MCO
+Mason City Municipal Airport,US,US-IA,yes,MCW
+Harrisburg International Airport,US,US-PA,yes,MDT
+Chicago Midway International Airport,US,US-IL,yes,MDW
+Key Field / Meridian Regional Airport,US,US-MS,yes,MEI
+Memphis International Airport,US,US-TN,yes,MEM
+McAllen Miller International Airport,US,US-TX,yes,MFE
+Rogue Valley International Medford Airport,US,US-OR,yes,MFR
+Montgomery Regional (Dannelly Field) Airport,US,US-AL,yes,MGM
+Morgantown Municipal Airport Walter L. (Bill) Hart Field,US,US-WV,yes,MGW
+Manhattan Regional Airport,US,US-KS,yes,MHK
+Manchester-Boston Regional Airport,US,US-NH,yes,MHT
+Miami International Airport,US,US-FL,yes,MIA
+General Mitchell International Airport,US,US-WI,yes,MKE
+Muskegon County Airport,US,US-MI,yes,MKG
+McKellar-Sipes Regional Airport,US,US-TN,yes,MKL
+Melbourne Orlando International Airport,US,US-FL,yes,MLB
+Quad City International Airport,US,US-IL,yes,MLI
+Monroe Regional Airport,US,US-LA,yes,MLU
+Mammoth Yosemite Airport,US,US-CA,yes,MMH
+Mobile Regional Airport,US,US-AL,yes,MOB
+Minot International Airport,US,US-ND,yes,MOT
+Monterey Peninsula Airport,US,US-CA,yes,MRY
+Northwest Alabama Regional Airport,US,US-AL,yes,MSL
+Dane County Regional Truax Field,US,US-WI,yes,MSN
+Missoula International Airport,US,US-MT,yes,MSO
+Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field,US,US-MN,yes,MSP
+Massena International Airport Richards Field,US,US-NY,yes,MSS
+Louis Armstrong New Orleans International Airport,US,US-LA,yes,MSY
+Montrose Regional Airport,US,US-CO,yes,MTJ
+Montauk Airport,US,US-NY,yes,MTP
+Martha's Vineyard Airport,US,US-MA,yes,MVY
+Veterans Airport of Southern Illinois,US,US-IL,yes,MWA
+Moser Bay Seaplane Base,US,US-AK,yes,KMY
+McCall Municipal Airport,US,US-ID,yes,MYL
+Myrtle Beach International Airport,US,US-SC,yes,MYR
+Yuma International Airport / Marine Corps Air Station Yuma,US,US-AZ,yes,YUM
+Albert J Ellis Airport,US,US-NC,yes,OAJ
+San Francisco Bay Oakland International Airport,US,US-CA,yes,OAK
+Ogden Hinckley Airport,US,US-UT,yes,OGD
+Ogdensburg International Airport,US,US-NY,yes,OGS
+Will Rogers World Airport,US,US-OK,yes,OKC
+L M Clayton Airport,US,US-MT,yes,OLF
+Olympia Regional Airport,US,US-WA,yes,OLM
+Eppley Airfield,US,US-NE,yes,OMA
+Ontario International Airport,US,US-CA,yes,ONT
+Miami-Opa Locka Executive Airport,US,US-FL,yes,OPF
+Chicago O'Hare International Airport,US,US-IL,yes,ORD
+Norfolk International Airport,US,US-VA,yes,ORF
+Worcester Regional Airport,US,US-MA,yes,ORH
+Orcas Island Airport,US,US-WA,yes,ESD
+Southwest Oregon Regional Airport,US,US-OR,yes,OTH
+Owensboro Daviess County Airport,US,US-KY,yes,OWB
+Olga Bay Seaplane Base,US,US-AK,yes,KOY
+Samjiyŏn Airport,KP,KP-10,yes,YJS
+Orang (Chongjin) Airport,KP,KP-09,yes,RGO
+Seattle Paine Field International Airport,US,US-WA,yes,PAE
+Barkley Regional Airport,US,US-KY,yes,PAH
+Point Baker Seaplane Base,US,US-AK,yes,KPB
+Plattsburgh International Airport,US,US-NY,yes,PBG
+Palm Beach International Airport,US,US-FL,yes,PBI
+DeKalb Peachtree Airport,US,US-GA,yes,PDK
+Eastern Oregon Regional Airport at Pendleton,US,US-OR,yes,PDT
+Portland International Airport,US,US-OR,yes,PDX
+Page Municipal Airport,US,US-AZ,yes,PGA
+Charlotte County Airport,US,US-FL,yes,PGD
+Pitt-Greenville Airport,US,US-NC,yes,PGV
+Newport News Williamsburg International Airport,US,US-VA,yes,PHF
+Philadelphia International Airport,US,US-PA,yes,PHL
+Phoenix Sky Harbor International Airport,US,US-AZ,yes,PHX
+General Wayne A. Downing Peoria International Airport,US,US-IL,yes,PIA
+Hattiesburg Laurel Regional Airport,US,US-MS,yes,PIB
+St. Petersburg Clearwater International Airport,US,US-FL,yes,PIE
+Pocatello Regional Airport,US,US-ID,yes,PIH
+Pierre Regional Airport,US,US-SD,yes,PIR
+Pittsburgh International Airport,US,US-PA,yes,PIT
+Mid Ohio Valley Regional Airport,US,US-WV,yes,PKB
+Pellston Regional Airport of Emmet County Airport,US,US-MI,yes,PLN
+Pensacola International Airport,US,US-FL,yes,PNS
+Presque Isle International Airport,US,US-ME,yes,PQI
+Port Williams Seaplane Base,US,US-AK,yes,KPR
+Prescott International Airport - Ernest A. Love Field,US,US-AZ,yes,PRC
+Tri Cities Airport,US,US-WA,yes,PSC
+Portsmouth International at Pease Airport,US,US-NH,yes,PSM
+Palm Springs International Airport,US,US-CA,yes,PSP
+Pueblo Memorial Airport,US,US-CO,yes,PUB
+Pullman-Moscow Regional Airport,US,US-WA,yes,PUW
+Theodore Francis Green State Airport,US,US-RI,yes,PVD
+Provo-Utah Lake International Airport,US,US-UT,yes,PVU
+Portland International Jetport,US,US-ME,yes,PWM
+Port Bailey Seaplane Base,US,US-AK,yes,KPY
+Rapid City Regional Airport,US,US-SD,yes,RAP
+Redding Municipal Airport,US,US-CA,yes,RDD
+Roberts Field,US,US-OR,yes,RDM
+Raleigh Durham International Airport,US,US-NC,yes,RDU
+Chicago Rockford International Airport,US,US-IL,yes,RFD
+Rhinelander Oneida County Airport,US,US-WI,yes,RHI
+Richmond International Airport,US,US-VA,yes,RIC
+Central Wyoming Regional Airport,US,US-WY,yes,RIW
+Knox County Regional Airport,US,US-ME,yes,RKD
+Southwest Wyoming Regional Airport,US,US-WY,yes,RKS
+Reno Tahoe International Airport,US,US-NV,yes,RNO
+Roanoke–Blacksburg Regional Airport,US,US-VA,yes,ROA
+Frederick Douglass Greater Rochester International Airport,US,US-NY,yes,ROC
+Roswell Air Center Airport,US,US-NM,yes,ROW
+Rochester International Airport,US,US-MN,yes,RST
+Southwest Florida International Airport,US,US-FL,yes,RSW
+Rutland - Southern Vermont Regional Airport,US,US-VT,yes,RUT
+Santa Fe Municipal Airport,US,US-NM,yes,SAF
+San Diego International Airport,US,US-CA,yes,SAN
+San Antonio International Airport,US,US-TX,yes,SAT
+Savannah Hilton Head International Airport,US,US-GA,yes,SAV
+Marquette/Sawyer International Airport,US,US-MI,yes,MQT
+Santa Barbara Municipal Airport,US,US-CA,yes,SBA
+San Bernardino International Airport,US,US-CA,yes,SBD
+South Bend Regional Airport,US,US-IN,yes,SBN
+San Luis County Regional Airport,US,US-CA,yes,SBP
+Salisbury Ocean City Wicomico Regional Airport,US,US-MD,yes,SBY
+Stockton Metropolitan Airport,US,US-CA,yes,SCK
+Louisville Muhammad Ali International Airport,US,US-KY,yes,SDF
+Sidney - Richland Regional Airport,US,US-MT,yes,SDY
+Seattle–Tacoma International Airport,US,US-WA,yes,SEA
+Orlando Sanford International Airport,US,US-FL,yes,SFB
+San Francisco International Airport,US,US-CA,yes,SFO
+Springfield Branson National Airport,US,US-MO,yes,SGF
+Northeast Florida Regional Airport,US,US-FL,yes,UST
+St George Regional Airport,US,US-UT,yes,SGU
+Shenandoah Valley Regional Airport,US,US-VA,yes,SHD
+Sheridan County Airport,US,US-WY,yes,SHR
+Shreveport Regional Airport,US,US-LA,yes,SHV
+Norman Y. Mineta San Jose International Airport,US,US-CA,yes,SJC
+San Angelo Regional Mathis Field,US,US-TX,yes,SJT
+Taos Regional Airport,US,US-NM,yes,TSM
+Salt Lake City International Airport,US,US-UT,yes,SLC
+Salem Municipal Airport/McNary Field,US,US-OR,yes,SLE
+Adirondack Regional Airport,US,US-NY,yes,SLK
+Salina Municipal Airport,US,US-KS,yes,SLN
+Sacramento International Airport,US,US-CA,yes,SMF
+Lemhi County Airport,US,US-ID,yes,SMN
+Santa Maria Public Airport Captain G Allan Hancock Field,US,US-CA,yes,SMX
+John Wayne Orange County International Airport,US,US-CA,yes,SNA
+Show Low Regional Airport,US,US-AZ,yes,SOW
+Abraham Lincoln Capital Airport,US,US-IL,yes,SPI
+Wichita Falls Municipal Airport / Sheppard Air Force Base,US,US-TX,yes,SPS
+San Carlos Airport,US,US-CA,yes,SQL
+Sarasota Bradenton International Airport,US,US-FL,yes,SRQ
+Saint Cloud Regional Airport,US,US-MN,yes,STC
+St Louis Lambert International Airport,US,US-MO,yes,STL
+Charles M. Schulz Sonoma County Airport,US,US-CA,yes,STS
+Friedman Memorial Airport,US,US-ID,yes,SUN
+Sioux Gateway Airport / Brigadier General Bud Day Field,US,US-IA,yes,SUX
+Grant County Airport,US,US-NM,yes,SVC
+New York Stewart International Airport,US,US-NY,yes,SWF
+Stillwater Regional Airport,US,US-OK,yes,SWO
+Syracuse Hancock International Airport,US,US-NY,yes,SYR
+Thorne Bay Seaplane Base,US,US-AK,yes,KTB
+Waynesville-St. Robert Regional Airport-Forney Field,US,US-MO,yes,TBN
+Teterboro Airport,US,US-NJ,yes,TEB
+Telluride Regional Airport,US,US-CO,yes,TEX
+Tacoma Narrows Airport,US,US-WA,yes,TIW
+Tallahassee Regional Airport,US,US-FL,yes,TLH
+Eugene F. Kranz Toledo Express Airport,US,US-OH,yes,TOL
+Tampa International Airport,US,US-FL,yes,TPA
+Tri-Cities Regional TN/VA Airport,US,US-TN,yes,TRI
+Truckee Tahoe Airport,US,US-CA,yes,TKF
+Trenton Mercer Airport,US,US-NJ,yes,TTN
+Tulsa International Airport,US,US-OK,yes,TUL
+Tupelo Regional Airport,US,US-MS,yes,TUP
+Tucson International Airport / Morris Air National Guard Base,US,US-AZ,yes,TUS
+Cherry Capital Airport,US,US-MI,yes,TVC
+Thief River Falls Regional Airport,US,US-MN,yes,TVF
+Joslin Field Magic Valley Regional Airport,US,US-ID,yes,TWF
+Texarkana Regional Airport (Webb Field),US,US-AR,yes,TXK
+Tyler Pounds Regional Airport,US,US-TX,yes,TYR
+McGhee Tyson Airport,US,US-TN,yes,TYS
+Quincy Regional Airport Baldwin Field,US,US-IL,yes,UIN
+State College Regional Airport,US,US-PA,yes,SCE
+Newport State Airport,US,US-RI,yes,NPT
+Victoria Regional Airport,US,US-TX,yes,VCT
+Vernal Regional Airport,US,US-UT,yes,VEL
+Valdosta Regional Airport,US,US-GA,yes,VLD
+Destin-Fort Walton Beach Airport,US,US-FL,yes,VPS
+Vero Beach Regional Airport,US,US-FL,yes,VRB
+West Point Village Seaplane Base,US,US-AK,yes,KWP
+Westerly State Airport,US,US-RI,yes,WST
+Kiwayu Airport,KE,KE-300,yes,KWY
+Yellowstone Airport,US,US-MT,yes,WYS
+Kasaan Seaplane Base,US,US-AK,yes,KXA
+Northwest Arkansas National Airport,US,US-AR,yes,XNA
+Yakima Air Terminal McAllister Field,US,US-WA,yes,YKM
+Usharal Airport,KZ,KZ-JET,yes,USJ
+Zachar Bay Seaplane Base,US,US-AK,yes,KZB
+Bokeo International Airport,LA,LA-BK,yes,BOR
+Tirana International Airport Mother Teresa,AL,AL-02,yes,TIA
+Burgas Airport,BG,BG-02,yes,BOJ
+Palm Beach Seaplane Base,AU,AU-NSW,yes,LBH
+Plovdiv International Airport,BG,BG-16,yes,PDV
+Sofia Airport,BG,BG-22,yes,SOF
+Varna Airport,BG,BG-03,yes,VAR
+Nicosia (Lefkoşa) Ercan International Airport,CY,CY-02,yes,ECN
+Larnaca International Airport,CY,CY-04,yes,LCA
+Paphos International Airport,CY,CY-06,yes,PFO
+Dubrovnik Ruđer Bošković Airport,HR,HR-19,yes,DBV
+Osijek Airport,HR,HR-14,yes,OSI
+Pula Airport,HR,HR-18,yes,PUY
+Rijeka Airport,HR,HR-08,yes,RJK
+Brač Airport,HR,HR-17,yes,BWK
+Split Airport,HR,HR-17,yes,SPU
+Zagreb Franjo Tuđman International Airport,HR,HR-01,yes,ZAG
+Zadar Airport,HR,HR-13,yes,ZAD
+Alicante-Elche Miguel Hernández Airport,ES,ES-VC,yes,ALC
+Almería Airport,ES,ES-AN,yes,LEI
+Asturias Airport,ES,ES-AS,yes,OVD
+Bilbao Airport,ES,ES-PV,yes,BIO
+Burgos Airport,ES,ES-CL,yes,RGS
+Josep Tarradellas Barcelona-El Prat Airport,ES,ES-CT,yes,BCN
+Badajoz Airport,ES,ES-EX,yes,BJZ
+Castellón-Costa Azahar Airport,ES,ES-VC,yes,CDT
+A Coruña Airport,ES,ES-GA,yes,LCG
+Lleida-Alguaire Airport,ES,ES-CT,yes,ILD
+Girona-Costa Brava Airport,ES,ES-CT,yes,GRO
+F.G.L. Airport Granada-Jaén Airport,ES,ES-AN,yes,GRX
+Ibiza Airport,ES,ES-IB,yes,IBZ
+Jerez Airport,ES,ES-AN,yes,XRY
+León Airport,ES,ES-CL,yes,LEN
+Adolfo Suárez Madrid–Barajas Airport,ES,ES-MD,yes,MAD
+Málaga-Costa del Sol Airport,ES,ES-AN,yes,AGP
+Menorca Airport,ES,ES-IB,yes,MAH
+Región de Murcia International Airport,ES,ES-MC,yes,RMU
+Palma de Mallorca Airport,ES,ES-IB,yes,PMI
+Pamplona Airport,ES,ES-NC,yes,PNA
+Reus Airport,ES,ES-CT,yes,REU
+Salamanca Airport,ES,ES-CL,yes,SLM
+San Sebastián Airport,ES,ES-PV,yes,EAS
+Santiago-Rosalía de Castro Airport,ES,ES-GA,yes,SCQ
+Pirineus - la Seu d'Urgel Airport,ES,ES-CT,yes,LEU
+Valencia Airport,ES,ES-VC,yes,VLC
+Valladolid Airport,ES,ES-CL,yes,VLL
+Vitoria Airport,ES,ES-PV,yes,VIT
+Vigo Airport,ES,ES-GA,yes,VGO
+Seve Ballesteros-Santander Airport,ES,ES-CB,yes,SDR
+Zaragoza Airport,ES,ES-AR,yes,ZAZ
+Sevilla Airport,ES,ES-AN,yes,SVQ
+Bordeaux-Mérignac Airport,FR,FR-NAQ,yes,BOD
+Bergerac Dordogne Périgord Airport,FR,FR-NAQ,yes,EGC
+La Rochelle-Île de Ré Airport,FR,FR-NAQ,yes,LRH
+Poitiers-Biard Airport,FR,FR-NAQ,yes,PIS
+Limoges Airport,FR,FR-NAQ,yes,LIG
+Toulouse-Blagnac Airport,FR,FR-OCC,yes,TLS
+Pau Pyrénées Airport,FR,FR-NAQ,yes,PUF
+Tarbes-Lourdes-Pyrénées Airport,FR,FR-OCC,yes,LDE
+Biarritz-Anglet-Bayonne Airport,FR,FR-NAQ,yes,BIQ
+Castres-Mazamet Airport,FR,FR-OCC,yes,DCM
+Rodez–Aveyron Airport,FR,FR-OCC,yes,RDZ
+Aérodrome de Belle Île,FR,FR-BRE,yes,BIC
+Ouessant Airport,FR,FR-BRE,yes,OUI
+Île d'Yeu Airport,FR,FR-PDL,yes,IDY
+Dole-Jura Airport,FR,FR-BFC,yes,DLE
+Le Puy-Loudes Airfield,FR,FR-ARA,yes,LPY
+Metz-Nancy-Lorraine Airport,FR,FR-GES,yes,ETZ
+Bastia-Poretta Airport,FR,FR-COR,yes,BIA
+Calvi-Sainte-Catherine Airport,FR,FR-COR,yes,CLY
+Figari Sud-Corse Airport,FR,FR-COR,yes,FSC
+Ajaccio-Napoléon Bonaparte Airport,FR,FR-COR,yes,AJA
+Chambéry Savoie Mont Blanc Airport,FR,FR-ARA,yes,CMF
+Clermont-Ferrand Auvergne Airport,FR,FR-ARA,yes,CFE
+Lyon Saint-Exupéry Airport,FR,FR-ARA,yes,LYS
+Annecy Haute-Savoie Mont Blanc Airport,FR,FR-ARA,yes,NCY
+Grenoble-Isère Airport,FR,FR-ARA,yes,GNB
+Aurillac Airport,FR,FR-ARA,yes,AUR
+Carcassonne Airport,FR,FR-OCC,yes,CCF
+Marseille Provence Airport,FR,FR-PAC,yes,MRS
+Nice-Côte d'Azur Airport,FR,FR-PAC,yes,NCE
+Perpignan-Rivesaltes (Llabanère) Airport,FR,FR-OCC,yes,PGF
+Montpellier-Méditerranée Airport,FR,FR-OCC,yes,MPL
+Béziers-Vias Airport,FR,FR-OCC,yes,BZR
+Avignon-Caumont Airport,FR,FR-PAC,yes,AVN
+Paris-Beauvais Airport,FR,FR-HDF,yes,BVA
+Châlons-Vatry Airport,FR,FR-GES,yes,XCR
+Tours-Val-de-Loire Airport,FR,FR-CVL,yes,TUF
+Charles de Gaulle International Airport,FR,FR-IDF,yes,CDG
+Paris-Orly Airport,FR,FR-IDF,yes,ORY
+Lille Airport,FR,FR-HDF,yes,LIL
+Brest Bretagne Airport,FR,FR-BRE,yes,BES
+Dinard-Pleurtuit-Saint-Malo Airport,FR,FR-BRE,yes,DNR
+Deauville-Saint-Gatien Airport,FR,FR-NOR,yes,DOL
+Lorient South Brittany (Bretagne Sud) Airport,FR,FR-BRE,yes,LRT
+Caen-Carpiquet Airport,FR,FR-NOR,yes,CFR
+Rennes-Saint-Jacques Airport,FR,FR-BRE,yes,RNS
+Nantes Atlantique Airport,FR,FR-PDL,yes,NTE
+Vannes-Meucon Airport,FR,FR-BRE,yes,VNE
+Saint-Nazaire-Montoir Airport,FR,FR-PDL,yes,SNR
+EuroAirport Basel-Mulhouse-Freiburg,FR,FR-GES,yes,BSL
+Dijon-Bourgogne Airport,FR,FR-BFC,yes,DIJ
+Brive-Souillac,FR,FR-NAQ,yes,BVE
+Strasbourg Airport,FR,FR-GES,yes,SXB
+Toulon-Hyères Airport,FR,FR-PAC,yes,TLN
+Rize–Artvin Airport,TR,TR-53,yes,RZV
+Nîmes-Arles-Camargue Airport,FR,FR-OCC,yes,FNI
+La Môle Airport,FR,FR-PAC,yes,LTT
+Miquelon Airport,PM,PM-ML,yes,MQC
+St Pierre Airport,PM,PM-SP,yes,FSP
+Alexandroupoli Democritus Airport,GR,GR-A,yes,AXD
+Athens Eleftherios Venizelos International Airport,GR,GR-I,yes,ATH
+Nea Anchialos National Airport,GR,GR-E,yes,VOL
+Chios Island National Airport,GR,GR-K,yes,JKH
+Ikaria Airport,GR,GR-K,yes,JIK
+Ioannina King Pyrrhus National Airport,GR,GR-D,yes,IOA
+Heraklion International Nikos Kazantzakis Airport,GR,GR-M,yes,HER
+Kastoria National Airport Aristotle,GR,GR-C,yes,KSO
+Kithira Airport,GR,GR-I,yes,KIT
+Kefallinia Airport,GR,GR-F,yes,EFL
+Kastelorizo Airport,GR,GR-L,yes,KZS
+Kalamata Airport,GR,GR-J,yes,KLX
+Kos Airport,GR,GR-L,yes,KGS
+Karpathos Airport,GR,GR-L,yes,AOK
+Corfu Ioannis Kapodistrias International Airport,GR,GR-F,yes,CFU
+Kasos Airport,GR,GR-L,yes,KSJ
+Kavala Alexander the Great International Airport,GR,GR-A,yes,KVA
+Kalymnos Airport,GR,GR-L,yes,JKL
+Kozani National Airport Filippos,GR,GR-C,yes,KZI
+Leros Airport,GR,GR-L,yes,LRS
+Limnos Airport,GR,GR-K,yes,LXS
+Mykonos Island National Airport,GR,GR-L,yes,JMK
+Milos Airport,GR,GR-L,yes,MLO
+Mytilene International Airport,GR,GR-K,yes,MJT
+Naxos Island National Airport,GR,GR-L,yes,JNX
+Bicol International Airport,PH,PH-ALB,yes,DRP
+Paros National Airport,GR,GR-L,yes,PAS
+Astypalaia Airport,GR,GR-L,yes,JTY
+Aktion National Airport,GR,GR-D,yes,PVK
+Diagoras Airport,GR,GR-L,yes,RHO
+Patras Araxos Agamemnon Airport,GR,GR-G,yes,GPA
+Chania International Airport,GR,GR-M,yes,CHQ
+Skiathos Island National Airport,GR,GR-E,yes,JSI
+Samos Airport,GR,GR-K,yes,SMI
+Syros Airport,GR,GR-L,yes,JSY
+Santorini Airport,GR,GR-L,yes,JTR
+Sitia Airport,GR,GR-M,yes,JSH
+Skiros Airport,GR,GR-H,yes,SKU
+Thessaloniki Macedonia International Airport,GR,GR-B,yes,SKG
+Zakynthos International Airport Dionysios Solomos,GR,GR-F,yes,ZTH
+Budapest Liszt Ferenc International Airport,HU,HU-BU,yes,BUD
+Debrecen International Airport,HU,HU-HB,yes,DEB
+Hévíz–Balaton Airport,HU,HU-ZA,yes,SOB
+Crotone Airport,IT,IT-78,yes,CRV
+Bari Karol Wojtyła Airport,IT,IT-75,yes,BRI
+"Foggia ""Gino Lisa"" Airport",IT,IT-75,yes,FOG
+Abruzzo Airport,IT,IT-65,yes,PSR
+Brindisi Airport,IT,IT-75,yes,BDS
+Lamezia Terme Airport,IT,IT-78,yes,SUF
+Comiso Airport,IT,IT-82,yes,CIY
+Catania-Fontanarossa Airport,IT,IT-82,yes,CTA
+Lampedusa Airport,IT,IT-82,yes,LMP
+Pantelleria Airport,IT,IT-82,yes,PNL
+Falcone–Borsellino Airport,IT,IT-82,yes,PMO
+Reggio Calabria Airport,IT,IT-78,yes,REG
+Vincenzo Florio Airport Trapani-Birgi,IT,IT-82,yes,TPS
+Alghero-Fertilia Airport,IT,IT-88,yes,AHO
+Cagliari Elmas Airport,IT,IT-88,yes,CAG
+Olbia Costa Smeralda Airport,IT,IT-88,yes,OLB
+Milan Malpensa International Airport,IT,IT-25,yes,MXP
+Milan Bergamo Airport / Antonio Locatelli Air Base,IT,IT-25,yes,BGY
+Turin Airport,IT,IT-21,yes,TRN
+Genoa Cristoforo Colombo Airport,IT,IT-42,yes,GOA
+Milano Linate Airport,IT,IT-25,yes,LIN
+Parma Airport,IT,IT-45,yes,PMF
+Cuneo International Airport,IT,IT-21,yes,CUF
+Bolzano Airport,IT,IT-32,yes,BZO
+Bologna Guglielmo Marconi Airport,IT,IT-45,yes,BLQ
+Treviso Antonio Canova Airport,IT,IT-34,yes,TSF
+Forlì Airport,IT,IT-45,yes,FRL
+Brescia Gabriele d'Annunzio Airport,IT,IT-25,yes,VBS
+Trieste–Friuli Venezia Giulia Airport,IT,IT-36,yes,TRS
+Federico Fellini International Airport,IT,IT-45,yes,RMI
+Verona Villafranca Valerio Catullo Airport,IT,IT-34,yes,VRN
+Marche Airport,IT,IT-57,yes,AOI
+Venice Marco Polo Airport,IT,IT-34,yes,VCE
+Ciampino–G. B. Pastine International Airport,IT,IT-62,yes,CIA
+Rome–Fiumicino Leonardo da Vinci International Airport,IT,IT-62,yes,FCO
+Marina Di Campo Airport,IT,IT-52,yes,EBA
+Naples International Airport,IT,IT-72,yes,NAP
+Pisa International Airport,IT,IT-52,yes,PSA
+Peretola Airport,IT,IT-52,yes,FLR
+Perugia San Francesco d'Assisi – Umbria International Airport,IT,IT-55,yes,PEG
+Ljubljana Jože Pučnik Airport,SI,SI-012,yes,LJU
+Karlovy Vary Airport,CZ,CZ-KA,yes,KLV
+Ostrava Leos Janáček Airport,CZ,CZ-MO,yes,OSR
+Pardubice Airport,CZ,CZ-PA,yes,PED
+Václav Havel Airport Prague,CZ,CZ-PR,yes,PRG
+Brno-Tuřany Airport,CZ,CZ-JM,yes,BRQ
+Ben Gurion International Airport,IL,IL-M,yes,TLV
+Ramon International Airport,IL,IL-D,yes,ETM
+Haifa International Airport,IL,IL-HA,yes,HFA
+Malta International Airport,MT,MT-25,yes,MLA
+Graz Airport,AT,AT-6,yes,GRZ
+Innsbruck Airport,AT,AT-7,yes,INN
+Klagenfurt Airport,AT,AT-2,yes,KLU
+Linz-Hörsching Airport / Vogler Air Base,AT,AT-4,yes,LNZ
+Salzburg Airport,AT,AT-5,yes,SZG
+Vienna International Airport,AT,AT-9,yes,VIE
+Santa Maria Airport,PT,PT-20,yes,SMA
+Bragança Airport,PT,PT-04,yes,BGC
+Corvo Airport,PT,PT-20,yes,CVU
+Cascais Airport,PT,PT-11,yes,CAT
+Flores Airport,PT,PT-20,yes,FLW
+Faro Airport,PT,PT-08,yes,FAO
+Graciosa Airport,PT,PT-20,yes,GRW
+Horta Airport,PT,PT-20,yes,HOR
+Lajes Airport,PT,PT-20,yes,TER
+Madeira International Airport Cristiano Ronaldo,PT,PT-30,yes,FNC
+João Paulo II Airport,PT,PT-20,yes,PDL
+Pico Airport,PT,PT-20,yes,PIX
+Portimão Airport,PT,PT-08,yes,PRM
+Francisco de Sá Carneiro Airport,PT,PT-13,yes,OPO
+Porto Santo Airport,PT,PT-30,yes,PXO
+Humberto Delgado Airport (Lisbon Portela Airport),PT,PT-11,yes,LIS
+São Jorge Airport,PT,PT-20,yes,SJZ
+Vila Real Airport,PT,PT-17,yes,VRL
+Aerodromo Goncalves Lobato (Viseu Airport),PT,PT-18,yes,VSE
+Banja Luka International Airport,BA,BA-SRP,yes,BNX
+Mostar International Airport,BA,BA-BIH,yes,OMO
+Sarajevo International Airport,BA,BA-BIH,yes,SJJ
+Tuzla International Airport,BA,BA-BIH,yes,TZL
+Arad International Airport,RO,RO-AR,yes,ARW
+Bacău Airport,RO,RO-BC,yes,BCM
+Maramureș International Airport,RO,RO-MM,yes,BAY
+Bucharest Băneasa Aurel Vlaicu International Airport,RO,RO-B,yes,BBU
+Mihail Kogălniceanu International Airport,RO,RO-CT,yes,CND
+Cluj Avram Iancu International Airport,RO,RO-CJ,yes,CLJ
+Craiova International Airport,RO,RO-DJ,yes,CRA
+Iaşi Airport,RO,RO-IS,yes,IAS
+Oradea International Airport,RO,RO-BH,yes,OMR
+Bucharest Henri Coandă International Airport,RO,RO-IF,yes,OTP
+Brașov-Ghimbav International Airport,RO,RO-BV,yes,GHV
+Sibiu International Airport,RO,RO-SB,yes,SBZ
+Satu Mare International Airport,RO,RO-SM,yes,SUJ
+Suceava Stefan cel Mare Airport,RO,RO-SV,yes,SCV
+Transilvania Târgu Mureş International Airport,RO,RO-MS,yes,TGM
+Timişoara Traian Vuia Airport,RO,RO-TM,yes,TSR
+Geneva Cointrin International Airport,CH,CH-GE,yes,GVA
+Lugano Airport,CH,CH-TI,yes,LUG
+Bern Airport,CH,CH-BE,yes,BRN
+Zürich Airport,CH,CH-ZH,yes,ZRH
+Sankt Gallen Altenrhein Airport,CH,CH-SG,yes,ACH
+Esenboğa International Airport,TR,TR-06,yes,ESB
+Adana Şakirpaşa Airport,TR,TR-01,yes,ADA
+Antalya International Airport,TR,TR-07,yes,AYT
+Gaziantep International Airport,TR,TR-27,yes,GZT
+Konya Airport,TR,TR-42,yes,KYA
+Amasya Merzifon Airport,TR,TR-05,yes,MZH
+Sivas Nuri Demirağ Airport,TR,TR-58,yes,VAS
+Zonguldak Çaycuma Airport,TR,TR-67,yes,ONQ
+Malatya Erhaç Airport,TR,TR-44,yes,MLX
+Kayseri Erkilet Airport,TR,TR-38,yes,ASR
+Tokat Airport,TR,TR-60,yes,TJK
+Çardak Airport,TR,TR-20,yes,DNZ
+Nevşehir Kapadokya Airport,TR,TR-50,yes,NAV
+İstanbul Atatürk Airport,TR,TR-34,yes,ISL
+Balıkesir Airport,TR,TR-10,yes,BZI
+Çanakkale Airport,TR,TR-17,yes,CKZ
+Adnan Menderes International Airport,TR,TR-35,yes,ADB
+Bursa Yenişehir Airport,TR,TR-16,yes,YEI
+Dalaman International Airport,TR,TR-48,yes,DLM
+Tekirdağ Çorlu Airport,TR,TR-59,yes,TEQ
+Anadolu Airport,TR,TR-26,yes,AOE
+Zafer Airport,TR,TR-43,yes,KZR
+Elazığ Airport,TR,TR-23,yes,EZS
+Ordu–Giresun Airport,TR,TR-52,yes,OGU
+Diyarbakır Airport,TR,TR-21,yes,DIY
+Erzincan Airport,TR,TR-24,yes,ERC
+Erzurum International Airport,TR,TR-25,yes,ERZ
+Kars Airport,TR,TR-36,yes,KSY
+Trabzon International Airport,TR,TR-61,yes,TZX
+Van Ferit Melen Airport,TR,TR-65,yes,VAN
+Batman Airport,TR,TR-72,yes,BAL
+Muş Airport,TR,TR-49,yes,MSR
+Sinop Airport,TR,TR-57,yes,NOP
+Kahramanmaraş Airport,TR,TR-46,yes,KCM
+Ağrı Airport,TR,TR-04,yes,AJI
+Adıyaman Airport,TR,TR-02,yes,ADF
+Mardin Airport,TR,TR-47,yes,MQM
+Şanlıurfa GAP Airport,TR,TR-63,yes,GNY
+Iğdır Airport,TR,TR-76,yes,IGD
+Şırnak Şerafettin Elçi Airport,TR,TR-73,yes,NKT
+Hakkari Yüksekova Airport,TR,TR-30,yes,YKO
+Hatay Airport,TR,TR-31,yes,HTY
+Süleyman Demirel International Airport,TR,TR-32,yes,ISE
+Balıkesir Koca Seyit Airport,TR,TR-10,yes,EDO
+Milas Bodrum International Airport,TR,TR-48,yes,BJV
+Gazipaşa-Alanya Airport,TR,TR-07,yes,GZP
+Samsun-Çarşamba Airport,TR,TR-55,yes,SZF
+Istanbul Sabiha Gökçen International Airport,TR,TR-34,yes,SAW
+İstanbul Airport,TR,TR-34,yes,IST
+Chişinău International Airport,MD,MD-CU,yes,RMO
+Ohrid St. Paul the Apostle Airport,MK,MK-003,yes,OHD
+Skopje International Airport,MK,MK-008,yes,SKP
+Gibraltar Airport,GI,GI-U-A,yes,GIB
+Misrata International Airport,LY,LY-MI,yes,MRA
+Ubari Airport,LY,LY-WD,yes,QUB
+Belgrade Nikola Tesla Airport,RS,RS-00,yes,BEG
+Morava Airport,RS,RS-18,yes,KVO
+Niš Constantine the Great Airport,RS,RS-20,yes,INI
+Podgorica Airport / Podgorica Golubovci Airbase,ME,ME-16,yes,TGD
+Tivat Airport,ME,ME-19,yes,TIV
+Langzhong Gucheng Airport,CN,CN-51,yes,LZG
+M. R. Štefánik Airport,SK,SK-BL,yes,BTS
+Košice International Airport,SK,SK-KI,yes,KSC
+Sliač Airport,SK,SK-BC,yes,SLD
+Poprad-Tatry Airport,SK,SK-PV,yes,TAT
+JAGS McCartney International Airport,TC,TC-GT,yes,GDT
+North Caicos Airport,TC,TC-NC,yes,NCA
+Providenciales International Airport,TC,TC-PR,yes,PLS
+South Caicos Airport,TC,TC-SC,yes,XSC
+Salt Cay Airport,TC,TC-SL,yes,SLX
+Maria Montez International Airport,DO,DO-04,yes,BRX
+Samaná El Catey International Airport,DO,DO-20,yes,AZS
+La Isabela International Airport,DO,DO-01,yes,JBQ
+Casa De Campo International Airport,DO,DO-12,yes,LRM
+Punta Cana International Airport,DO,DO-11,yes,PUJ
+Gregorio Luperon International Airport,DO,DO-18,yes,POP
+Las Américas International Airport,DO,DO-01,yes,SDQ
+Cibao International Airport,DO,DO-25,yes,STI
+La Aurora Airport,GT,GT-GU,yes,GUA
+Puerto Barrios Airport,GT,GT-IZ,yes,PBR
+Quezaltenango Airport,GT,GT-QZ,yes,AAZ
+San José Airport,GT,GT-ES,yes,GSJ
+Mundo Maya International Airport,GT,GT-PE,yes,FRS
+Ailuk Airport,MH,MH-ALK,yes,AIM
+Aur Island Airport,MH,MH-AUR,yes,AUL
+Enyu Airfield,MH,MH-BIK,yes,BII
+Jeh Airport,MH,MH-ALL,yes,JEJ
+Likiep Airport,MH,MH-LIK,yes,LIK
+Maloelap Island Airport,MH,MH-MAL,yes,MAV
+Mejit Atoll Airport,MH,MH-MEJ,yes,MJB
+Majkin Airport,MH,MH-NMU,yes,MJE
+Namorik Airport,MH,MH-NMK,yes,NDK
+Rongelap Island Airport,MH,MH-RON,yes,RNP
+Tinak Airport,MH,MH-ARN,yes,TIC
+Jaluit Airport,MH,MH-JAL,yes,UIT
+Woja Airport,MH,MH-ALL,yes,WJA
+Wotje Airport,MH,MH-WTJ,yes,WTE
+Wotho Island Airport,MH,MH-WTN,yes,WTO
+Goloson International Airport,HN,HN-AT,yes,LCE
+Ramón Villeda Morales International Airport,HN,HN-CR,yes,SAP
+La Laguna Airport,HN,HN-IB,yes,GJA
+Puerto Lempira Airport,HN,HN-GD,yes,PEU
+Juan Manuel Gálvez International Airport,HN,HN-IB,yes,RTB
+Palmerola International Airport / José Enrique Soto Cano Air Base,HN,HN-CM,yes,XPL
+Toncontín International Airport,HN,HN-FM,yes,TGU
+Utila Airport,HN,HN-IB,yes,UII
+Ian Fleming International Airport,JM,JM-05,yes,OCJ
+Norman Manley International Airport,JM,JM-01,yes,KIN
+Sangster International Airport,JM,JM-08,yes,MBJ
+Tinson Pen Airport,JM,JM-02,yes,KTP
+Mili Island Airport,MH,MH-MIL,yes,MIJ
+Heho Airport,MM,MM-17,yes,HEH
+Aeropuerto Internacional Juan N. Álvarez,MX,MX-GRO,yes,ACA
+Aeropuerto Internacional Jesús Terán Peredo,MX,MX-AGU,yes,AGU
+Bahías de Huatulco International Airport,MX,MX-OAX,yes,HUX
+Ciudad del Carmen International Airport,MX,MX-CAM,yes,CME
+Bachigualato Federal International Airport,MX,MX-SIN,yes,CUL
+Aeropuerto Internacional de Chetumal,MX,MX-ROO,yes,CTM
+Ciudad Obregón International Airport,MX,MX-SON,yes,CEN
+Ingeniero Alberto Acuña Ongay International Airport,MX,MX-CAM,yes,CPE
+Abraham González International Airport,MX,MX-CHH,yes,CJS
+Aeropuerto Internacional de Chichen Itza,MX,MX-YUC,yes,CZA
+General Roberto Fierro Villalobos International Airport,MX,MX-CHH,yes,CUU
+General Pedro Jose Mendez International Airport,MX,MX-TAM,yes,CVM
+Aeropuerto Internacional de Cozumel,MX,MX-ROO,yes,CZM
+Ciudad Constitución National Airport,MX,MX-BCS,yes,CUA
+"Aeropuerto Internacional Gral, Guadalupe Victoria",MX,MX-DUR,yes,DGO
+Amado Nervo National Airport,MX,MX-NAY,yes,TPQ
+Aeropuerto Internacional de Ensenada,MX,MX-BCN,yes,ESE
+Guadalajara International Airport,MX,MX-JAL,yes,GDL
+General José María Yáñez International Airport,MX,MX-SON,yes,GYM
+Guerrero Negro Airport,MX,MX-BCN,yes,GUB
+General Ignacio P. Garcia International Airport,MX,MX-SON,yes,HMO
+Aeropuerto Internacional Licenciado Miguel de la Madrid,MX,MX-COL,yes,CLQ
+Aeropuerto Nacional General Antonio Cárdenas Rodríguez,MX,MX-OAX,yes,IZT
+Valle del Fuerte International Airport,MX,MX-SIN,yes,LMM
+Aeropuerto Internacional del Bajío,MX,MX-GUA,yes,BJX
+Manuel Márquez de León International Airport,MX,MX-BCS,yes,LAP
+Loreto International Airport,MX,MX-BCS,yes,LTO
+General Servando Canales International Airport,MX,MX-TAM,yes,MAM
+Aeropuerto Internacional Manuel Crescencio Rejón,MX,MX-YUC,yes,MID
+Aeropuerto Internacional Gral. Rodolfo Sánchez Taboada,MX,MX-BCN,yes,MXL
+General Francisco J. Mujica International Airport,MX,MX-MIC,yes,MLM
+Minatitlán/Coatzacoalcos International Airport,MX,MX-VER,yes,MTT
+Aeropuerto Internacional Lic. Benito Juárez,MX,MX-DIF,yes,MEX
+Monterrey International Airport,MX,MX-NLE,yes,MTY
+General Rafael Buelna International Airport,MX,MX-SIN,yes,MZT
+Quetzalcóatl International Airport,MX,MX-TAM,yes,NLD
+Aeropuerto Internacional Xoxocotlán,MX,MX-OAX,yes,OAX
+El Tajín National Airport,MX,MX-VER,yes,PAZ
+Aeropuerto Internacional Hermanos Serdán,MX,MX-PUE,yes,PBC
+Piedras Negras International Airport,MX,MX-COA,yes,PDS
+Uruapan - Licenciado y General Ignacio Lopez Rayon International Airport,MX,MX-MIC,yes,UPN
+Palenque International Airport,MX,MX-CHP,yes,PQM
+Aeropuerto Internacional Lic. Gustavo Díaz Ordaz,MX,MX-JAL,yes,PVR
+Aeropuerto Internacional de Puerto Escondido,MX,MX-OAX,yes,PXM
+Querétaro Intercontinental Airport,MX,MX-QUE,yes,QRO
+General Lucio Blanco International Airport,MX,MX-TAM,yes,REX
+Aeropuerto Internacional de Los Cabos,MX,MX-BCS,yes,SJD
+Aeropuerto Internacional General Felipe Ángeles,MX,MX-MEX,yes,NLU
+Ponciano Arriaga International Airport,MX,MX-SLP,yes,SLP
+Francisco Sarabia Tinoco International Airport,MX,MX-COA,yes,TRC
+Angel Albino Corzo International Airport,MX,MX-CHP,yes,TGZ
+Aeropuerto Internacional Gral. Abelardo Rodriguez,MX,MX-BCN,yes,TIJ
+Felipe Carrillo Puerto International Airport,MX,MX-ROO,yes,TQO
+General Francisco Javier Mina International Airport,MX,MX-TAM,yes,TAM
+Adolfo López Mateos International Airport,MX,MX-MEX,yes,TLC
+Aeropuerto Internacional de Tapachula,MX,MX-CHP,yes,TAP
+Aeropuerto Internacional de Cancún,MX,MX-ROO,yes,CUN
+Carlos Rovirosa Pérez International Airport,MX,MX-TAB,yes,VSA
+General Heriberto Jara International Airport,MX,MX-VER,yes,VER
+Aeropuerto Internacional General Leobardo C. Ruiz,MX,MX-ZAC,yes,ZCL
+Aeropuerto Internacional de Zihuatanejo,MX,MX-GRO,yes,ZIH
+Aeropuerto Internacional Playa de Oro,MX,MX-COL,yes,ZLO
+Mandalgobi Airport,MN,MN-059,yes,MXW
+Bluefields Airport,NI,NI-AS,yes,BEF
+Costa Esmeralda Airport,NI,NI-RI,yes,ECI
+Augusto C. Sandino (Managua) International Airport,NI,NI-MN,yes,MGA
+Puerto Cabezas Airport,NI,NI-AN,yes,PUZ
+Maleo Airport,ID,ID-ST,yes,MOH
+Bocas del Toro International Airport,PA,PA-1,yes,BOC
+Alonso Valderrama Airport,PA,PA-6,yes,CTD
+Changuinola Captain Manuel Niño International Airport,PA,PA-1,yes,CHX
+Enrique Malek International Airport,PA,PA-4,yes,DAV
+Enrique Adolfo Jimenez Airport,PA,PA-3,yes,ONX
+Panamá Pacífico International Airport,PA,PA-10,yes,BLB
+Marcos A. Gelabert International Airport,PA,PA-8,yes,PAC
+Capt. J. Montenegro Airport,PA,PA-7,yes,PDM
+Scarlett Martinez International Airport,PA,PA-2,yes,RIH
+Tocumen International Airport,PA,PA-8,yes,PTY
+Golfito Airport,CR,CR-P,yes,GLF
+Guanacaste Airport,CR,CR-G,yes,LIR
+Limon International Airport,CR,CR-L,yes,LIO
+Nosara Airport,CR,CR-G,yes,NOB
+Juan Santamaría International Airport,CR,CR-A,yes,SJO
+Puerto Jimenez Airport,CR,CR-P,yes,PJM
+Palmar Sur Airport,CR,CR-P,yes,PMZ
+Tobías Bolaños International Airport,CR,CR-SJ,yes,SYQ
+Quepos Managua Airport,CR,CR-P,yes,XQP
+Monseñor Óscar Arnulfo Romero International Airport,SV,SV-PA,yes,SAL
+Les Cayes Airport,HT,HT-SD,yes,CYA
+Cap Haitien International Airport,HT,HT-ND,yes,CAP
+Jérémie Airport,HT,HT-GA,yes,JEE
+Toussaint Louverture International Airport,HT,HT-OU,yes,PAP
+Gustavo Rizo Airport,CU,CU-14,yes,BCA
+Carlos Manuel de Cespedes Airport,CU,CU-12,yes,BYM
+Máximo Gómez Airport,CU,CU-08,yes,AVI
+Jardines Del Rey Airport,CU,CU-08,yes,CCC
+Jaime Gonzalez Airport,CU,CU-06,yes,CFG
+Vilo Acuña International Airport,CU,CU-99,yes,CYO
+Ignacio Agramonte International Airport,CU,CU-09,yes,CMW
+Antonio Maceo International Airport,CU,CU-13,yes,SCU
+José Martí International Airport,CU,CU-03,yes,HAV
+Frank Pais International Airport,CU,CU-11,yes,HOG
+Sierra Maestra International Airport,CU,CU-12,yes,MZO
+Rafael Cabrera Airport,CU,CU-99,yes,GER
+Abel Santamaria Airport,CU,CU-05,yes,SNU
+Alberto Delgado Airport,CU,CU-07,yes,TND
+Juan Gualberto Gomez International Airport,CU,CU-04,yes,VRA
+Hermanos Ameijeiras Airport,CU,CU-10,yes,VTU
+Faresmaathoda Airport,MV,MV-28,yes,FMT
+Charles Kirkconnell International Airport,KY,KY-CB,yes,CYB
+Owen Roberts International Airport,KY,KY-GC,yes,GCM
+Long Banga Airport,MY,MY-13,yes,LBP
+Congo Town Airport,BS,BS-SA,yes,TZN
+Leonard M Thompson International Airport,BS,BS-CO,yes,MHH
+San Andros Airport,BS,BS-NS,yes,SAQ
+Spring Point Airport,BS,BS-AK,yes,AXP
+Treasure Cay Airport,BS,BS-CO,yes,TCB
+Chub Cay Airport,BS,BS-NS,yes,CCZ
+South Bimini Airport,BS,BS-BI,yes,BIM
+Arthur's Town Airport,BS,BS-CI,yes,ATC
+New Bight Airport,BS,BS-CI,yes,TBI
+Colonel Hill Airport,BS,BS-CK,yes,CRI
+Exuma International Airport,BS,BS-EX,yes,GGT
+North Eleuthera Airport,BS,BS-HI,yes,ELH
+Governor's Harbour Airport,BS,BS-CE,yes,GHB
+Grand Bahama International Airport,BS,BS-FP,yes,FPO
+Inagua Airport,BS,BS-IN,yes,IGA
+May Creek Airport,US,US-AK,yes,MYK
+Deadman's Cay Airport,BS,BS-LI,yes,LGI
+Stella Maris Airport,BS,BS-LI,yes,SML
+Mayaguana Airport,BS,BS-MG,yes,MYG
+Lynden Pindling International Airport,BS,BS-NP,yes,NAS
+San Salvador Airport,BS,BS-SS,yes,ZSA
+Philip S. W. Goldson International Airport,BZ,BZ-BZ,yes,BZE
+Ine Airport,MH,MH-ARN,yes,IMI
+Changbaishan Airport,CN,CN-22,yes,NBS
+Aitutaki Airport,CK,CK-U-A,yes,AIT
+Enua Airport,CK,CK-U-A,yes,AIU
+Mangaia Island Airport,CK,CK-U-A,yes,MGS
+Manihiki Island Airport,CK,CK-U-A,yes,MHX
+Mauke Airport,CK,CK-U-A,yes,MUK
+Mitiaro Island Airport,CK,CK-U-A,yes,MOI
+Tongareva Airport,CK,CK-U-A,yes,PYE
+Rarotonga International Airport,CK,CK-U-A,yes,RAR
+Cicia Airport,FJ,FJ-E,yes,ICI
+Nadi International Airport,FJ,FJ-W,yes,NAN
+Malolo Lailai Island Airport,FJ,FJ-W,yes,PTF
+Vunisea Airport,FJ,FJ-E,yes,KDV
+Mana Island Airport,FJ,FJ-W,yes,MNF
+Moala Airport,FJ,FJ-E,yes,MFJ
+Nausori International Airport,FJ,FJ-C,yes,SUV
+Levuka Airfield,FJ,FJ-E,yes,LEV
+Ngau Airport,FJ,FJ-E,yes,NGI
+Lakeba Island Airport,FJ,FJ-E,yes,LKB
+Labasa Airport,FJ,FJ-N,yes,LBS
+Matei Airport,FJ,FJ-N,yes,TVU
+Koro Island Airport,FJ,FJ-E,yes,KXF
+Rotuma Airport,FJ,FJ-R,yes,RTA
+Savusavu Airport,FJ,FJ-N,yes,SVU
+Yasawa Island Airport,FJ,FJ-W,yes,YAS
+Kaufana Airport,TO,TO-01,yes,EUA
+Fua'amotu International Airport,TO,TO-04,yes,TBU
+Lifuka Island Airport,TO,TO-02,yes,HPA
+Mata'aho Airport,TO,TO-03,yes,NFO
+Kuini Lavenia Airport,TO,TO-03,yes,NTT
+Vava'u International Airport,TO,TO-05,yes,VAV
+Vanua Balavu Airport,FJ,FJ-E,yes,VBV
+Gombe Lawanti International Airport,NG,NG-GO,yes,GMO
+Warri Airport,NG,NG-DE,yes,QRW
+Funafuti International Airport,TV,TV-FUN,yes,FUN
+Bonriki International Airport,KI,KI-G,yes,TRW
+Butaritari Airport,KI,KI-G,yes,BBG
+Aranuka Airport,KI,KI-G,yes,AAK
+Niue International Airport,NU,NU-U-A,yes,IUE
+Ninglang Luguhu Airport,CN,CN-53,yes,NLH
+Pointe Vele Airport,WF,WF-U-A,yes,FUT
+Hihifo Airport,WF,WF-U-A,yes,WLS
+Ofu Airport,AS,AS-MA,yes,OFU
+Asau Airport,WS,WS-VS,yes,AAU
+Faleolo International Airport,WS,WS-AA,yes,APW
+Fitiuta Airport,AS,AS-MA,yes,FTI
+Maota Airport,WS,WS-PA,yes,MXS
+Pago Pago International Airport,AS,AS-WT,yes,PPG
+Faa'a International Airport,PF,PF-U-A,yes,PPT
+Rimatara Airport,PF,PF-U-A,yes,RMT
+Rurutu Airport,PF,PF-U-A,yes,RUR
+Tubuai Airport,PF,PF-U-A,yes,TUB
+Raivavae Airport,PF,PF-U-A,yes,RVV
+Anaa Airport,PF,PF-U-A,yes,AAA
+Fangatau Airport,PF,PF-U-A,yes,FGU
+Tikehau Airport,PF,PF-U-A,yes,TIH
+Apataki Airport,PF,PF-U-A,yes,APK
+Fakarava Airport,PF,PF-U-A,yes,FAV
+Hikueru Airport,PF,PF-U-A,yes,HHZ
+Manihi Airport,PF,PF-U-A,yes,XMH
+Totegegie Airport,PF,PF-U-A,yes,GMR
+Kaukura Airport,PF,PF-U-A,yes,KKR
+Makemo Airport,PF,PF-U-A,yes,MKP
+Napuka Island Airport,PF,PF-U-A,yes,NAU
+Tatakoto Airport,PF,PF-U-A,yes,TKV
+Puka Puka Airport,PF,PF-U-A,yes,PKP
+Takapoto Airport,PF,PF-U-A,yes,TKP
+Arutua Airport,PF,PF-U-A,yes,AXR
+Mataiva Airport,PF,PF-U-A,yes,MVT
+Ahe Airport,PF,PF-U-A,yes,AHE
+Kauehi Airport,PF,PF-U-A,yes,KHZ
+Fakahina Airport,PF,PF-U-A,yes,FHZ
+Naiu Airport,PF,PF-U-A,yes,NIU
+Raroia Airport,PF,PF-U-A,yes,RRR
+Takaroa Airport,PF,PF-U-A,yes,TKX
+Nuku Hiva Airport,PF,PF-U-A,yes,NHV
+Hiva Oa-Atuona Airport,PF,PF-U-A,yes,AUQ
+Ua Pou Airport,PF,PF-U-A,yes,UAP
+Ua Huka Airport,PF,PF-U-A,yes,UAH
+Bora Bora Airport,PF,PF-U-A,yes,BOB
+Rangiroa Airport,PF,PF-U-A,yes,RGI
+Huahine-Fare Airport,PF,PF-U-A,yes,HUH
+Moorea Temae Airport,PF,PF-U-A,yes,MOZ
+Hao Airport,PF,PF-U-A,yes,HOI
+Maupiti Airport,PF,PF-U-A,yes,MAU
+Raiatea Airport,PF,PF-U-A,yes,RFP
+Mota Lava Airport,VU,VU-TOB,yes,MTV
+Sola Airport,VU,VU-TOB,yes,SLH
+Torres Airstrip,VU,VU-TOB,yes,TOH
+Siwo Airport,VU,VU-SEE,yes,EAE
+Craig Cove Airport,VU,VU-MAP,yes,CCV
+Longana Airport,VU,VU-PAM,yes,LOD
+Sara Airport,VU,VU-PAM,yes,SSR
+Tavie Airport,VU,VU-MAP,yes,PBJ
+Lamap Airport,VU,VU-MAP,yes,LPM
+Lamen Bay Airport,VU,VU-SEE,yes,LNB
+Maewo-Naone Airport,VU,VU-PAM,yes,MWF
+Lonorore Airport,VU,VU-PAM,yes,LNE
+Norsup Airport,VU,VU-MAP,yes,NUS
+Gaua Island Airport,VU,VU-TOB,yes,ZGU
+Redcliffe Airport,VU,VU-PAM,yes,RCL
+Santo Pekoa International Airport,VU,VU-SAM,yes,SON
+Tongoa Airport,VU,VU-SEE,yes,TGH
+Uléi Airport,VU,VU-MAP,yes,ULB
+Valesdir Airport,VU,VU-SEE,yes,VLS
+Walaha Airport,VU,VU-PAM,yes,WLH
+Southwest Bay Airport,VU,VU-MAP,yes,SWJ
+North West Santo Airport,VU,VU-SAM,yes,OLJ
+Aneityum Airport,VU,VU-TAE,yes,AUY
+Aniwa Airport,VU,VU-TAE,yes,AWD
+Dillon's Bay Airport,VU,VU-TAE,yes,DLY
+Futuna Airport,VU,VU-TAE,yes,FTA
+Ipota Airport,VU,VU-TAE,yes,IPA
+Bauerfield International Airport,VU,VU-SEE,yes,VLI
+Tanna Airport,VU,VU-TAE,yes,TAH
+Tiga Airport,NC,NC-U-A,yes,TGJ
+Île Art - Waala Airport,NC,NC-U-A,yes,BMY
+Koné Airport,NC,NC-U-A,yes,KNQ
+Île des Pins Airport,NC,NC-U-A,yes,ILP
+Koumac Airport,NC,NC-U-A,yes,KOC
+Lifou Airport,NC,NC-U-A,yes,LIF
+Nouméa Magenta Airport,NC,NC-U-A,yes,GEA
+Maré Airport,NC,NC-U-A,yes,MEE
+Touho Airport,NC,NC-U-A,yes,TOU
+Ouvéa Airport,NC,NC-U-A,yes,UVE
+La Tontouta International Airport,NC,NC-U-A,yes,NOU
+Auckland International Airport,NZ,NZ-AUK,yes,AKL
+Taupo Airport,NZ,NZ-WKO,yes,TUO
+Christchurch International Airport,NZ,NZ-CAN,yes,CHC
+Chatham Islands / Tuuta Airport,NZ,NZ-WGN,yes,CHT
+Dunedin International Airport,NZ,NZ-OTA,yes,DUD
+Gisborne Airport,NZ,NZ-GIS,yes,GIS
+Hokitika Airfield,NZ,NZ-WTC,yes,HKK
+Hamilton International Airport,NZ,NZ-WKO,yes,HLZ
+Kerikeri Airport,NZ,NZ-NTL,yes,KKE
+Kaitaia Airport,NZ,NZ-NTL,yes,KAT
+New Plymouth Airport,NZ,NZ-TKI,yes,NPL
+Hawke's Bay Airport,NZ,NZ-HKB,yes,NPE
+Nelson Airport,NZ,NZ-NSN,yes,NSN
+Invercargill Airport,NZ,NZ-STL,yes,IVC
+Oamaru Airport,NZ,NZ-OTA,yes,OAM
+Palmerston North Airport,NZ,NZ-MWT,yes,PMR
+Picton Aerodrome,NZ,NZ-MBH,yes,PCN
+Queenstown International Airport,NZ,NZ-OTA,yes,ZQN
+Rotorua Regional Airport,NZ,NZ-BOP,yes,ROT
+Tauranga Airport,NZ,NZ-BOP,yes,TRG
+Timaru Airport,NZ,NZ-CAN,yes,TIU
+Woodbourne Airport,NZ,NZ-MBH,yes,BHE
+Wanaka Airport,NZ,NZ-OTA,yes,WKA
+Whakatane Airport,NZ,NZ-BOP,yes,WHK
+Wellington International Airport,NZ,NZ-WGN,yes,WLG
+Whangarei Airport,NZ,NZ-NTL,yes,WRE
+Westport Airport,NZ,NZ-WTC,yes,WSZ
+Wanganui Airport,NZ,NZ-MWT,yes,WAG
+Chaghcharan Airport,AF,AF-GHO,yes,CCN
+Fayzabad Airport,AF,AF-BDS,yes,FBD
+Herat - Khwaja Abdullah Ansari International Airport,AF,AF-HER,yes,HEA
+Kabul International Airport,AF,AF-KAB,yes,KBL
+Ahmad Shah Baba International Airport / Kandahar Airfield,AF,AF-KAN,yes,KDH
+Maymana Zahiraddin Faryabi Airport,AF,AF-FYB,yes,MMZ
+Mazar-i-Sharif International Airport,AF,AF-BAL,yes,MZR
+Zaranj Airport,AF,AF-NIM,yes,ZAJ
+Bahrain International Airport,BH,BH-15,yes,BAH
+Abha International Airport,SA,SA-14,yes,AHB
+Al-Ahsa International Airport,SA,SA-04,yes,HOF
+King Saud Bin Abdulaziz (Al Baha) Airport,SA,SA-11,yes,ABT
+Bisha Airport,SA,SA-14,yes,BHH
+King Fahd International Airport,SA,SA-04,yes,DMM
+King Salman Abdulaziz Airport,SA,SA-01,yes,DWD
+Jizan Regional Airport / King Abdullah bin Abdulaziz Airport,SA,SA-09,yes,GIZ
+Gassim Airport,SA,SA-05,yes,ELQ
+Gurayat Domestic Airport,SA,SA-12,yes,URY
+Ha'il Airport,SA,SA-06,yes,HAS
+King Abdulaziz International Airport,SA,SA-02,yes,JED
+King Khaled Military City Airport,SA,SA-04,yes,KMC
+Prince Mohammad Bin Abdulaziz Airport,SA,SA-03,yes,MED
+Najran Domestic Airport,SA,SA-10,yes,EAM
+Neom Bay Airport,SA,SA-07,yes,NUM
+Al Qaisumah/Hafr Al Batin Airport,SA,SA-04,yes,AQI
+Rafha Domestic Airport,SA,SA-08,yes,RAH
+King Khaled International Airport,SA,SA-01,yes,RUH
+Arar Domestic Airport,SA,SA-08,yes,RAE
+Sharurah Domestic Airport,SA,SA-10,yes,SHW
+Al-Jawf Domestic Airport,SA,SA-12,yes,AJF
+Tabuk Airport,SA,SA-07,yes,TUU
+Ta’if Regional Airport,SA,SA-02,yes,TIF
+Turaif Domestic Airport,SA,SA-08,yes,TUI
+Wadi Al Dawasir Domestic Airport,SA,SA-01,yes,WAE
+Al Wajh Domestic Airport,SA,SA-07,yes,EJH
+Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,SA,SA-03,yes,YNB
+Abadan Airport,IR,IR-06,yes,ABD
+Dezful Airport,IR,IR-06,yes,DEF
+Gachsaran Airport,IR,IR-17,yes,GCH
+Mahshahr Airport,IR,IR-06,yes,MRX
+Lieutenant General Qasem Soleimani International Airport,IR,IR-06,yes,AWZ
+Abu Musa Island Airport,IR,IR-22,yes,AEU
+Bushehr Airport,IR,IR-18,yes,BUZ
+Kish International Airport,IR,IR-22,yes,KIH
+Bandar Lengeh International Airport,IR,IR-22,yes,BDH
+Persian Gulf International Airport,IR,IR-18,yes,PGU
+Shahid Ashrafi Esfahani Airport,IR,IR-05,yes,KSH
+Khoram Abad Airport,IR,IR-15,yes,KHD
+Sanandaj Airport,IR,IR-12,yes,SDG
+Kashan Airport,IR,IR-10,yes,KKS
+Isfahan Shahid Beheshti International Airport,IR,IR-10,yes,IFN
+Sardar-e-Jangal Airport,IR,IR-01,yes,RAS
+Hamadan Airport,IR,IR-13,yes,HDM
+Imam Khomeini International Airport,IR,IR-23,yes,IKA
+Mehrabad International Airport,IR,IR-23,yes,THR
+Payam Karaj International Airport,IR,IR-30,yes,PYK
+Semnan Municipal Airport,IR,IR-20,yes,SNX
+Bandar Abbas International Airport,IR,IR-22,yes,BND
+Ayatollah Hashemi Rafsanjani International Airport,IR,IR-08,yes,KER
+Bam Airport,IR,IR-08,yes,BXR
+Qeshm Dayrestan International Airport,IR,IR-22,yes,GSM
+Rafsanjan Airport,IR,IR-08,yes,RJN
+Birjand International Airport,IR,IR-29,yes,XBJ
+Mashhad International Airport,IR,IR-09,yes,MHD
+Bojnord Airport,IR,IR-28,yes,BJB
+Sabzevar National Airport,IR,IR-09,yes,AFZ
+Nowshahr Airport,IR,IR-02,yes,NSH
+Ramsar Airport,IR,IR-02,yes,RZR
+Sari Dasht-e Naz International Airport,IR,IR-02,yes,SRY
+Lar Airport,IR,IR-07,yes,LRR
+Lamerd Airport,IR,IR-07,yes,LFM
+Shiraz Shahid Dastghaib International Airport,IR,IR-07,yes,SYZ
+Ardabil Airport,IR,IR-24,yes,ADU
+Parsabad-Moghan Airport,IR,IR-24,yes,PFQ
+Urmia Airport,IR,IR-04,yes,OMH
+Tabriz International Airport,IR,IR-03,yes,TBZ
+Shahid Sadooghi Airport,IR,IR-21,yes,AZD
+Chabahar Konarak International Airport,IR,IR-11,yes,ZBR
+Zahedan International Airport,IR,IR-11,yes,ZAH
+Jask Airport,IR,IR-22,yes,JSK
+Queen Alia International Airport,JO,JO-AM,yes,AMM
+Amman Civil (Marka International) Airport,JO,JO-AM,yes,ADJ
+Aqaba King Hussein International Airport,JO,JO-AQ,yes,AQJ
+Kuwait International Airport,KW,KW-FA,yes,KWI
+Beirut Rafic Hariri International Airport,LB,LB-JL,yes,BEY
+Old Harbor Airport,US,US-AK,yes,OLH
+Duqm International Airport,OM,OM-WU,yes,DQM
+Abu Dhabi International Airport,AE,AE-AZ,yes,AUH
+Al Ain International Airport,AE,AE-AZ,yes,AAN
+Dubai International Airport,AE,AE-DU,yes,DXB
+Al Maktoum International Airport,AE,AE-DU,yes,DWC
+Fujairah International Airport,AE,AE-FU,yes,FJR
+Ras Al Khaimah International Airport,AE,AE-RK,yes,RKT
+Sharjah International Airport,AE,AE-SH,yes,SHJ
+Khasab Airport,OM,OM-MU,yes,KHS
+Muscat International Airport,OM,OM-MA,yes,MCT
+Salalah Airport,OM,OM-ZU,yes,SLL
+Sohar Airport,OM,OM-BA,yes,OHS
+Bannu Airport,PK,PK-KP,yes,BNP
+Bahawalpur Airport,PK,PK-PB,yes,BHV
+Chitral Airport,PK,PK-KP,yes,CJL
+Dalbandin Airport,PK,PK-BA,yes,DBA
+Dera Ghazi Khan Airport,PK,PK-PB,yes,DEA
+Dera Ismael Khan Airport,PK,PK-KP,yes,DSK
+Faisalabad International Airport,PK,PK-PB,yes,LYP
+Gwadar International Airport,PK,PK-BA,yes,GWD
+Gilgit Airport,PK,PK-GB,yes,GIL
+Islamabad International Airport,PK,PK-PB,yes,ISB
+Jinnah International Airport,PK,PK-SD,yes,KHI
+Hyderabad Airport,PK,PK-SD,yes,HDD
+Khuzdar Airport,PK,PK-BA,yes,KDD
+Allama Iqbal International Airport,PK,PK-PB,yes,LHE
+Muzaffarabad Airport,PK,PK-JK,yes,MFG
+Moenjodaro Airport,PK,PK-SD,yes,MJD
+Multan International Airport,PK,PK-PB,yes,MUX
+Shaheed Benazirabad Airport,PK,PK-SD,yes,WNS
+Ormara Airport,PK,PK-BA,yes,ORW
+Parachinar Airport,PK,PK-KP,yes,PAJ
+Panjgur Airport,PK,PK-BA,yes,PJG
+Pasni Airport,PK,PK-BA,yes,PSI
+Peshawar International Airport,PK,PK-KP,yes,PEW
+Quetta International Airport,PK,PK-BA,yes,UET
+Shaikh Zaid Airport,PK,PK-PB,yes,RYK
+Rawalakot Airport,PK,PK-JK,yes,RAZ
+Skardu Airport,PK,PK-GB,yes,KDU
+Sukkur Airport,PK,PK-SD,yes,SKZ
+Sehwan Sharif Airport,PK,PK-SD,yes,SYW
+Saidu Sharif Airport,PK,PK-KP,yes,SDT
+Sialkot International Airport,PK,PK-PB,yes,SKT
+Sawan Airport,PK,PK-SD,yes,RZS
+Turbat International Airport,PK,PK-BA,yes,TUK
+Zhob Airport,PK,PK-BA,yes,PZH
+Baghdad International Airport / New Al Muthana Air Base,IQ,IQ-BG,yes,BGW
+Erbil International Airport,IQ,IQ-AR,yes,EBL
+Port Lions Airport,US,US-AK,yes,ORI
+Basra International Airport,IQ,IQ-BA,yes,BSR
+Al Najaf International Airport,IQ,IQ-NA,yes,NJF
+Sulaymaniyah International Airport,IQ,IQ-SW,yes,ISU
+Aleppo International Airport,SY,SY-HL,yes,ALP
+Damascus International Airport,SY,SY-DI,yes,DAM
+Qamishli Airport,SY,SY-HA,yes,KAC
+Hamad International Airport,QA,QA-DA,yes,DOH
+Aden International Airport,YE,YE-AD,yes,ADE
+Al Ghaydah International Airport,YE,YE-MR,yes,AAY
+Hodeidah International Airport,YE,YE-HU,yes,HOD
+Riyan Mukalla International Airport,YE,YE-HD,yes,RIY
+Sana'a International Airport,YE,YE-SN,yes,SAH
+Socotra International Airport,YE,YE-HD,yes,SCT
+Seiyun Hadhramaut International Airport,YE,YE-HD,yes,GXF
+Ta'izz International Airport,YE,YE-TA,yes,TAI
+Zagora Airport,MA,MA-U-A,yes,OZG
+Mulatupo Airport,PA,PS-GY,yes,MPP
+Playón Chico Airport,PA,PS-GY,yes,PYC
+Bahia Piña Airport,PA,PA-5,yes,BFQ
+EL Real Airport,PA,PA-5,yes,ELE
+Raul Arias Espinoza Airport,PA,PA-8,yes,OTD
+Sambú Airport,PA,PA-5,yes,SAX
+Atka Airport,US,US-AK,yes,AKB
+Port Moller Airport,US,US-AK,yes,PML
+Port Alexander Seaplane Base,US,US-AK,yes,PTD
+Barter Island Long Range Radar Station Airport,US,US-AK,yes,BTI
+Bethel Airport,US,US-AK,yes,BET
+Buckland Airport,US,US-AK,yes,BKC
+Wiley Post Will Rogers Memorial Airport,US,US-AK,yes,BRW
+Bettles Airport,US,US-AK,yes,BTT
+Cold Bay Airport,US,US-AK,yes,CDB
+Central Airport,US,US-AK,yes,CEM
+Chalkyitsik Airport,US,US-AK,yes,CIK
+Chefornak Airport,US,US-AK,yes,CYF
+Scammon Bay Airport,US,US-AK,yes,SCM
+Circle City (New) Airport,US,US-AK,yes,IRC
+Merle K (Mudhole) Smith Airport,US,US-AK,yes,CDV
+Yakataga Airport,US,US-AK,yes,CYT
+Deering Airport,US,US-AK,yes,DRG
+Adak Airport,US,US-AK,yes,ADK
+Dillingham Airport,US,US-AK,yes,DLG
+Marshall Don Hunter Sr Airport,US,US-AK,yes,MLL
+Kodiak Airport,US,US-AK,yes,ADQ
+Tom Madsen (Dutch Harbor) Airport,US,US-AK,yes,DUT
+Kongiganak Airport,US,US-AK,yes,KKH
+Eek Airport,US,US-AK,yes,EEK
+Eagle Airport,US,US-AK,yes,EAA
+Elfin Cove Seaplane Base,US,US-AK,yes,ELV
+Emmonak Airport,US,US-AK,yes,EMK
+Kenai Municipal Airport,US,US-AK,yes,ENA
+Fairbanks International Airport,US,US-AK,yes,FAI
+Ambler Airport,US,US-AK,yes,ABL
+Nikolai Airport,US,US-AK,yes,NIB
+Edward G. Pitka Sr Airport,US,US-AK,yes,GAL
+Kwigillingok Airport,US,US-AK,yes,KWK
+Shungnak Airport,US,US-AK,yes,SHG
+Gulkana Airport,US,US-AK,yes,GKN
+Golovin Airport,US,US-AK,yes,GLV
+Gambell Airport,US,US-AK,yes,GAM
+Angoon Seaplane Base,US,US-AK,yes,AGN
+Gustavus Airport,US,US-AK,yes,GST
+Nightmute Airport,US,US-AK,yes,NME
+Skagway Airport,US,US-AK,yes,SGY
+Holy Cross Airport,US,US-AK,yes,HCR
+Huslia Airport,US,US-AK,yes,HSL
+Haines Airport,US,US-AK,yes,HNS
+Homer Airport,US,US-AK,yes,HOM
+Hooper Bay Airport,US,US-AK,yes,HPB
+Hughes Airport,US,US-AK,yes,HUS
+Hydaburg Seaplane Base,US,US-AK,yes,HYG
+Igiugig Airport,US,US-AK,yes,IGG
+Egegik Airport,US,US-AK,yes,EGX
+Bob Baker Memorial Airport,US,US-AK,yes,IAN
+Iliamna Airport,US,US-AK,yes,ILI
+Indian Mountain LRRS Airport,US,US-AK,yes,UTO
+Wales Airport,US,US-AK,yes,WAA
+Chignik Airport,US,US-AK,yes,KCG
+Juneau International Airport,US,US-AK,yes,JNU
+Koliganek Airport,US,US-AK,yes,KGK
+False Pass Airport,US,US-AK,yes,KFP
+Akhiok Airport,US,US-AK,yes,AKK
+Kipnuk Airport,US,US-AK,yes,KPN
+Koyuk Alfred Adams Airport,US,US-AK,yes,KKA
+King Salmon Airport,US,US-AK,yes,AKN
+Nikolski Air Station,US,US-AK,yes,IKO
+Anaktuvuk Pass Airport,US,US-AK,yes,AKP
+Ketchikan International Airport,US,US-AK,yes,KTN
+Kaltag Airport,US,US-AK,yes,KAL
+Klawock Airport,US,US-AK,yes,KLW
+Karluk Airport,US,US-AK,yes,KYK
+Larsen Bay Airport,US,US-AK,yes,KLN
+Kalskag Airport,US,US-AK,yes,KLG
+Cape Lisburne LRRS Airport,US,US-AK,yes,LUR
+Manokotak Airport,US,US-AK,yes,KMO
+McGrath Airport,US,US-AK,yes,MCG
+Minchumina Airport,US,US-AK,yes,LMA
+St Michael Airport,US,US-AK,yes,SMK
+Manley Hot Springs Airport,US,US-AK,yes,MLY
+Metlakatla Seaplane Base,US,US-AK,yes,MTM
+Mountain Village Airport,US,US-AK,yes,MOU
+Merrill Field,US,US-AK,yes,MRI
+Mekoryuk Airport,US,US-AK,yes,MYU
+Napakiak Airport,US,US-AK,yes,WNA
+Ted Stevens Anchorage International Airport,US,US-AK,yes,ANC
+Aniak Airport,US,US-AK,yes,ANI
+Nondalton Airport,US,US-AK,yes,NNL
+Funter Bay Seaplane Base,US,US-AK,yes,FNR
+Nulato Airport,US,US-AK,yes,NUL
+Anvik Airport,US,US-AK,yes,ANV
+New Stuyahok Airport,US,US-AK,yes,KNW
+Kobuk Airport,US,US-AK,yes,OBU
+Hoonah Airport,US,US-AK,yes,HNH
+Nome Airport,US,US-AK,yes,OME
+Toksook Bay Airport,US,US-AK,yes,OOK
+Northway Airport,US,US-AK,yes,ORT
+Ralph Wien Memorial Airport,US,US-AK,yes,OTZ
+Nelson Lagoon Airport,US,US-AK,yes,NLG
+St George Airport,US,US-AK,yes,STG
+Perryville Airport,US,US-AK,yes,KPV
+Petersburg James A Johnson Airport,US,US-AK,yes,PSG
+Port Heiden Airport,US,US-AK,yes,PTH
+Napaskiak Airport,US,US-AK,yes,PKA
+Platinum Airport,US,US-AK,yes,PTU
+Pilot Point Airport,US,US-AK,yes,PIP
+Point Hope Airport,US,US-AK,yes,PHO
+Quinhagak Airport,US,US-AK,yes,KWN
+Nuiqsut Airport,US,US-AK,yes,NUI
+Arctic Village Airport,US,US-AK,yes,ARC
+Russian Mission Airport,US,US-AK,yes,RSH
+Ruby Airport,US,US-AK,yes,RBY
+Savoonga Airport,US,US-AK,yes,SVA
+Deadhorse Airport,US,US-AK,yes,SCC
+Sand Point Airport,US,US-AK,yes,SDP
+Shishmaref Airport,US,US-AK,yes,SHH
+Sitka Rocky Gutierrez Airport,US,US-AK,yes,SIT
+Selawik Airport,US,US-AK,yes,WLK
+Sleetmute Airport,US,US-AK,yes,SLQ
+St Mary's Airport,US,US-AK,yes,KSM
+St Paul Island Airport,US,US-AK,yes,SNP
+Seldovia Airport,US,US-AK,yes,SOV
+Ralph M Calhoun Memorial Airport,US,US-AK,yes,TAL
+Tin City Long Range Radar Station Airport,US,US-AK,yes,TNC
+Teller Airport,US,US-AK,yes,TLA
+Togiak Airport,US,US-AK,yes,TOG
+Atqasuk Edward Burnell Sr Memorial Airport,US,US-AK,yes,ATK
+Alakanuk Airport,US,US-AK,yes,AUK
+Unalakleet Airport,US,US-AK,yes,UNK
+Akutan Airport,US,US-AK,yes,KQA
+Chevak Airport,US,US-AK,yes,VAK
+King Cove Airport,US,US-AK,yes,KVC
+Valdez Pioneer Field,US,US-AK,yes,VDZ
+Venetie Airport,US,US-AK,yes,VEE
+Kivalina Airport,US,US-AK,yes,KVL
+Beaver Airport,US,US-AK,yes,WBQ
+Wrangell Airport,US,US-AK,yes,WRG
+Wainwright Airport,US,US-AK,yes,AIN
+White Mountain Airport,US,US-AK,yes,WMO
+Noatak Airport,US,US-AK,yes,WTK
+Yakutat Airport,US,US-AK,yes,YAK
+Pelican Seaplane Base,US,US-AK,yes,PEC
+Akiak Airport,US,US-AK,yes,AKI
+Allakaket Airport,US,US-AK,yes,AET
+Chenega Bay Airport,US,US-AK,yes,NCN
+Clarks Point Airport,US,US-AK,yes,CLP
+Elim Airport,US,US-AK,yes,ELI
+Kasigluk Airport,US,US-AK,yes,KUK
+Kokhanok Airport,US,US-AK,yes,KNK
+Kotlik Airport,US,US-AK,yes,KOT
+Brevig Mission Airport,US,US-AK,yes,KTS
+Koyukuk Airport,US,US-AK,yes,KYU
+Kwethluk Airport,US,US-AK,yes,KWT
+Robert (Bob) Curtis Memorial Airport,US,US-AK,yes,ORV
+Shaktoolik Airport,US,US-AK,yes,SKK
+Tok Junction Airport,US,US-AK,yes,TKJ
+South Naknek Number 2 Airport,US,US-AK,yes,WSN
+Fort Yukon Airport,US,US-AK,yes,FYU
+Tadji Airport,PG,PG-SAN,yes,TAJ
+Awaba Airport,PG,PG-WPD,yes,AWB
+Gasmata Island Airport,PG,PG-WBK,yes,GMI
+Ihu Airport,PG,PG-GPK,yes,IHU
+Jacquinot Bay Airport,PG,PG-EBR,yes,JAQ
+Kandrian Airport,PG,PG-WBK,yes,KDR
+Kokoda Airport,PG,PG-NPP,yes,KKD
+Kamusi Airport,PG,PG-WPD,yes,KUY
+Lake Murray Airport,PG,PG-WPD,yes,LMY
+Obo Airport,PG,PG-WPD,yes,OBX
+Balimo Airport,PG,PG-WPD,yes,OPU
+Suki Airport,PG,PG-WPD,yes,SKC
+Tufi Airport,PG,PG-NPP,yes,TFI
+Nuku Airport,PG,PG-SAN,yes,UKU
+Baimuru Airport,PG,PG-GPK,yes,VMU
+Wipim Airport,PG,PG-WPD,yes,WPM
+Port Graham Airport,US,US-AK,yes,PGM
+Rota International Airport,MP,MP-U-A,yes,ROP
+Saipan International Airport,MP,MP-U-A,yes,SPN
+Antonio B. Won Pat International Airport,GU,GU-U-A,yes,GUM
+Tinian International Airport,MP,MP-U-A,yes,TIQ
+Laguindingan International Airport,PH,PH-MSR,yes,CGY
+Cagayan North International Airport,PH,PH-CAG,yes,LLC
+El Nido Airport,PH,PH-PLW,yes,ENI
+Hana Airport,US,US-HI,yes,HNM
+Kapalua Airport,US,US-HI,yes,JHM
+Ellison Onizuka Kona International Airport at Keahole,US,US-HI,yes,KOA
+Lihue Airport,US,US-HI,yes,LIH
+Kalaupapa Airport,US,US-HI,yes,LUP
+Molokai Airport,US,US-HI,yes,MKK
+Waimea Kohala Airport,US,US-HI,yes,MUE
+Daniel K Inouye International Airport,US,US-HI,yes,HNL
+Lanai Airport,US,US-HI,yes,LNY
+Kahului International Airport,US,US-HI,yes,OGG
+Hilo International Airport,US,US-HI,yes,ITO
+Eniwetok Airport,MH,MH-ENI,yes,ENT
+Marshall Islands International Airport,MH,MH-MAJ,yes,MAJ
+Kaieteur International Airport,GY,GY-PT,yes,KAI
+Bucholz Army Air Field,MH,MH-KWA,yes,KWA
+Cassidy International Airport,KI,KI-L,yes,CXI
+Point Lay LRRS Airport,US,US-AK,yes,PIZ
+Chuuk International Airport,FM,FM-TRK,yes,TKK
+Pohnpei International Airport,FM,FM-PNI,yes,PNI
+Babelthuap Airport,PW,PW-004,yes,ROR
+Kosrae International Airport,FM,FM-KSA,yes,KSA
+Yap International Airport,FM,FM-YAP,yes,YAP
+Wake Island Airfield,UM,UM-79,yes,AWK
+Kili Airport,MH,MH-KIL,yes,KIO
+Kinmen Airport,TW,TW-X-KM,yes,KNH
+Matsu Nangan Airport,TW,TW-X-LK,yes,LZN
+Taitung Airport,TW,TW-TTT,yes,TTT
+Kaohsiung International Airport,TW,TW-KHH,yes,KHH
+Chiayi Airport,TW,TW-CYQ,yes,CYI
+Hengchun Airport,TW,TW-PIF,yes,HCN
+Lanyu Airport,TW,TW-TTT,yes,KYD
+Taichung International Airport / Ching Chuang Kang Air Base,TW,TW-TXG,yes,RMQ
+Matsu Beigan Airport,TW,TW-X-LK,yes,MFK
+Tainan International Airport / Tainan Air Base,TW,TW-TNN,yes,TNN
+Penghu Magong Airport,TW,TW-PEN,yes,MZG
+Pingtung North Airport,TW,TW-PIF,yes,PIF
+Taipei Songshan Airport,TW,TW-TPE,yes,TSA
+Taiwan Taoyuan International Airport,TW,TW-TAO,yes,TPE
+Hualien Airport,TW,TW-HUA,yes,HUN
+Red Devil Airport,US,US-AK,yes,RDV
+Alxa Right Banner Badanjilin Airport,CN,CN-15,yes,RHT
+Narita International Airport,JP,JP-12,yes,NRT
+Shinshu-Matsumoto Airport,JP,JP-20,yes,MMJ
+Ibaraki Airport / JASDF Hyakuri Air Base,JP,JP-08,yes,IBR
+Kansai International Airport,JP,JP-27,yes,KIX
+Nanki Shirahama Airport,JP,JP-30,yes,SHM
+Kobe Airport,JP,JP-28,yes,UKB
+Konotori Tajima Airport,JP,JP-28,yes,TJH
+Tokachi-Obihiro Airport,JP,JP-01,yes,OBO
+New Chitose Airport,JP,JP-01,yes,CTS
+Hakodate Airport,JP,JP-01,yes,HKD
+Kushiro Airport,JP,JP-01,yes,KUH
+Memanbetsu Airport,JP,JP-01,yes,MMB
+Nakashibetsu Airport,JP,JP-01,yes,SHB
+Sapporo Okadama Airport,JP,JP-01,yes,OKD
+Wakkanai Airport,JP,JP-01,yes,WKJ
+Amakusa Airport,JP,JP-43,yes,AXJ
+Iki Airport,JP,JP-42,yes,IKI
+Yamaguchi Ube Airport,JP,JP-35,yes,UBJ
+Tsushima Airport,JP,JP-42,yes,TSJ
+Monbetsu Airport,JP,JP-01,yes,MBE
+Asahikawa Airport,JP,JP-01,yes,AKJ
+Okushiri Airport,JP,JP-01,yes,OIR
+Rishiri Airport,JP,JP-01,yes,RIS
+Yakushima Airport,JP,JP-46,yes,KUM
+Fukue Airport,JP,JP-42,yes,FUJ
+Fukuoka Airport,JP,JP-40,yes,FUK
+New Tanegashima Airport,JP,JP-46,yes,TNE
+Kagoshima Airport,JP,JP-46,yes,KOJ
+Miyazaki Airport,JP,JP-45,yes,KMI
+Oita Airport,JP,JP-44,yes,OIT
+Kitakyushu Airport,JP,JP-40,yes,KKJ
+Saga Airport,JP,JP-41,yes,HSG
+Kumamoto Airport,JP,JP-43,yes,KMJ
+Nagasaki Airport,JP,JP-42,yes,NGS
+Chubu Centrair International Airport,JP,JP-23,yes,NGO
+Amami Airport,JP,JP-46,yes,ASJ
+Okinoerabu Airport,JP,JP-46,yes,OKE
+Kikai Airport,JP,JP-46,yes,KKX
+Tokunoshima Airport,JP,JP-46,yes,TKN
+Nagoya Airport / JASDF Komaki Air Base,JP,JP-23,yes,NKM
+Komatsu Airport / JASDF Komatsu Air Base,JP,JP-17,yes,KMQ
+Oki Global Geopark Airport,JP,JP-32,yes,OKI
+Mount Fuji Shizuoka Airport,JP,JP-22,yes,FSZ
+Toyama Airport,JP,JP-16,yes,TOY
+Noto Satoyama Airport,JP,JP-17,yes,NTQ
+Hiroshima Airport,JP,JP-34,yes,HIJ
+Okayama Momotaro Airport,JP,JP-33,yes,OKJ
+Izumo Enmusubi Airport,JP,JP-32,yes,IZO
+Yonago Kitaro Airport / JASDF Miho Air Base,JP,JP-31,yes,YGJ
+Iwakuni Kintaikyo Airport / Marine Corps Air Station Iwakuni,JP,JP-35,yes,IWK
+Kochi Ryoma Airport,JP,JP-39,yes,KCZ
+Matsuyama Airport,JP,JP-38,yes,MYJ
+Osaka International Airport,JP,JP-27,yes,ITM
+Tottori Sand Dunes Conan Airport,JP,JP-31,yes,TTJ
+Tokushima Awaodori Airport / JMSDF Tokushima Air Base,JP,JP-36,yes,TKS
+Takamatsu Airport,JP,JP-37,yes,TAK
+Iwami Airport,JP,JP-32,yes,IWJ
+Aomori Airport,JP,JP-02,yes,AOJ
+Yamagata Airport,JP,JP-06,yes,GAJ
+Sado Airport,JP,JP-15,yes,SDS
+Fukushima Airport,JP,JP-07,yes,FKS
+Iwate Hanamaki Airport,JP,JP-03,yes,HNA
+Akita Airport,JP,JP-05,yes,AXT
+Misawa Airport / Misawa Air Base,JP,JP-02,yes,MSJ
+Niigata Airport,JP,JP-15,yes,KIJ
+Odate Noshiro Airport,JP,JP-05,yes,ONJ
+Sendai Airport,JP,JP-04,yes,SDJ
+Shonai Airport,JP,JP-06,yes,SYO
+Hachijojima Airport,JP,JP-13,yes,HAC
+Oshima Airport,JP,JP-13,yes,OIM
+Miyakejima Airport,JP,JP-13,yes,MYE
+Tokyo Haneda International Airport,JP,JP-13,yes,HND
+Muan International Airport,KR,KR-46,yes,MWX
+Gwangju Airport,KR,KR-29,yes,KWJ
+Gunsan Airport / Kunsan Air Base,KR,KR-45,yes,KUV
+Yeosu Airport,KR,KR-46,yes,RSU
+Wonju Airport / Hoengseong Air Base (K-38/K-46),KR,KR-42,yes,WJU
+Yangyang International Airport,KR,KR-42,yes,YNY
+Jeju International Airport,KR,KR-49,yes,CJU
+Gimhae International Airport,KR,KR-26,yes,PUS
+Sacheon Airport / Sacheon Air Base,KR,KR-48,yes,HIN
+Ulsan Airport,KR,KR-31,yes,USN
+Incheon International Airport,KR,KR-28,yes,ICN
+Gimpo International Airport,KR,KR-11,yes,GMP
+Pohang Airport (G-815/K-3),KR,KR-47,yes,KPO
+Daegu Airport,KR,KR-27,yes,TAE
+Cheongju International Airport/Cheongju Air Base (K-59/G-513),KR,KR-43,yes,CJJ
+Rampart Airport,US,US-AK,yes,RMP
+Naha Airport / JASDF Naha Air Base,JP,JP-47,yes,OKA
+Kumejima Airport,JP,JP-47,yes,UEO
+Minamidaito Airport,JP,JP-47,yes,MMD
+Miyako Airport,JP,JP-47,yes,MMY
+Aguni Airport,JP,JP-47,yes,AGJ
+Kitadaito Airport,JP,JP-47,yes,KTD
+Tarama Airport,JP,JP-47,yes,TRA
+Yoron Airport,JP,JP-46,yes,RNJ
+Yonaguni Airport,JP,JP-47,yes,OGN
+Subic Bay International Airport / Naval Air Station Cubi Point,PH,PH-ZMB,yes,SFS
+Clark International Airport / Clark Air Base,PH,PH-PAM,yes,CRK
+Laoag International Airport,PH,PH-ILN,yes,LAO
+Ninoy Aquino International Airport,PH,PH-00,yes,MNL
+Cuyo Airport,PH,PH-PLW,yes,CYU
+Cotabato (Awang) Airport,PH,PH-MDN,yes,CBO
+Francisco Bangoy International Airport,PH,PH-DAS,yes,DVO
+Bancasi Airport,PH,PH-AGN,yes,BXU
+Dipolog Airport,PH,PH-ZAN,yes,DPL
+Camiguin Airport,PH,PH-CAM,yes,CGM
+Jolo Airport,PH,PH-SLU,yes,JOL
+Sanga Sanga Airport,PH,PH-TAW,yes,TWT
+Labo Airport,PH,PH-MSC,yes,OZC
+Pagadian Airport,PH,PH-ZAS,yes,PAG
+General Santos International Airport,PH,PH-SCO,yes,GES
+Surigao Airport,PH,PH-SUN,yes,SUG
+Tandag Airport,PH,PH-SUR,yes,TDG
+Zamboanga International Airport,PH,PH-ZAS,yes,ZAM
+Siargao Airport,PH,PH-SUN,yes,IAO
+Cesar Lim Rodriguez (Taytay-Sandoval) Airport,PH,PH-PLW,yes,RZP
+Bohol-Panglao International Airport,PH,PH-BOH,yes,TAG
+San Vicente Airport,PH,PH-PLW,yes,SWL
+Loakan Airport,PH,PH-BEN,yes,BAG
+San Jose Airport,PH,PH-MDC,yes,SJI
+Naga Airport,PH,PH-CAS,yes,WNP
+Basco Airport,PH,PH-BTN,yes,BSO
+Dr Juan C Angara Airport,PH,PH-AUR,yes,BQA
+San Fernando Airport,PH,PH-LUN,yes,SFE
+Tuguegarao Airport,PH,PH-CAG,yes,TUG
+Virac Airport,PH,PH-CAT,yes,VRC
+Cauayan Airport,PH,PH-ISA,yes,CYZ
+Daniel Z. Romualdez Airport,PH,PH-LEY,yes,TAC
+Bacolod-Silay Airport,PH,PH-NEC,yes,BCD
+Calbayog Airport,PH,PH-WSA,yes,CYP
+Sibulan Airport,PH,PH-NER,yes,DGT
+Godofredo P. Ramos Airport,PH,PH-AKL,yes,MPH
+Catarman National Airport,PH,PH-NSA,yes,CRM
+Iloilo International Airport,PH,PH-ILI,yes,ILO
+Moises R. Espinosa Airport,PH,PH-MAS,yes,MBT
+Kalibo International Airport,PH,PH-AKL,yes,KLO
+Mactan Cebu International Airport,PH,PH-CEB,yes,CEB
+Puerto Princesa International Airport / PAF Antonio Bautista Air Base,PH,PH-PLW,yes,PPS
+Roxas Airport,PH,PH-CAP,yes,RXS
+Tugdan Airport,PH,PH-ROM,yes,TBH
+Francisco B. Reyes (Busuanga) Airport,PH,PH-PLW,yes,USU
+Red Sea International Airport,SA,SA-07,yes,RSI
+Nogliki Airport,RU,RU-SAK,yes,NGK
+Grozny Airport,RU,RU-CE,yes,GRV
+Taksimo Airport,RU,RU-BU,yes,TKM
+Motygino Airport,RU,RU-KYA,yes,MJY
+Lopez Island Airport,US,US-WA,yes,LPS
+Kenmore Air Harbor LLC Seaplane Base,US,US-WA,yes,KEH
+General Urquiza Airport,AR,AR-E,yes,PRA
+Rosario Islas Malvinas International Airport,AR,AR-S,yes,ROS
+Sauce Viejo Airport,AR,AR-S,yes,SFN
+Jorge Newbery Airpark,AR,AR-C,yes,AEP
+Ingeniero Ambrosio Taravella Airport,AR,AR-X,yes,COR
+Minister Pistarini International Airport,AR,AR-B,yes,EZE
+El Plumerillo Airport,AR,AR-M,yes,MDZ
+Suboficial Ay Santiago Germano Airport,AR,AR-M,yes,AFA
+Coronel Felipe Varela International Airport,AR,AR-K,yes,CTC
+Vicecomodoro Angel D. La Paz Aragonés Airport,AR,AR-G,yes,SDE
+Capitan V A Almonacid Airport,AR,AR-F,yes,IRJ
+Termas de Río Hondo international Airport,AR,AR-G,yes,RHD
+Teniente Benjamin Matienzo Airport,AR,AR-T,yes,TUC
+Domingo Faustino Sarmiento Airport,AR,AR-J,yes,UAQ
+Brigadier Mayor D Cesar Raul Ojeda Airport,AR,AR-D,yes,LUQ
+Corrientes Airport,AR,AR-W,yes,CNQ
+Resistencia International Airport,AR,AR-H,yes,RES
+Aeropuerto Nacional de Formosa,AR,AR-P,yes,FMA
+Cataratas Del Iguazú International Airport,AR,AR-N,yes,IGR
+Libertador Gral D Jose De San Martin Airport,AR,AR-N,yes,PSS
+Martin Miguel De Guemes International Airport,AR,AR-A,yes,SLA
+Gobernador Horacio Guzman International Airport,AR,AR-Y,yes,JUJ
+General Enrique Mosconi Airport,AR,AR-A,yes,TTG
+General E. Mosconi Airport,AR,AR-U,yes,CRD
+Brigadier Antonio Parodi Airport,AR,AR-U,yes,EQS
+Las Heras Airport,AR,AR-Z,yes,LHS
+Antoine de Saint Exupéry Airport,AR,AR-R,yes,OES
+Almirante Marco Andres Zar Airport,AR,AR-U,yes,REL
+Gobernador Castello Airport,AR,AR-R,yes,VDM
+El Tehuelche Airport,AR,AR-U,yes,PMY
+El Calafate - Commander Armando Tola International Airport,AR,AR-Z,yes,FTE
+Puerto Deseado Airport,AR,AR-Z,yes,PUD
+Gobernador Ramón Trejo Noel International Airport,AR,AR-V,yes,RGA
+Piloto Civil N. Fernández Airport,AR,AR-Z,yes,RGL
+Malvinas Argentinas Airport,AR,AR-V,yes,USH
+Capitan D Daniel Vazquez Airport,AR,AR-Z,yes,ULA
+Perito Moreno Airport,AR,AR-Z,yes,PMQ
+Gobernador Gregores Airport,AR,AR-Z,yes,GGS
+28 de Noviembre Airport,AR,AR-Z,yes,RYO
+Santa Cruz Airport,AR,AR-Z,yes,RZA
+Comandante Espora Airport,AR,AR-B,yes,BHI
+Santa Teresita Airport,AR,AR-B,yes,SST
+Ástor Piazzola International Airport,AR,AR-B,yes,MDQ
+Presidente Peron Airport,AR,AR-Q,yes,NQN
+Necochea Airport,AR,AR-B,yes,NEC
+Santa Rosa Airport,AR,AR-L,yes,RSA
+San Carlos De Bariloche Airport,AR,AR-R,yes,BRC
+Aviador C. Campos Airport,AR,AR-Q,yes,CPC
+Araraquara Airport,BR,BR-SP,yes,AQA
+Aracaju - Santa Maria International Airport,BR,BR-SE,yes,AJU
+Piloto Osvaldo Marques Dias Airport,BR,BR-MT,yes,AFL
+Araçatuba Airport,BR,BR-SP,yes,ARU
+Romeu Zema Airport,BR,BR-MG,yes,AAX
+Val de Cans/Júlio Cezar Ribeiro International Airport,BR,BR-PA,yes,BEL
+Presidente Juscelino Kubitschek International Airport,BR,BR-DF,yes,BSB
+Atlas Brasil Cantanhede Airport,BR,BR-RR,yes,BVB
+Coronel Adalberto Mendes da Silva Airport,BR,BR-PR,yes,CAC
+Cabo Frio Airport,BR,BR-RJ,yes,CFB
+Caçador Airport,BR,BR-SC,yes,CFC
+Tancredo Neves International Airport,BR,BR-MG,yes,CNF
+Campo Grande Airport,BR,BR-MS,yes,CGR
+Serafin Enoss Bertaso Airport,BR,BR-SC,yes,XAP
+Carajás Airport,BR,BR-PA,yes,CKS
+Forquilhinha - Criciúma  Airport,BR,BR-SC,yes,CCM
+Nelson Ribeiro Guimarães Airport,BR,BR-GO,yes,CLV
+Bartolomeu Lisandro Airport,BR,BR-RJ,yes,CAW
+Corumbá International Airport,BR,BR-MS,yes,CMG
+Afonso Pena Airport,BR,BR-PR,yes,CWB
+Hugo Cantergiani Regional Airport,BR,BR-RS,yes,CXJ
+Marechal Rondon Airport,BR,BR-MT,yes,CGB
+Cruzeiro do Sul Airport,BR,BR-AC,yes,CZS
+Bonito Airport,BR,BR-MS,yes,BYO
+Presidente Prudente Airport,BR,BR-SP,yes,PPB
+Eduardo Gomes International Airport,BR,BR-AM,yes,MAO
+Cataratas International Airport,BR,BR-PR,yes,IGU
+Hercílio Luz International Airport,BR,BR-SC,yes,FLN
+Fernando de Noronha Airport,BR,BR-PE,yes,FEN
+Pinto Martins International Airport,BR,BR-CE,yes,FOR
+Rio Galeão – Tom Jobim International Airport,BR,BR-RJ,yes,GIG
+Santa Genoveva Airport,BR,BR-GO,yes,GYN
+Guarulhos - Governador André Franco Montoro International Airport,BR,BR-SP,yes,GRU
+Tancredo Thomas de Faria Airport,BR,BR-PR,yes,GPB
+Coronel Altino Machado Airport,BR,BR-MG,yes,GVR
+Altamira Interstate Airport,BR,BR-PA,yes,ATM
+Itaituba Airport,BR,BR-PA,yes,ITB
+Bahia - Jorge Amado Airport,BR,BR-BA,yes,IOS
+Usiminas Airport,BR,BR-MG,yes,IPN
+Prefeito Renato Moreira Airport,BR,BR-MA,yes,IMP
+Humberto Ghizzo Bortoluzzi Regional Airport,BR,BR-SC,yes,JJG
+Francisco de Assis Airport,BR,BR-MG,yes,JDF
+Presidente Castro Pinto International Airport,BR,BR-PB,yes,JPA
+Orlando Bezerra de Menezes Airport,BR,BR-CE,yes,JDO
+Lauro Carneiro de Loyola Airport,BR,BR-SC,yes,JOI
+Presidente João Suassuna Airport,BR,BR-PB,yes,CPV
+Viracopos International Airport,BR,BR-SP,yes,VCP
+Coronel Horácio de Mattos Airport,BR,BR-BA,yes,LEC
+Lages Airport,BR,BR-SC,yes,LAJ
+Governador José Richa Airport,BR,BR-PR,yes,LDB
+João Correa da Rocha Airport,BR,BR-PA,yes,MAB
+Monte Dourado - Serra do Areão Airport,BR,BR-PA,yes,MEU
+Macaé Benedito Lacerda Airport,BR,BR-RJ,yes,MEA
+Regional de Maringá - Sílvio Name Júnior Airport,BR,BR-PR,yes,MGF
+Mário Ribeiro Airport,BR,BR-MG,yes,MOC
+Frank Miloye Milenkowichi–Marília State Airport,BR,BR-SP,yes,MII
+Zumbi dos Palmares Airport,BR,BR-AL,yes,MCZ
+Macapá - Alberto Alcolumbre International Airport,BR,BR-AP,yes,MCP
+Dix-Sept Rosado Airport,BR,BR-RN,yes,MVF
+Manicoré Airport,BR,BR-AM,yes,MNX
+Ministro Victor Konder International Airport,BR,BR-SC,yes,NVT
+Santo Ângelo Airport,BR,BR-RS,yes,GEL
+Salgado Filho International Airport,BR,BR-RS,yes,POA
+Parnaíba - Prefeito Doutor João Silva Filho International Airport,BR,BR-PI,yes,PHB
+Lauro Kurtz Airport,BR,BR-RS,yes,PFB
+Brigadeiro Lysias Rodrigues Airport,BR,BR-TO,yes,PMW
+João Simões Lopes Neto International Airport,BR,BR-RS,yes,PET
+Senador Nilo Coelho Airport,BR,BR-PE,yes,PNZ
+Ponta Porã Airport,BR,BR-MS,yes,PMG
+Porto Seguro Airport,BR,BR-BA,yes,BPS
+Governador Jorge Teixeira de Oliveira Airport,BR,BR-RO,yes,PVH
+Rio Branco-Plácido de Castro International Airport,BR,BR-AC,yes,RBR
+Recife/Guararapes - Gilberto Freyre International Airport,BR,BR-PE,yes,REC
+Santos Dumont Airport,BR,BR-RJ,yes,SDU
+Leite Lopes Airport,BR,BR-SP,yes,RAO
+Barreirinhas National Airport,BR,BR-MA,yes,BRB
+São Gonçalo do Amarante - Governador Aluízio Alves International Airport,BR,BR-RN,yes,NAT
+Professor Urbano Ernesto Stumpf Airport,BR,BR-SP,yes,SJK
+Marechal Cunha Machado International Airport,BR,BR-MA,yes,SLZ
+Santa Maria Airport,BR,BR-RS,yes,RIA
+Santarém - Maestro Wilson Fonseca International Airport,BR,BR-PA,yes,STM
+Adolino Bedin Regional Airport,BR,BR-MT,yes,SMT
+Congonhas Airport,BR,BR-SP,yes,CGH
+Prof. Eribelto Manoel Reino State Airport,BR,BR-SP,yes,SJP
+Deputado Luiz Eduardo Magalhães International Airport,BR,BR-BA,yes,SSA
+Trombetas Airport,BR,BR-PA,yes,TMT
+Una-Comandatuba Airport,BR,BR-BA,yes,UNA
+Toledo - Luiz Dalcanale Filho Municipal Airport,BR,BR-PR,yes,TOW
+Senador Petrônio Portela Airport,BR,BR-PI,yes,THE
+Tefé Airport,BR,BR-AM,yes,TFF
+Tabatinga Airport,BR,BR-AM,yes,TBT
+Tucuruí Airport,BR,BR-PA,yes,TUR
+São Gabriel da Cachoeira Airport,BR,BR-AM,yes,SJL
+Paulo Afonso Airport,BR,BR-BA,yes,PAV
+Rubem Berta Airport,BR,BR-RS,yes,URG
+Ten. Cel. Aviador César Bombonato Airport,BR,BR-MG,yes,UDI
+Mário de Almeida Franco Airport,BR,BR-MG,yes,UBA
+Brigadeiro Camarão Airport,BR,BR-RO,yes,BVH
+Eurico de Aguiar Salles Airport,BR,BR-ES,yes,VIX
+Presidente Itamar Franco Airport,BR,BR-MG,yes,IZA
+Chacalluta Airport,CL,CL-AP,yes,ARI
+Desierto de Atacama Airport,CL,CL-AT,yes,CPO
+Balmaceda Airport,CL,CL-AI,yes,BBA
+El Loa Airport,CL,CL-AN,yes,CJC
+President Carlos Ibañez del Campo International Airport,CL,CL-MA,yes,PUQ
+Diego Aracena Airport,CL,CL-TA,yes,IQQ
+Comodoro Arturo Merino Benítez International Airport,CL,CL-RM,yes,SCL
+Ricardo García Posada Airport,CL,CL-AT,yes,ESR
+Andrés Sabella Gálvez International Airport,CL,CL-AN,yes,ANF
+Carriel Sur Airport,CL,CL-BI,yes,CCP
+Mataveri Airport,CL,CL-VS,yes,IPC
+Cañal Bajo Carlos - Hott Siebert Airport,CL,CL-LL,yes,ZOS
+Lieutenant Julio Gallardo Airport,CL,CL-MA,yes,PNT
+Pucón Airport,CL,CL-AR,yes,ZPC
+Mocopulli Airport,CL,CL-LL,yes,MHC
+La Araucanía Airport,CL,CL-AR,yes,ZCO
+Teniente Rodolfo Marsh Martin Airport,AQ,AQ-U-A,yes,TNM
+La Florida Airport,CL,CL-CO,yes,LSC
+El Tepual Airport,CL,CL-LL,yes,PMC
+Pichoy Airport,CL,CL-LR,yes,ZAL
+Sorocaba Airport,BR,BR-SP,yes,SOD
+Paraty Airport,BR,BR-RJ,yes,JPY
+Francisco De Orellana Airport,EC,EC-D,yes,OCC
+Mariscal Lamar Airport,EC,EC-A,yes,CUE
+Seymour Galapagos Ecological Airport,EC,EC-W,yes,GPS
+José Joaquín de Olmedo International Airport,EC,EC-G,yes,GYE
+General Villamil Airport,EC,EC-W,yes,IBB
+Cotopaxi International Airport,EC,EC-X,yes,LTX
+Coronel E Carvajal Airport,EC,EC-S,yes,XMS
+Eloy Alfaro International Airport,EC,EC-M,yes,MEC
+Mariscal Sucre International Airport,EC,EC-P,yes,UIO
+Santa Rosa - Artillery Colonel Victor Larrea International Airport,EC,EC-O,yes,ETR
+San Cristóbal Airport,EC,EC-W,yes,SCY
+Ciudad de Catamayo Airport,EC,EC-L,yes,LOH
+Carlos Concha Torres International Airport,EC,EC-E,yes,ESM
+Lieutenant Colonel Luis A. Mantilla International Airport,EC,EC-C,yes,TUA
+Port Stanley Airport,FK,FK-U-A,yes,PSY
+Aeropuerto Internacional Silvio Pettirossi,PY,PY-11,yes,ASU
+Aeropuerto Internacional Tte. Amin Ayub González,PY,PY-7,yes,ENO
+Aeropuerto Internacional Guaraní,PY,PY-10,yes,AGT
+Barra Grande Airport,BR,BR-BA,yes,MUU
+Juruti Airport,BR,BR-PA,yes,JRT
+Bauru/Arealva–Moussa Nakhal Tobias State Airport,BR,BR-SP,yes,JTC
+El Eden Airport,CO,CO-QUI,yes,AXM
+Tres De Mayo Airport,CO,CO-PUT,yes,PUU
+Palonegro Airport,CO,CO-SAN,yes,BGA
+El Dorado International Airport,CO,CO-DC,yes,BOG
+Ernesto Cortissoz International Airport,CO,CO-ATL,yes,BAQ
+José Celestino Mutis Airport,CO,CO-CHO,yes,BSC
+Gerardo Tobar López Airport,CO,CO-VAC,yes,BUN
+Camilo Daza International Airport,CO,CO-NSA,yes,CUC
+Rafael Nuñez International Airport,CO,CO-BOL,yes,CTG
+Alfonso Bonilla Aragon International Airport,CO,CO-VAC,yes,CLO
+La Florida Airport,CO,CO-NAR,yes,TCO
+Las Brujas Airport,CO,CO-SUC,yes,CZU
+Yariguíes Airport,CO,CO-SAN,yes,EJA
+Gustavo Artunduaga Paredes Airport,CO,CO-CAQ,yes,FLA
+Juan Casiano Airport,CO,CO-CAU,yes,GPI
+Perales Airport,CO,CO-TOL,yes,IBE
+San Luis Airport,CO,CO-NAR,yes,IPI
+Antonio Roldán Betancur Airport,CO,CO-ANT,yes,APO
+Caucaya Airport,CO,CO-PUT,yes,LQM
+La Pedrera Airport,CO,CO-AMA,yes,LPD
+Alfredo Vásquez Cobo International Airport,CO,CO-AMA,yes,LET
+Enrique Olaya Herrera Airport,CO,CO-ANT,yes,EOH
+Los Garzones Airport,CO,CO-COR,yes,MTR
+Fabio Alberto Leon Bentley Airport,CO,CO-VAU,yes,MVP
+La Nubia Airport,CO,CO-CAL,yes,MZL
+La Macarena Airport,CO,CO-MET,yes,LMC
+Reyes Murillo Airport,CO,CO-CHO,yes,NQU
+Benito Salas Airport,CO,CO-HUI,yes,NVA
+German Olano Airport,CO,CO-VID,yes,PCR
+Obando Cesar Gaviria Trujillo Airport,CO,CO-GUA,yes,PDA
+Matecaña International Airport,CO,CO-RIS,yes,PEI
+Guillermo León Valencia Airport,CO,CO-CAU,yes,PPN
+Antonio Nariño Airport,CO,CO-NAR,yes,PSO
+El Embrujo Airport,CO,CO-SAP,yes,PVA
+Jose Maria Córdova International Airport,CO,CO-ANT,yes,MDE
+Almirante Padilla Airport,CO,CO-LAG,yes,RCH
+Los Colonizadores Airport,CO,CO-ARA,yes,RVE
+Jorge E. Gonzalez Torres Airport,CO,CO-GUV,yes,SJE
+Simón Bolívar International Airport,CO,CO-MAG,yes,SMR
+Gustavo Rojas Pinilla International Airport,CO,CO-SAP,yes,ADZ
+Eduardo Falla Solano Airport,CO,CO-CAQ,yes,SVI
+Golfo de Morrosquillo Airport,CO,CO-SUC,yes,TLU
+Gustavo Vargas Airport,CO,CO-ARA,yes,TME
+Santiago Perez Airport,CO,CO-ARA,yes,AUC
+El Caraño Airport,CO,CO-CHO,yes,UIB
+Alfonso López Pumarejo Airport,CO,CO-CES,yes,VUP
+Vanguardia Airport,CO,CO-MET,yes,VVC
+El Yopal Airport,CO,CO-CAS,yes,EYP
+Alcantarí Airport,BO,BO-H,yes,SRE
+Jorge Wilsterman International Airport,BO,BO-C,yes,CBB
+Chimore Airport,BO,BO-C,yes,CCA
+Capitán Aníbal Arab Airport,BO,BO-N,yes,CIJ
+El Trompillo Airport,BO,BO-S,yes,SRZ
+Guayaramerín Airport,BO,BO-B,yes,GYA
+El Alto International Airport,BO,BO-L,yes,LPB
+Puerto Rico Airport,BO,BO-N,yes,PUR
+Capitán Av. Salvador Ogaya G. airport,BO,BO-S,yes,PSZ
+Capitán Av. Selin Zeitun Lopez Airport,BO,BO-B,yes,RIB
+Reyes Airport,BO,BO-B,yes,REY
+Capitán Av. German Quiroga G. Airport,BO,BO-B,yes,SRJ
+Capitan Oriel Lea Plaza Airport,BO,BO-T,yes,TJA
+Viru Viru International Airport,BO,BO-S,yes,VVI
+Drietabbetje Airport,SR,SR-SI,yes,DRJ
+Johan Adolf Pengel International Airport,SR,SR-PR,yes,PBM
+Moengo Airstrip,SR,SR-MA,yes,MOJ
+Wageningen Airstrip,SR,SR-NI,yes,AGI
+Zorg en Hoop Airport,SR,SR-PM,yes,ORG
+Dr. Luciano de Arruda Coelho Regional Airport,BR,BR-CE,yes,JSO
+Dom Ricardo Weberberger Airport,BR,BR-BA,yes,BRA
+Nagib Demachki Airport,BR,BR-PA,yes,JPE
+Vacaria Airport,BR,BR-RS,yes,VCC
+Guarapari Airport,BR,BR-ES,yes,GUZ
+Santa Magalhães Airport,BR,BR-PE,yes,SET
+João Durval Carneiro Airport,BR,BR-BA,yes,FEC
+Mucuri Airport,BR,BR-BA,yes,MVS
+Caruaru Airport,BR,BR-PE,yes,CAU
+Salinópolis Airport,BR,BR-PA,yes,OPP
+9 de Maio - Teixeira de Freitas Airport,BR,BR-BA,yes,TXF
+Óbidos Municipal Airport,BR,BR-PA,yes,OBI
+Valença Airport,BR,BR-BA,yes,VAL
+Breves Airport,BR,BR-PA,yes,BVS
+Almeirim Airport,BR,BR-PA,yes,GGF
+Pedro Rabelo de Souza Airport,BR,BR-MG,yes,PYT
+Cayenne – Félix Eboué Airport,GF,GF-CY,yes,CAY
+Grand-Santi Airport,GF,GF-SL,yes,GSI
+Maripasoula Airport,GF,GF-SL,yes,MPY
+Saint-Laurent-du-Maroni Airport,GF,GF-SL,yes,LDX
+Saül Airport,GF,GF-SL,yes,XAU
+Cap FAP David Abenzur Rengifo International Airport,PE,PE-UCA,yes,PCL
+FAP Lieutenant Jaime Andres de Montreuil Morales Airport,PE,PE-ANC,yes,CHM
+Air Force Captain Jose A Quinones Gonzales International Airport,PE,PE-LAM,yes,CIX
+Air Force Colonel Alfredo Mendivil Duarte Airport,PE,PE-AYA,yes,AYP
+Andahuaylas Airport,PE,PE-APU,yes,ANS
+Jorge Chávez International Airport,PE,PE-LIM,yes,LIM
+Shumba Airport,PE,PE-CAJ,yes,JAE
+Francisco Carle Airport,PE,PE-JUN,yes,JAU
+Inca Manco Capac International Airport,PE,PE-PUN,yes,JUL
+Mayor General FAP Armando Revoredo Iglesias Airport,PE,PE-CAJ,yes,CJA
+General Jorge Fernandez Maldon Airport,PE,PE-MOQ,yes,ILQ
+Captain Pedro Canga Rodríguez International Airport,PE,PE-TUM,yes,TBP
+Moises Benzaquen Rengifo Airport,PE,PE-LOR,yes,YMS
+Alferez Fap David Figueroa Fernandini Airport,PE,PE-HUC,yes,HUU
+Chachapoyas Airport,PE,PE-AMA,yes,CHH
+Coronel FAP Francisco Secada Vignetta International Airport,PE,PE-LOR,yes,IQT
+Rodríguez Ballón International Airport,PE,PE-ARE,yes,AQP
+Capitan FAP Carlos Martinez De Pinillos International Airport,PE,PE-LAL,yes,TRU
+Cadete FAP Guillermo Del Castillo Paredes Airport,PE,PE-SAM,yes,TPP
+Coronel FAP Carlos Ciriani Santa Rosa International Airport,PE,PE-TAC,yes,TCQ
+Padre Aldamiz International Airport,PE,PE-MDD,yes,PEM
+Capitán FAP Guillermo Concha Iberico International Airport,PE,PE-PIU,yes,PIU
+Captain Victor Montes Arias International Airport,PE,PE-PIU,yes,TYL
+Maria Reiche Neuman Airport,PE,PE-ICA,yes,NZC
+Alejandro Velasco Astete International Airport,PE,PE-CUS,yes,CUZ
+Shangrao Sanqingshan Airport,CN,CN-36,yes,SQD
+Sanming Shaxian Airport,CN,CN-35,yes,SQJ
+Palo Verde Airport,MX,MX-BCS,yes,SRL
+Stony River 2 Airport,US,US-AK,yes,SRV
+Canela Airport,BR,BR-RS,yes,CEL
+Dourados Airport,BR,BR-MS,yes,DOU
+Paulo Abdala Airport,BR,BR-PR,yes,FBE
+Guaíra Airport,BR,BR-PR,yes,GGJ
+Cacoal Airport,BR,BR-RO,yes,OAL
+Juvenal Loureiro Cardoso Airport,BR,BR-PR,yes,PTO
+Plínio Alarcom Airport,BR,BR-MS,yes,TJL
+Orlando de Carvalho Airport,BR,BR-PR,yes,UMU
+União da Vitória Airport,BR,BR-PR,yes,UVI
+Luis Alberto Lehr Airport,BR,BR-RS,yes,SRA
+Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,BR,BR-PR,yes,PGZ
+Capitan Corbeta CA Curbelo International Airport,UY,UY-MA,yes,PDP
+Carrasco General Cesáreo L. Berisso International Airport,UY,UY-CA,yes,MVD
+Oswaldo Guevara Mujica Airport,VE,VE-P,yes,AGV
+General José Antonio Anzoategui International Airport,VE,VE-B,yes,BLA
+Barinas Airport,VE,VE-E,yes,BNS
+Barquisimeto International Airport,VE,VE-K,yes,BRM
+Escuela Mariscal Sucre Airport,VE,VE-D,yes,MYC
+Canaima Airport,VE,VE-F,yes,CAJ
+General Francisco Bermúdez Airport,VE,VE-R,yes,CUP
+José Leonardo Chirinos Airport,VE,VE-I,yes,CZE
+Cumaná (Antonio José de Sucre) Airport,VE,VE-R,yes,CUM
+Higuerote Airport,VE,VE-M,yes,HGE
+Andrés Miguel Salazar Marcano Airport,VE,VE-O,yes,ICC
+Josefa Camejo International Airport,VE,VE-I,yes,LSP
+La Chinita International Airport,VE,VE-V,yes,MAR
+Alberto Carnevalli Airport,VE,VE-L,yes,MRD
+Del Caribe Santiago Mariño International Airport,VE,VE-O,yes,PMV
+Simón Bolívar International Airport,VE,VE-X,yes,CCS
+Maturín Airport,VE,VE-N,yes,MUN
+Cacique Aramare Airport,VE,VE-Z,yes,PYH
+General Manuel Carlos Piar International Airport,VE,VE-F,yes,PZO
+Los Roques Airport,VE,VE-W,yes,LRV
+Stevens Village Airport,US,US-AK,yes,SVS
+San Antonio Del Tachira Airport,VE,VE-S,yes,SVZ
+Mayor Buenaventura Vivas International Airport,VE,VE-S,yes,STD
+San Tomé Airport,VE,VE-B,yes,SOM
+Arturo Michelena International Airport,VE,VE-G,yes,VLN
+Juan Pablo Pérez Alfonso Airport,VE,VE-L,yes,VIG
+Dr. Antonio Nicolás Briceño Airport,VE,VE-T,yes,VLV
+Barcelos Airport,BR,BR-AM,yes,BAZ
+André Antônio Maggi Airport,BR,BR-MT,yes,LCB
+Borba Airport,BR,BR-AM,yes,RBB
+Carauari Airport,BR,BR-AM,yes,CAF
+Araguaína Airport,BR,BR-TO,yes,AUX
+Ji-Paraná Airport,BR,BR-RO,yes,JPR
+Lábrea Airport,BR,BR-AM,yes,LBR
+Maestro Marinho Franco Airport,BR,BR-MT,yes,ROO
+Presidente João Batista Figueiredo Airport,BR,BR-MT,yes,OPS
+Tapuruquara Airport,BR,BR-AM,yes,IRZ
+Tangará da Serra Airport,BR,BR-MT,yes,TGQ
+Nunam Iqua Airport,US,US-AK,yes,SXP
+Seal Bay Seaplane Base,US,US-AK,yes,SYB
+Cheddi Jagan International Airport,GY,GY-DE,yes,GEO
+Silva Bay Seaplane Base,CA,CA-BC,yes,SYF
+Eugene F. Correira International Airport,GY,GY-DE,yes,OGL
+Lethem Airport,GY,GY-UT,yes,LTM
+Qingdao Jiaodong International Airport,CN,CN-37,yes,TAO
+V C Bird International Airport,AG,AG-03,yes,ANU
+Codrington Airport,AG,AG-10,yes,BBQ
+Grantley Adams International Airport,BB,BB-01,yes,BGI
+Takotna Airport,US,US-AK,yes,TCT
+Canefield Airport,DM,DM-10,yes,DCF
+Douglas-Charles Airport,DM,DM-02,yes,DOM
+Sasereme Airport,PG,PG-WPD,yes,TDS
+La Désirade Airport,GP,GP-U-A,yes,DSD
+Basse-Terre Baillif Airport,GP,GP-U-A,yes,BBR
+St-François Airport,GP,GP-U-A,yes,SFC
+Martinique Aimé Césaire International Airport,MQ,MQ-U-A,yes,FDF
+Grand Case-Espérance Airport,MF,MF-U-A,yes,SFG
+Saint Barthélemy - Rémy de Haenen Airport,BL,BL-U-A,yes,SBH
+Marie-Galante Airport,GP,GP-U-A,yes,GBJ
+Pointe-à-Pitre Le Raizet International  Airport,GP,GP-U-A,yes,PTP
+Maurice Bishop International Airport,GD,GD-GE,yes,GND
+Lauriston Airport,GD,GD-PA,yes,CRU
+Cyril E. King Airport,VI,VI-U-A,yes,STT
+Henry E Rohlsen Airport,VI,VI-U-A,yes,STX
+Rafael Hernández International Airport,PR,PR-U-A,yes,BQN
+Benjamin Rivera Noriega Airport,PR,PR-U-A,yes,CPX
+Fernando Luis Ribas Dominicci Airport,PR,PR-U-A,yes,SIG
+Eugenio Maria De Hostos Airport,PR,PR-U-A,yes,MAZ
+Mercedita Airport,PR,PR-U-A,yes,PSE
+José Aponte de la Torre Airport,PR,PR-U-A,yes,NRR
+Luis Munoz Marin International Airport,PR,PR-U-A,yes,SJU
+Antonio Rivera Rodriguez Airport,PR,PR-U-A,yes,VQS
+Tenakee Seaplane Base,US,US-AK,yes,TKE
+Robert L. Bradshaw International Airport,KN,KN-U-A,yes,SKB
+Vance W. Amory International Airport,KN,KN-U-A,yes,NEV
+George F. L. Charles Airport,LC,LC-02,yes,SLU
+Hewanorra International Airport,LC,LC-11,yes,UVF
+Tuluksak Airport,US,US-AK,yes,TLT
+Queen Beatrix International Airport,AW,AW-U-A,yes,AUA
+Flamingo International Airport,BQ,BQ-U-A,yes,BON
+Hato International Airport,CW,CW-U-A,yes,CUR
+F. D. Roosevelt Airport,BQ,BQ-U-A,yes,EUX
+Princess Juliana International Airport,SX,SX-U-A,yes,SXM
+Juancho E. Yrausquin Airport,BQ,BQ-U-A,yes,SAB
+Port Alsworth Airport,US,US-AK,yes,PTA
+Clayton J Lloyd International Airport,AI,AI-U-A,yes,AXA
+Bingöl Çeltiksuyu Airport,TR,TR-12,yes,BGG
+John A. Osborne Airport,MS,MS-SP,yes,MNI
+A.N.R. Robinson International Airport,TT,TT-TOB,yes,TAB
+Piarco International Airport,TT,TT-TUP,yes,POS
+Tissa Tank Waterdrome,LK,LK-3,yes,TTW
+Terrance B. Lettsome International Airport,VG,VG-U-A,yes,EIS
+Virgin Gorda Airport,VG,VG-U-A,yes,VIJ
+Argyle International Airport,VC,VC-04,yes,SVD
+Canouan Airport,VC,VC-06,yes,CIW
+Mustique Airport,VC,VC-06,yes,MQS
+Union Island International Airport,VC,VC-06,yes,UNI
+Tumxuk Tangwangcheng Airport,CN,CN-65,yes,TWC
+L.F. Wade International Airport,BM,BM-U-A,yes,BDA
+Almaty International Airport,KZ,KZ-ALA,yes,ALA
+Balkhash Airport,KZ,KZ-KAR,yes,BXH
+Taldykorgan Airport,KZ,KZ-JET,yes,TDK
+Nursultan Nazarbayev International Airport,KZ,KZ-AST,yes,NQZ
+Kokshetau Airport,KZ,KZ-AKM,yes,KOV
+Petropavl Airport,KZ,KZ-SEV,yes,PPK
+Taraz Airport,KZ,KZ-ZHA,yes,DMB
+Issyk-Kul International Airport,KG,KG-Y,yes,IKU
+Manas International Airport,KG,KG-C,yes,FRU
+Osh Airport,KG,KG-O,yes,OSS
+Shymkent Airport,KZ,KZ-YUZ,yes,CIT
+Hazrat Sultan International Airport,KZ,KZ-YUZ,yes,HSA
+Zhezkazgan National Airport,KZ,KZ-ULY,yes,DZN
+Sary-Arka Airport,KZ,KZ-KAR,yes,KGF
+Kyzylorda Airport,KZ,KZ-KZY,yes,KZO
+Uralsk Airport,KZ,KZ-ZAP,yes,URA
+Ust-Kamenogorsk Airport,KZ,KZ-VOS,yes,UKK
+Pavlodar Airport,KZ,KZ-PAV,yes,PWQ
+Semey Airport,KZ,KZ-ABA,yes,PLX
+Zaysan Airport,KZ,KZ-VOS,yes,SZI
+Aktau Airport,KZ,KZ-MAN,yes,SCO
+Atyrau International Airport,KZ,KZ-ATY,yes,GUW
+Aktobe Airport,KZ,KZ-AKT,yes,AKX
+Kostanay West Airport,KZ,KZ-KUS,yes,KSN
+Heydar Aliyev International Airport,AZ,AZ-BA,yes,GYD
+Ganja International Airport,AZ,AZ-GA,yes,GNJ
+Lankaran International Airport,AZ,AZ-LA,yes,LLK
+Nakhchivan Airport,AZ,AZ-NX,yes,NAJ
+Gabala International Airport,AZ,AZ-QAB,yes,GBB
+Shirak International Airport,AM,AM-SH,yes,LWN
+Zvartnots International Airport,AM,AM-ER,yes,EVN
+Batagay Airport,RU,RU-SA,yes,BQJ
+Sakkyryr Airport,RU,RU-SA,yes,SUK
+Ust-Kuyga Airport,RU,RU-SA,yes,UKG
+Yakutsk Airport,RU,RU-SA,yes,YKS
+Chulman Airport,RU,RU-SA,yes,NER
+Moma Airport,RU,RU-SA,yes,MQJ
+Olyokminsk Airport,RU,RU-SA,yes,OLZ
+Ust-Nera Airport,RU,RU-SA,yes,USR
+Ust-Maya Airport,RU,RU-SA,yes,UMS
+Verkhnevilyuisk Airport,RU,RU-SA,yes,VHV
+Suntar Airport,RU,RU-SA,yes,SUY
+Vilyuisk Airport,RU,RU-SA,yes,VYI
+Lensk Airport,RU,RU-SA,yes,ULK
+Polyarny Airport,RU,RU-SA,yes,PYJ
+Mirny Airport,RU,RU-SA,yes,MJZ
+Saskylakh Airport,RU,RU-SA,yes,SYS
+Srednekolymsk Airport,RU,RU-SA,yes,SEK
+Chokurdakh Airport,RU,RU-SA,yes,CKH
+Cherskiy Airport,RU,RU-SA,yes,CYX
+Tiksi Airport,RU,RU-SA,yes,IKS
+Zyryanka Airport,RU,RU-SA,yes,ZKP
+Kisoro Airport,UG,UG-W,yes,KXO
+Moyo Airport,UG,UG-N,yes,OYG
+David the Builder Kutaisi International Airport,GE,GE-IM,yes,KUT
+Batumi International Airport,GE,GE-AJ,yes,BUS
+Sukhumi Babushara /  Vladislav Ardzinba International Airport,GE,GE-AB,yes,SUI
+Tbilisi International Airport,GE,GE-TB,yes,TBS
+Ignatyevo Airport,RU,RU-AMU,yes,BQS
+Khabarovsk Novy Airport,RU,RU-KHA,yes,KHV
+Komsomolsk-on-Amur Airport,RU,RU-KHA,yes,KXK
+Ugolny Yuri Ryktheu Airport,RU,RU-CHU,yes,DYR
+Keperveem Airport,RU,RU-CHU,yes,KPW
+Sokol Airport,RU,RU-MAG,yes,GDX
+Markovo Airport,RU,RU-CHU,yes,KVM
+Pevek Airport,RU,RU-CHU,yes,PWE
+Bogorodskoye Airport,RU,RU-KHA,yes,BQG
+Nikolayevsk-na-Amure Airport,RU,RU-KHA,yes,NLI
+Okhotsk Airport,RU,RU-KHA,yes,OHO
+Yelizovo Airport,RU,RU-KAM,yes,PKC
+Iturup Airport,RU,RU-SAK,yes,ITU
+Shakhtyorsk Airport,RU,RU-SAK,yes,EKS
+Yuzhno-Sakhalinsk Airport,RU,RU-SAK,yes,UUS
+Plastun Airport,RU,RU-PRI,yes,TLY
+Vladivostok International Airport,RU,RU-PRI,yes,VVO
+Chita-Kadala International Airport,RU,RU-CHI,yes,HTA
+Bratsk Airport,RU,RU-IRK,yes,BTK
+Irkutsk International Airport,RU,RU-IRK,yes,IKT
+Bodaybo Airport,RU,RU-IRK,yes,ODO
+Ust-Kut Airport,RU,RU-IRK,yes,UKX
+Nizhneangarsk International Airport,RU,RU-BU,yes,NZG
+Baikal International Airport,RU,RU-BU,yes,UUD
+Ujae Atoll Airport,MH,MH-UJA,yes,UJE
+Boryspil International Airport,UA,UA-32,yes,KBP
+Mariupol International Airport,UA,UA-14,yes,MPW
+Dnipro International Airport,UA,UA-12,yes,DNK
+Zaporizhzhia International Airport,UA,UA-23,yes,OZH
+Kryvyi Rih International Airport,UA,UA-12,yes,KWG
+Simferopol International Airport,UA,UA-43,yes,SIP
+Kharkiv International Airport,UA,UA-63,yes,HRK
+Ihor Sikorsky Kyiv International Airport (Zhuliany),UA,UA-30,yes,IEV
+Ivano-Frankivsk International Airport,UA,UA-26,yes,IFO
+Lviv International Airport,UA,UA-46,yes,LWO
+Chernivtsi International Airport,UA,UA-77,yes,CWC
+Rivne International Airport,UA,UA-19,yes,RWN
+Uzhhorod International Airport,UA,UA-21,yes,UDJ
+Kherson International Airport,UA,UA-65,yes,KHE
+Mykolaiv International Airport,UA,UA-48,yes,NLV
+Odessa International Airport,UA,UA-51,yes,ODS
+Talagi Airport,RU,RU-ARK,yes,ARH
+Leshukonskoye Airport,RU,RU-ARK,yes,LDG
+Naryan Mar Airport,RU,RU-NEN,yes,NNM
+Solovki Airport,RU,RU-ARK,yes,CSH
+Cherepovets Airport,RU,RU-VLG,yes,CEE
+Amderma Airport,RU,RU-NEN,yes,AMV
+Majeed Bin Abdulaziz Airport,SA,SA-03,yes,ULH
+Kotlas Airport,RU,RU-ARK,yes,KSZ
+Pulkovo Airport,RU,RU-SPE,yes,LED
+Murmansk Airport,RU,RU-MUR,yes,MMK
+Pskov Airport,RU,RU-PSK,yes,PKV
+Petrozavodsk Airport,RU,RU-KR,yes,PES
+Brest Airport,BY,BY-BR,yes,BQT
+Gomel Airport,BY,BY-HO,yes,GME
+Khrabrovo Airport,RU,RU-KGD,yes,KGD
+Hrodna Airport,BY,BY-HR,yes,GNA
+Minsk National Airport,BY,BY-MI,yes,MSQ
+Mogilev Airport,BY,BY-MA,yes,MVQ
+Abakan International Airport,RU,RU-KK,yes,ABA
+Barnaul Airport,RU,RU-ALT,yes,BAX
+Kemerovo Airport,RU,RU-KEM,yes,KEJ
+Yeniseysk Airport,RU,RU-KYA,yes,EIE
+Severo-Yeniseysk Airport,RU,RU-KYA,yes,VEO
+Tura Mountain Airport,RU,RU-KYA,yes,GOY
+Vanavara Airport,RU,RU-KYA,yes,VAQ
+Krasnoyarsk International Airport,RU,RU-KYA,yes,KJA
+Krasnoyarsk Cheremshanka Airport,RU,RU-KYA,yes,KCY
+Kyzyl Airport,RU,RU-TY,yes,KYZ
+Novosibirsk Tolmachevo Airport,RU,RU-NVS,yes,OVB
+Omsk Central Airport,RU,RU-OMS,yes,OMS
+Bogashevo Airport,RU,RU-TOM,yes,TOF
+Spichenkovo Airport,RU,RU-KEM,yes,NOZ
+Khatanga Airport,RU,RU-KYA,yes,HTG
+Igarka Airport,RU,RU-KYA,yes,IAA
+Norilsk-Alykel Airport,RU,RU-KYA,yes,NSK
+Turukhansk Airport,RU,RU-KYA,yes,THX
+Anapa Vityazevo Airport,RU,RU-KDA,yes,AAQ
+Yeysk Airport,RU,RU-KDA,yes,EIK
+Gelendzhik Airport,RU,RU-KDA,yes,GDZ
+Krasnodar Pashkovsky International Airport,RU,RU-KDA,yes,KRR
+Makhachkala Uytash International Airport,RU,RU-DA,yes,MCX
+Mineralnyye Vody Airport,RU,RU-STA,yes,MRV
+Nalchik Airport,RU,RU-KB,yes,NAL
+Vladikavkaz Beslan International Airport,RU,RU-SE,yes,OGZ
+Magas Airport,RU,RU-IN,yes,IGT
+Stavropol Shpakovskoye Airport,RU,RU-STA,yes,STW
+Platov International Airport,RU,RU-ROS,yes,ROV
+Taganrog Yuzhny Airport,RU,RU-ROS,yes,TGK
+Sochi International Airport,RU,RU-KDA,yes,AER
+Astrakhan Narimanovo Boris M. Kustodiev International Airport,RU,RU-AST,yes,ASF
+Elista Airport,RU,RU-KL,yes,ESL
+Volgograd International Airport,RU,RU-VGG,yes,VOG
+Williston Basin International Airport,US,US-ND,yes,XWA
+Mertarvik Airport,US,US-AK,yes,WWT
+Pilot Station Airport,US,US-AK,yes,PQS
+Chelyabinsk Balandino Airport,RU,RU-CHE,yes,CEK
+Magnitogorsk International Airport,RU,RU-BA,yes,MQF
+Sabetta International Airport,RU,RU-YAN,yes,SBT
+Bovanenkovo Airport,RU,RU-YAN,yes,BVJ
+Salekhard Airport,RU,RU-YAN,yes,SLY
+Khanty Mansiysk Airport,RU,RU-KHM,yes,HMA
+Nyagan Airport,RU,RU-KHM,yes,NYA
+Sovetskiy Airport,RU,RU-KHM,yes,OVS
+Uray Airport,RU,RU-KHM,yes,URJ
+Beloyarskiy Airport,RU,RU-KHM,yes,EYK
+Izhevsk Airport,RU,RU-UD,yes,IJK
+Pobedilovo Airport,RU,RU-KIR,yes,KVX
+Nadym Airport,RU,RU-YAN,yes,NYM
+Novy Urengoy Airport,RU,RU-YAN,yes,NUX
+Nizhnevartovsk Airport,RU,RU-KHM,yes,NJC
+Perm International Airport,RU,RU-PER,yes,PEE
+Kogalym International Airport,RU,RU-KHM,yes,KGP
+Nefteyugansk Airport,RU,RU-KHM,yes,NFG
+Noyabrsk Airport,RU,RU-YAN,yes,NOJ
+Surgut Airport,RU,RU-KHM,yes,SGC
+Koltsovo Airport,RU,RU-SVE,yes,SVX
+Remezov Airport,RU,RU-TYU,yes,RMZ
+Roshchino International Airport,RU,RU-TYU,yes,TJM
+Kurgan Airport,RU,RU-KGN,yes,KRO
+Balkanabat Airport,TM,TM-B,yes,BKN
+Ashgabat International Airport,TM,TM-S,yes,ASB
+Turkmenbashi International Airport,TM,TM-B,yes,KRW
+Mary International Airport,TM,TM-M,yes,MYP
+Daşoguz Airport,TM,TM-D,yes,TAZ
+Türkmenabat International Airport,TM,TM-L,yes,CRZ
+Dushanbe Airport,TJ,TJ-DU,yes,DYU
+Kulob Airport,TJ,TJ-KT,yes,TJU
+Khujand Airport,TJ,TJ-SU,yes,LBD
+Qurghonteppa International Airport,TJ,TJ-KT,yes,KQT
+Andizhan Airport,UZ,UZ-AN,yes,AZN
+Fergana International Airport,UZ,UZ-FA,yes,FEG
+Namangan Airport,UZ,UZ-NG,yes,NMA
+Nukus Airport,UZ,UZ-QR,yes,NCU
+Urgench Airport,UZ,UZ-XO,yes,UGC
+Navoi Airport,UZ,UZ-NW,yes,NVI
+Bukhara International Airport,UZ,UZ-BU,yes,BHK
+Karshi Airport,UZ,UZ-QA,yes,KSQ
+Sugraly Airport,UZ,UZ-NW,yes,AFS
+Samarkand Airport,UZ,UZ-SA,yes,SKD
+Termez Airport,UZ,UZ-SU,yes,TMJ
+Tashkent International Airport,UZ,UZ-TO,yes,TAS
+Kostroma Sokerkino Airport,RU,RU-KOS,yes,KMW
+Ivanovo South Airport,RU,RU-IVA,yes,IWA
+Staroselye Airport,RU,RU-YAR,yes,RYB
+Bryansk Airport,RU,RU-BRY,yes,BZK
+Zhukovsky International Airport,RU,RU-MOS,yes,ZIA
+Domodedovo International Airport,RU,RU-MOS,yes,DME
+Sheremetyevo International Airport,RU,RU-MOS,yes,SVO
+Belgorod International Airport,RU,RU-BEL,yes,EGO
+Kursk East Airport,RU,RU-KRS,yes,URS
+Lipetsk Airport,RU,RU-LIP,yes,LPK
+Voronezh International Airport,RU,RU-VOR,yes,VOZ
+Vnukovo International Airport,RU,RU-MOW,yes,VKO
+Ukhta Airport,RU,RU-KO,yes,UCT
+Pechora Airport,RU,RU-KO,yes,PEX
+Usinsk Airport,RU,RU-KO,yes,USK
+Vorkuta Airport,RU,RU-KO,yes,VKT
+Syktyvkar Airport,RU,RU-KO,yes,SCW
+Nizhny Novgorod Strigino International Airport,RU,RU-NIZ,yes,GOJ
+Bugulma Airport,RU,RU-TA,yes,UUA
+Kazan International Airport,RU,RU-TA,yes,KZN
+Begishevo Airport,RU,RU-TA,yes,NBC
+Yoshkar-Ola Airport,RU,RU-ME,yes,JOK
+Cheboksary Airport,RU,RU-CU,yes,CSY
+Zhigansk Airport,RU,RU-SA,yes,ZIX
+Ulyanovsk Baratayevka Airport,RU,RU-ULY,yes,ULV
+Ulyanovsk East Airport,RU,RU-ULY,yes,ULY
+Orenburg Central Airport,RU,RU-ORE,yes,REN
+Orsk Airport,RU,RU-ORE,yes,OSW
+Penza Airport,RU,RU-PNZ,yes,PEZ
+Saransk Airport,RU,RU-MO,yes,SKX
+Balakovo Airport,RU,RU-SAR,yes,BWO
+Gagarin International Airport,RU,RU-SAR,yes,GSV
+Ufa International Airport,RU,RU-BA,yes,UFA
+Kurumoch International Airport,RU,RU-SAM,yes,KUF
+Urzhar Airport,KZ,KZ-ABA,yes,UZR
+"Rewa Airport, Chorhata, REWA",IN,IN-MP,yes,REW
+Diu Airport,IN,IN-DH,yes,DIU
+Gondia Airport,IN,IN-MM,yes,GDB
+Sardar Vallabh Bhai Patel International Airport,IN,IN-GJ,yes,AMD
+Aurangabad Airport,IN,IN-MM,yes,IXU
+Chhatrapati Shivaji International Airport,IN,IN-MM,yes,BOM
+Bilaspur Airport,IN,IN-CT,yes,PAB
+Bhuj Airport,IN,IN-GJ,yes,BHJ
+Belagavi Airport,IN,IN-KA,yes,IXG
+Vadodara Airport,IN,IN-GJ,yes,BDQ
+Raja Bhoj International Airport,IN,IN-MP,yes,BHO
+Bhavnagar Airport,IN,IN-GJ,yes,BHU
+Dabolim Airport,IN,IN-GA,yes,GOI
+Hubli Airport,IN,IN-KA,yes,HBX
+Devi Ahilyabai Holkar Airport,IN,IN-MP,yes,IDR
+Jabalpur Airport,IN,IN-MP,yes,JLR
+Jamnagar Airport,IN,IN-GJ,yes,JGA
+Kandla Airport,IN,IN-GJ,yes,IXY
+Khajuraho Airport,IN,IN-MP,yes,HJR
+Kolhapur Airport,IN,IN-MM,yes,KLH
+Keshod Airport,IN,IN-GJ,yes,IXK
+Nanded Airport,IN,IN-MM,yes,NDC
+Dr. Babasaheb Ambedkar International Airport,IN,IN-MM,yes,NAG
+Nashik Airport,IN,IN-MM,yes,ISK
+Pune Airport / Lohagaon Air Force Station,IN,IN-MM,yes,PNQ
+Porbandar Airport,IN,IN-GJ,yes,PBD
+Rajkot Airport,IN,IN-GJ,yes,RAJ
+Swami Vivekananda Airport,IN,IN-CT,yes,RPR
+Shirdi Airport,IN,IN-MM,yes,SAG
+Surat Airport,IN,IN-GJ,yes,STV
+Maharana Pratap Airport,IN,IN-RJ,yes,UDR
+Bandaranaike International Colombo Airport,LK,LK-1,yes,CMB
+Batticaloa Airport,LK,LK-5,yes,BTC
+Colombo Ratmalana Airport,LK,LK-1,yes,RML
+Jaffna International Airport,LK,LK-4,yes,JAF
+Koggala Airport,LK,LK-3,yes,KCT
+China Bay Airport,LK,LK-5,yes,TRR
+Mattala Rajapaksa International Airport,LK,LK-3,yes,HRI
+Battambang Airport,KH,KH-2,yes,BBM
+Phnom Penh International Airport,KH,KH-12,yes,PNH
+Siem Reap-Angkor International Airport,KH,KH-17,yes,SAI
+Sihanoukville International Airport,KH,KH-18,yes,KOS
+Darbhanga Airport,IN,IN-BR,yes,DBR
+Agartala - Maharaja Bir Bikram Airport,IN,IN-TR,yes,IXA
+Bagdogra Airport,IN,IN-WB,yes,IXB
+Shillong Airport,IN,IN-ML,yes,SHL
+Biju Patnaik Airport,IN,IN-OR,yes,BBI
+Netaji Subhash Chandra Bose International Airport,IN,IN-WB,yes,CCU
+Kazi Nazrul Islam Airport,IN,IN-WB,yes,RDP
+Gorakhpur Airport,IN,IN-UP,yes,GOP
+Lokpriya Gopinath Bordoloi International Airport,IN,IN-AS,yes,GAU
+Gaya Airport,IN,IN-BR,yes,GAY
+Imphal Airport,IN,IN-MN,yes,IMF
+Jharsuguda Airport,IN,IN-OR,yes,JRG
+Jorhat Airport,IN,IN-AS,yes,JRH
+Silchar Airport,IN,IN-AS,yes,IXS
+Lengpui Airport,IN,IN-MZ,yes,AJL
+Lilabari North Lakhimpur Airport,IN,IN-AS,yes,IXI
+Dibrugarh Airport,IN,IN-AS,yes,DIB
+Dimapur Airport,IN,IN-NL,yes,DMU
+Jay Prakash Narayan Airport,IN,IN-BR,yes,PAT
+Birsa Munda Airport,IN,IN-JH,yes,IXR
+Tezpur Airport,IN,IN-AS,yes,TEZ
+Visakhapatnam Airport,IN,IN-AP,yes,VTZ
+Barisal Airport,BD,BD-1,yes,BZL
+Cox's Bazar Airport,BD,BD-2,yes,CXB
+Shah Amanat International Airport,BD,BD-2,yes,CGP
+Jessore Airport,BD,BD-4,yes,JSR
+Shah Mokhdum Airport,BD,BD-5,yes,RJH
+Saidpur Airport,BD,BD-5,yes,SPD
+Osmany International Airport,BD,BD-6,yes,ZYL
+Hazrat Shahjalal International Airport,BD,BD-3,yes,DAC
+Hong Kong International Airport,HK,HK-NT,yes,HKG
+Charlotte Amalie Harbor Seaplane Base,VI,VI-U-A,yes,SPB
+Christiansted Harbor Seaplane Base,VI,VI-U-A,yes,SSB
+Agra Airport / Agra Air Force Station,IN,IN-UP,yes,AGR
+Aligarh Airport,IN,IN-UP,yes,HRH
+Prayagraj Airport,IN,IN-UP,yes,IXD
+Sri Guru Ram Dass Jee International Airport,IN,IN-PB,yes,ATQ
+Adampur Airport,IN,IN-PB,yes,AIP
+Lal Bahadur Shastri Airport,IN,IN-UP,yes,VNS
+Bareilly Air Force Station,IN,IN-UP,yes,BEK
+Chandigarh International Airport,IN,IN-CH,yes,IXC
+Kanpur Airport,IN,IN-UP,yes,KNU
+Dehradun Jolly Grant Airport,IN,IN-UT,yes,DED
+Indira Gandhi International Airport,IN,IN-DL,yes,DEL
+Hindon Airport / Hindon Air Force Station,IN,IN-UP,yes,HDO
+Kangra Airport,IN,IN-HP,yes,DHM
+Gwalior Airport,IN,IN-MP,yes,GWL
+Hisar Airport,IN,IN-HR,yes,HSS
+Jodhpur Airport,IN,IN-RJ,yes,JDH
+Jaipur International Airport,IN,IN-RJ,yes,JAI
+Jaisalmer Airport,IN,IN-RJ,yes,JSA
+Jammu Airport,IN,IN-JK,yes,IXJ
+Kishangarh Airport Ajmer,IN,IN-RJ,yes,KQH
+Leh Kushok Bakula Rimpochee Airport,IN,IN-LA,yes,IXL
+Chaudhary Charan Singh International Airport,IN,IN-UP,yes,LKO
+Pathankot Airport,IN,IN-PB,yes,IXP
+Pantnagar Airport,IN,IN-UP,yes,PGH
+Sheikh ul Alam International Airport,IN,IN-JK,yes,SXR
+Satna Airport,IN,IN-MP,yes,TNI
+Luang Phabang International Airport,LA,LA-LP,yes,LPQ
+Luang Namtha Airport,LA,LA-LM,yes,LXG
+Oudomsay Airport,LA,LA-OU,yes,ODY
+Pakse International Airport,LA,LA-CH,yes,PKZ
+Wattay International Airport,LA,LA-VT,yes,VTE
+Xieng Khouang Airport,LA,LA-XI,yes,XKH
+Macau International Airport,MO,MO-CAR,yes,MFM
+Dong Hoi Airport,VN,VN-NC,yes,VDH
+Bharatpur Airport,NP,NP-P3,yes,BHR
+Gautam Buddha International Airport,NP,NP-P5,yes,BWA
+Bhadrapur Airport,NP,NP-P1,yes,BDP
+Dolpa Airport,NP,NP-P6,yes,DOP
+Silgadi Doti Airport,NP,NP-P7,yes,SIH
+Jumla Airport,NP,NP-P6,yes,JUM
+Janakpur Airport,NP,NP-P2,yes,JKR
+Jomsom Airport,NP,NP-P4,yes,JMO
+Tribhuvan International Airport,NP,NP-P3,yes,KTM
+Lukla Airport,NP,NP-P1,yes,LUA
+Nepalgunj Airport,NP,NP-P5,yes,KEP
+Rukum Chaurjahari Airport,NP,NP-P6,yes,RUK
+Rumjatar Airport,NP,NP-P1,yes,RUM
+Simara Airport,NP,NP-P2,yes,SIF
+Surkhet Airport,NP,NP-P6,yes,SKH
+Simikot Airport,NP,NP-P6,yes,IMK
+Taplejung Airport,NP,NP-P1,yes,TPJ
+Tumling Tar Airport,NP,NP-P1,yes,TMI
+Biratnagar Airport,NP,NP-P1,yes,BIR
+Murod Kond Airport,IN,IN-MM,yes,LTU
+Tuticorin Airport,IN,IN-TN,yes,TCR
+Agatti Airport,IN,IN-LD,yes,AGX
+Kempegowda International Airport,IN,IN-KA,yes,BLR
+Vijayawada Airport,IN,IN-AP,yes,VGA
+Coimbatore International Airport,IN,IN-TN,yes,CJB
+Cochin International Airport,IN,IN-KL,yes,COK
+Calicut International Airport,IN,IN-KL,yes,CCJ
+Kadapa Airport,IN,IN-AP,yes,CDP
+Kalaburagi Airport,IN,IN-KA,yes,GBI
+Rajiv Gandhi International Airport,IN,IN-TG,yes,HYD
+Kannur International Airport,IN,IN-KL,yes,CNN
+Kurnool Airport,IN,IN-AP,yes,KJB
+Madurai Airport,IN,IN-TN,yes,IXM
+Mangalore International Airport,IN,IN-KA,yes,IXE
+Chennai International Airport,IN,IN-TN,yes,MAA
+Mysore Airport,IN,IN-KA,yes,MYQ
+Veer Savarkar International Airport / INS Utkrosh,IN,IN-AN,yes,IXZ
+Pondicherry Airport,IN,IN-PY,yes,PNY
+Rajahmundry Airport,IN,IN-AP,yes,RJA
+Sindhudurg Airport,IN,IN-MM,yes,SDW
+Tirupati Airport,IN,IN-AP,yes,TIR
+Tiruchirappalli International Airport,IN,IN-TN,yes,TRZ
+Thiruvananthapuram International Airport,IN,IN-KL,yes,TRV
+Yongphulla Airport,BT,BT-41,yes,YON
+Bathpalathang Airport,BT,BT-33,yes,BUT
+Paro International Airport,BT,BT-11,yes,PBH
+Hoarafushi Airport,MV,MV-07,yes,HRF
+Kulhudhuffushi Airport,MV,MV-23,yes,HDK
+Maafaru International Airport,MV,MV-25,yes,NMF
+Dharavandhoo Airport,MV,MV-20,yes,DRV
+Gan International Airport,MV,MV-01,yes,GAN
+Hanimaadhoo Airport,MV,MV-23,yes,HAQ
+Kadhdhoo Airport,MV,MV-05,yes,KDO
+Malé International Airport,MV,MV-MLE,yes,MLE
+Kooddoo Airport,MV,MV-27,yes,GKK
+Kaadedhdhoo Airport,MV,MV-28,yes,KDM
+Villa Airport,MV,MV-00,yes,VAM
+Thimarafushi Airport,MV,MV-08,yes,TMF
+Maavaarulaa Airport,MV,MV-28,yes,RUL
+Don Mueang International Airport,TH,TH-10,yes,DMK
+Trat Airport,TH,TH-23,yes,TDX
+Suvarnabhumi Airport,TH,TH-10,yes,BKK
+U-Tapao International Airport,TH,TH-21,yes,UTP
+Chiang Mai International Airport,TH,TH-50,yes,CNX
+Mae Hong Son Airport,TH,TH-58,yes,HGN
+Lampang Airport,TH,TH-52,yes,LPT
+Nan Airport,TH,TH-55,yes,NNT
+Mae Fah Luang - Chiang Rai International Airport,TH,TH-57,yes,CEI
+Phetchabun Airport,TH,TH-67,yes,PHY
+Hua Hin Airport,TH,TH-76,yes,HHQ
+Mae Sot Airport,TH,TH-63,yes,MAQ
+Sukhothai Airport,TH,TH-64,yes,THS
+Phitsanulok Airport,TH,TH-65,yes,PHS
+Surat Thani Airport,TH,TH-84,yes,URT
+Narathiwat Airport,TH,TH-96,yes,NAW
+Chumphon Airport,TH,TH-86,yes,CJM
+Nakhon Si Thammarat Airport,TH,TH-80,yes,NST
+Krabi Airport,TH,TH-81,yes,KBV
+Samui Airport,TH,TH-84,yes,USM
+Phuket International Airport,TH,TH-83,yes,HKT
+Ranong Airport,TH,TH-85,yes,UNN
+Hat Yai International Airport,TH,TH-90,yes,HDY
+Trang Airport,TH,TH-92,yes,TST
+Udon Thani Airport,TH,TH-41,yes,UTH
+Sakon Nakhon Airport,TH,TH-47,yes,SNO
+Surin Airport,TH,TH-32,yes,PXR
+Khon Kaen Airport,TH,TH-40,yes,KKC
+Loei Airport,TH,TH-42,yes,LOE
+Buri Ram Airport,TH,TH-31,yes,BFV
+Ubon Ratchathani Airport,TH,TH-34,yes,UBP
+Roi Et Airport,TH,TH-45,yes,ROI
+Nakhon Phanom Airport,TH,TH-48,yes,KOP
+Buon Ma Thuot Airport,VN,VN-CH,yes,BMV
+Chu Lai Airport,VN,VN-SCC,yes,VCL
+Cat Bi International Airport,VN,VN-RRD,yes,HPH
+Cà Mau Airport,VN,VN-SW,yes,CAH
+Cam Ranh International Airport / Cam Ranh Air Base,VN,VN-SCC,yes,CXR
+Con Dao Airport,VN,VN-SE,yes,VCS
+Can Tho International Airport,VN,VN-SW,yes,VCA
+Dien Bien Phu Airport,VN,VN-NW,yes,DIN
+Lien Khuong Airport,VN,VN-CH,yes,DLI
+Da Nang International Airport,VN,VN-SCC,yes,DAD
+Noi Bai International Airport,VN,VN-RRD,yes,HAN
+Phu Bai International Airport,VN,VN-NC,yes,HUI
+Phu Cat Airport,VN,VN-SCC,yes,UIH
+Pleiku Airport,VN,VN-CH,yes,PXU
+Phu Quoc International Airport,VN,VN-SW,yes,PQC
+Rach Gia Airport,VN,VN-SW,yes,VKG
+Dong Tac Airport,VN,VN-SCC,yes,TBB
+Tan Son Nhat International Airport,VN,VN-SE,yes,SGN
+Tho Xuan Airport,VN,VN-NC,yes,THD
+Van Don International Airport,VN,VN-NE,yes,VDO
+Vinh Airport,VN,VN-NC,yes,VII
+Bagan Airport,MM,MM-04,yes,NYU
+Banmaw Airport,MM,MM-11,yes,BMO
+Dawei Airport,MM,MM-05,yes,TVY
+Nay Pyi Taw International Airport,MM,MM-04,yes,NYT
+Kengtung Airport,MM,MM-17,yes,KET
+Kanti Airport,MM,MM-01,yes,KHM
+Kyaukpyu Airport,MM,MM-16,yes,KYP
+Kawthoung Airport,MM,MM-05,yes,KAW
+Loikaw Airport,MM,MM-12,yes,LIW
+Lashio Airport,MM,MM-17,yes,LSH
+Mandalay International Airport,MM,MM-04,yes,MDL
+Myeik Airport,MM,MM-05,yes,MGZ
+Myitkyina Airport,MM,MM-11,yes,MYT
+Mawlamyine Airport,MM,MM-15,yes,MNU
+Mong Hsat Airport,MM,MM-17,yes,MOG
+Magway Airport,MM,MM-03,yes,MWQ
+Pathein Airport,MM,MM-07,yes,BSX
+Putao Airport,MM,MM-11,yes,PBU
+Sittwe Airport,MM,MM-16,yes,AKY
+Thandwe Airport,MM,MM-16,yes,SNW
+Tachileik Airport,MM,MM-17,yes,THL
+Yangon International Airport,MM,MM-06,yes,RGN
+Friday Harbor Seaplane Base,US,US-WA,yes,FBS
+Rosario Seaplane Base,US,US-WA,yes,RSJ
+Kenmore Air Harbor Seaplane Base,US,US-WA,yes,LKE
+Roche Harbor Airport,US,US-WA,yes,RCE
+Westsound/WSX Seaplane Base,US,US-WA,yes,WSX
+Hasanuddin International Airport,ID,ID-SN,yes,UPG
+Frans Kaisiepo Airport,ID,ID-PA,yes,BIK
+Kornasoren Airport,ID,ID-PA,yes,FOO
+Mozes Kilangin Airport,ID,ID-PT,yes,TIM
+Sultan Muhammad Salahuddin Airport,ID,ID-NB,yes,BMU
+Ngurah Rai (Bali) International Airport,ID,ID-BA,yes,DPS
+Lombok International Airport,ID,ID-NB,yes,LOP
+Sumbawa Besar Airport,ID,ID-NB,yes,SWQ
+Tambolaka Airport,ID,ID-NT,yes,TMC
+Umbu Mehang Kunda Airport,ID,ID-NT,yes,WGP
+Toraja Airport,ID,ID-SS,yes,TRT
+Bua - Palopo Lagaligo Airport,ID,ID-SN,yes,LLO
+Mutiara - SIS Al-Jufrie Airport,ID,ID-ST,yes,PLW
+Andi Jemma Airport,ID,ID-SN,yes,MXB
+Tanjung Api Airport,ID,ID-ST,yes,OJU
+Haji Muhammad Sidik Airport,ID,ID-KT,yes,HMS
+Seruyan Kuala Pembuang Airport,ID,ID-KT,yes,KLP
+Tjilik Riwut Airport,ID,ID-KT,yes,PKY
+Yogyakarta International Airport,ID,ID-YO,yes,YIA
+Tunggul Wulung Airport,ID,ID-JT,yes,CXP
+Dewadaru Airport,ID,ID-JT,yes,KWB
+Bokondini Airport,ID,ID-PP,yes,BUI
+Dortheys Hiyo Eluay International Airport,ID,ID-PA,yes,DJJ
+Oksibil Airport,ID,ID-PP,yes,OKL
+Senggeh Airport,ID,ID-PA,yes,SEH
+Mopah International Airport,ID,ID-PS,yes,MKQ
+Tanah Merah Airport,ID,ID-PS,yes,TMH
+Tanjung Harapan Airport,ID,ID-KU,yes,TJS
+Datadawai Airport,ID,ID-KI,yes,DTD
+Kalimarau Airport,ID,ID-KI,yes,BEJ
+Sultan Aji Muhammad Sulaiman Sepinggan International Airport,ID,ID-KI,yes,BPN
+Juwata International Airport / Suharnoko Harbani AFB,ID,ID-KU,yes,TRK
+Aji Pangeran Tumenggung Pranoto International Airport,ID,ID-KI,yes,AAP
+Buli Airport,ID,ID-MA,yes,PGQ
+Jalaluddin Airport,ID,ID-GO,yes,GTO
+Naha Airport,ID,ID-SA,yes,NAH
+Sam Ratulangi Airport,ID,ID-SA,yes,MDC
+Sultan Babullah Airport,ID,ID-MU,yes,TTE
+Buol - Pogogul Airport,ID,ID-ST,yes,UOL
+Iskandar Airport,ID,ID-KT,yes,PKN
+Gusti Syamsir Alam Airport,ID,ID-KS,yes,KBU
+Warukin Airport,ID,ID-KS,yes,TJG
+Syamsudin Noor International Airport,ID,ID-KS,yes,BDJ
+Sampit (Hasan) Airport,ID,ID-KT,yes,SMQ
+Bandanaira Airport,ID,ID-MA,yes,NDA
+Karel Sadsuitubun Airport,ID,ID-MA,yes,LUV
+Pattimura International Airport,ID,ID-MA,yes,AMQ
+Robert Atty Bessing,ID,ID-KU,yes,LNU
+Abdul Rachman Saleh Airport,ID,ID-JI,yes,MLG
+Adisutjipto International Airport,ID,ID-YO,yes,JOG
+Adisumarmo International Airport,ID,ID-JT,yes,SOC
+Juanda International Airport,ID,ID-JI,yes,SUB
+Achmad Yani Airport,ID,ID-JT,yes,SRG
+Fakfak Airport,ID,ID-PB,yes,FKQ
+Kaimana Airport,ID,ID-PB,yes,KNG
+Marinda Airport,ID,ID-PB,yes,RJM
+Rendani Airport,ID,ID-PB,yes,MKW
+Frans Xavier Seda Airport,ID,ID-NT,yes,MOF
+H. Hasan Aroeboesman (Ende) Airport,ID,ID-NT,yes,ENE
+Frans Sales Lega Airport,ID,ID-NT,yes,RTG
+Alor Island - Mali Airport,ID,ID-NT,yes,ARD
+Komodo Airport,ID,ID-NT,yes,LBJ
+El Tari Airport,ID,ID-NT,yes,KOE
+Wamena Airport,ID,ID-PP,yes,WMX
+Matahora Airport,ID,ID-SG,yes,WNI
+Selayar - Haji Aroeppala Airport,ID,ID-SN,yes,KSR
+Haluoleo Airport,ID,ID-SG,yes,KDI
+Domine Eduard Osok Airport,ID,ID-PB,yes,SOQ
+Stebbins Airport,US,US-AK,yes,WBB
+Bintulu Airport,MY,MY-13,yes,BTU
+Long Lellang Airport,MY,MY-13,yes,LGL
+Kuching International Airport,MY,MY-13,yes,KCH
+Long Seridan Airport,MY,MY-13,yes,ODN
+Limbang Airport,MY,MY-13,yes,LMN
+Mukah Airport,MY,MY-13,yes,MKM
+Marudi Airport,MY,MY-13,yes,MUR
+Bakalalan Airport,MY,MY-13,yes,BKM
+Miri Airport,MY,MY-13,yes,MYY
+Sibu Airport,MY,MY-13,yes,SBW
+Lawas Airport,MY,MY-13,yes,LWY
+Bario Airport,MY,MY-13,yes,BBN
+Lahad Datu Airport,MY,MY-12,yes,LDU
+Kota Kinabalu International Airport,MY,MY-12,yes,BKI
+Labuan Airport,MY,MY-15,yes,LBU
+Tomanggong Airport,MY,MY-12,yes,TMG
+Sandakan Airport,MY,MY-12,yes,SDK
+Kudat Airport,MY,MY-12,yes,KUD
+Tawau Airport,MY,MY-12,yes,TWU
+Mulu Airport,MY,MY-13,yes,MZV
+Brunei International Airport,BN,BN-BM,yes,BWN
+Nusawiru Airport,ID,ID-JB,yes,CJN
+Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB,ID,ID-RI,yes,PKU
+Pinang Kampai Airport,ID,ID-RI,yes,DUM
+Raja Haji Abdullah Airport,ID,ID-RI,yes,TJB
+Kertajati International Airport,ID,ID-JB,yes,KJT
+Husein Sastranegara International Airport,ID,ID-JB,yes,BDO
+Hang Nadim International Airport,ID,ID-RI,yes,BTH
+Raja Haji Fisabilillah International Airport,ID,ID-RI,yes,TNJ
+Muko Muko Airport,ID,ID-BE,yes,MPC
+Halim Perdanakusuma International Airport,ID,ID-JK,yes,HLP
+Soekarno-Hatta International Airport,ID,ID-BT,yes,CGK
+Radin Inten II International Airport,ID,ID-LA,yes,TKG
+Binaka Airport,ID,ID-SU,yes,GNS
+Aek Godang Airport,ID,ID-SU,yes,AEG
+Kualanamu International Airport,ID,ID-SU,yes,KNO
+Silangit Airport,ID,ID-SU,yes,DTB
+Dr. Ferdinand Lumban Tobing Airport,ID,ID-SU,yes,FLZ
+Alas Leuser Airport,ID,ID-AC,yes,LSR
+H A S Hanandjoeddin International Airport,ID,ID-BB,yes,TJQ
+Nanga Pinoh Airport,ID,ID-KB,yes,NPO
+Rahadi Osman Airport,ID,ID-KB,yes,KTG
+Ranai-Natuna Airport,ID,ID-RI,yes,NTX
+Supadio Airport,ID,ID-KB,yes,PNK
+Pangsuma Airport,ID,ID-KB,yes,PSU
+Sultan Thaha Airport,ID,ID-JA,yes,DJB
+Muara Bungo Airport,ID,ID-JA,yes,BUU
+Depati Amir Airport,ID,ID-BB,yes,PGK
+Fatmawati Soekarno Airport,ID,ID-BE,yes,BKS
+Sultan Mahmud Badaruddin II Airport,ID,ID-SS,yes,PLM
+Pendopo Airport,ID,ID-SS,yes,PDO
+Minangkabau International Airport,ID,ID-SB,yes,PDG
+Cut Nyak Dhien Airport,ID,ID-AC,yes,MEQ
+Lasikin Airport,ID,ID-AC,yes,LKI
+Rembele Airport,ID,ID-AC,yes,TXE
+Malikus Saleh Airport,ID,ID-AC,yes,LSW
+Sultan Iskandar Muda International Airport,ID,ID-AC,yes,BTJ
+Tioman Airport,MY,MY-06,yes,TOD
+Sultan Abdul Halim Airport,MY,MY-02,yes,AOR
+Sultan Ismail Petra Airport,MY,MY-03,yes,KBR
+Kuantan Airport,MY,MY-06,yes,KUA
+Sultan Azlan Shah Airport,MY,MY-08,yes,IPH
+Senai International Airport,MY,MY-01,yes,JHB
+Kuala Lumpur International Airport,MY,MY-10,yes,KUL
+Langkawi International Airport,MY,MY-02,yes,LGK
+Sultan Mahmud Airport,MY,MY-11,yes,TGG
+Penang International Airport,MY,MY-07,yes,PEN
+Pulau Pangkor Airport,MY,MY-08,yes,PKG
+Sultan Abdul Aziz Shah International Airport,MY,MY-10,yes,SZB
+Decatur Shores Airport,US,US-WA,yes,DTR
+Mathilda Batlayeri Airport,ID,ID-MA,yes,SXK
+Presidente Nicolau Lobato International Airport,TL,TL-DI,yes,DIL
+AA Bere Tallo (Haliwen) Airport,ID,ID-NT,yes,ABU
+Larantuka Gewayentana Airport,ID,ID-NT,yes,LKA
+Yuvai Semaring Airport,ID,ID-KU,yes,LBW
+Bontang Airport,ID,ID-KI,yes,BXT
+Long Apung Airport,ID,ID-KU,yes,LPU
+San Juan /Uganik/ Seaplane Base,US,US-AK,yes,UGI
+Seletar Airport,SG,SG-02,yes,XSP
+Singapore Changi Airport,SG,SG-04,yes,SIN
+Wuzhou Xijiang Airport,CN,CN-45,yes,WUZ
+New Barag Right Banner Baogede Airport,CN,CN-15,yes,XRQ
+Albany Airport,AU,AU-WA,yes,ALH
+Lyall Harbour Seaplane Base,CA,CA-BC,yes,YAJ
+Maple Bay Seaplane Base,CA,CA-BC,yes,YAQ
+Argyle Airport,AU,AU-WA,yes,GYL
+Armidale Airport,AU,AU-NSW,yes,ARM
+Aurukun Airport,AU,AU-QLD,yes,AUU
+Ayers Rock Connellan Airport,AU,AU-NT,yes,AYQ
+Barcaldine Airport,AU,AU-QLD,yes,BCI
+Alice Springs Airport,AU,AU-NT,yes,ASP
+Badu Island Airport,AU,AU-QLD,yes,BDD
+Brisbane International Airport,AU,AU-QLD,yes,BNE
+Gold Coast Airport,AU,AU-QLD,yes,OOL
+Blackall Airport,AU,AU-QLD,yes,BKQ
+Cairns International Airport,AU,AU-QLD,yes,CNS
+Charleville Airport,AU,AU-QLD,yes,CTL
+Bendigo Airport,AU,AU-VIC,yes,BXG
+Birdsville Airport,AU,AU-QLD,yes,BVI
+Broken Hill Airport,AU,AU-NSW,yes,BHQ
+Hamilton Island Airport,AU,AU-QLD,yes,HTI
+Bedourie Airport,AU,AU-QLD,yes,BEU
+Bourke Airport,AU,AU-NSW,yes,BRK
+Burketown Airport,AU,AU-QLD,yes,BUC
+Busselton Margaret River Regional Airport,AU,AU-WA,yes,BQB
+Mount Isa Airport,AU,AU-QLD,yes,ISA
+Mackay Airport,AU,AU-QLD,yes,MKY
+Ballina Byron Gateway Airport,AU,AU-NSW,yes,BNK
+Boigu Island Airport,AU,AU-QLD,yes,GIC
+Oakey Army Aviation Centre,AU,AU-QLD,yes,OKY
+Boulia Airport,AU,AU-QLD,yes,BQL
+Yibin Wuliangye Airport,CN,CN-51,yes,YBP
+Proserpine Whitsunday Coast Airport,AU,AU-QLD,yes,PPP
+Telegraph Harbour Seaplane Base,CA,CA-BC,yes,YBQ
+Rockhampton Airport,AU,AU-QLD,yes,ROK
+Broome International Airport,AU,AU-WA,yes,BME
+Sunshine Coast Airport,AU,AU-QLD,yes,MCY
+Bathurst Airport,AU,AU-NSW,yes,BHS
+Townsville Airport / RAAF Base Townsville,AU,AU-QLD,yes,TSV
+Blackwater Airport,AU,AU-QLD,yes,BLT
+Bundaberg Airport,AU,AU-QLD,yes,BDB
+Weipa Airport,AU,AU-QLD,yes,WEI
+Toowoomba Wellcamp Airport,AU,AU-QLD,yes,WTB
+Carnarvon Airport,AU,AU-WA,yes,CVQ
+Cobar Airport,AU,AU-NSW,yes,CAZ
+Coober Pedy Airport,AU,AU-SA,yes,CPD
+Coconut Island Airport,AU,AU-QLD,yes,CNC
+Cloncurry Airport,AU,AU-QLD,yes,CNJ
+Ceduna Airport,AU,AU-SA,yes,CED
+Coffs Harbour Airport,AU,AU-NSW,yes,CFS
+Christmas Creek Airport,AU,AU-WA,yes,CKW
+Cooktown Airport,AU,AU-QLD,yes,CTN
+Cunnamulla Airport,AU,AU-QLD,yes,CMA
+Coonamble Airport,AU,AU-NSW,yes,CNB
+Coen Airport,AU,AU-QLD,yes,CUQ
+Cooma Snowy Mountains Airport,AU,AU-NSW,yes,OOM
+Doomadgee Airport,AU,AU-QLD,yes,DMD
+Darnley Island Airport,AU,AU-QLD,yes,NLF
+Devonport Airport,AU,AU-TAS,yes,DPO
+Elcho Island Airport,AU,AU-NT,yes,ELC
+Emerald Airport,AU,AU-QLD,yes,EMD
+Esperance Airport,AU,AU-WA,yes,EPR
+Flinders Island Airport,AU,AU-TAS,yes,FLS
+Geraldton Airport,AU,AU-WA,yes,GET
+Gladstone Airport,AU,AU-QLD,yes,GLT
+Greenway Sound Seaplane Base,CA,CA-BC,yes,YGN
+Groote Eylandt Airport,AU,AU-NT,yes,GTE
+Griffith Airport,AU,AU-NSW,yes,GFF
+Hervey Bay Airport,AU,AU-QLD,yes,HVB
+Horn Island Airport,AU,AU-QLD,yes,HID
+Hooker Creek Airport,AU,AU-NT,yes,HOK
+Mount Hotham Airport,AU,AU-VIC,yes,MHU
+Hughenden Airport,AU,AU-QLD,yes,HGD
+Julia Creek Airport,AU,AU-QLD,yes,JCK
+Kalbarri Airport,AU,AU-WA,yes,KAX
+King Island Airport,AU,AU-TAS,yes,KNS
+Kalkgurung Airport,AU,AU-NT,yes,KFG
+Karumba Airport,AU,AU-QLD,yes,KRB
+Kowanyama Airport,AU,AU-QLD,yes,KWM
+Kingscote Airport,AU,AU-SA,yes,KGC
+Kubin Island Airport,AU,AU-QLD,yes,KUG
+Leonora Airport,AU,AU-WA,yes,LNO
+Lake Evella Airport,AU,AU-NT,yes,LEL
+Lord Howe Island Airport,AU,AU-NSW,yes,LDH
+Lockhart River Airport,AU,AU-QLD,yes,IRG
+Lismore Airport,AU,AU-NSW,yes,LSY
+Lightning Ridge Airport,AU,AU-NSW,yes,LHG
+Longreach Airport,AU,AU-QLD,yes,LRE
+Leinster Airport,AU,AU-WA,yes,LER
+Laverton Airport,AU,AU-WA,yes,LVO
+Mabuiag Island Airport,AU,AU-QLD,yes,UBB
+Murray Island Airport,AU,AU-QLD,yes,MYI
+Avalon Airport,AU,AU-VIC,yes,AVV
+Albury Airport,AU,AU-NSW,yes,ABX
+Meekatharra Airport,AU,AU-WA,yes,MKR
+Melbourne Essendon Airport,AU,AU-VIC,yes,MEB
+Merimbula Airport,AU,AU-NSW,yes,MIM
+Milingimbi Airport,AU,AU-NT,yes,MGT
+Maningrida Airport,AU,AU-NT,yes,MNG
+Hobart International Airport,AU,AU-TAS,yes,HBA
+McArthur River Mine Airport,AU,AU-NT,yes,MCV
+Mildura Airport,AU,AU-VIC,yes,MQL
+Launceston Airport,AU,AU-TAS,yes,LST
+Melbourne Moorabbin Airport,AU,AU-VIC,yes,MBW
+Melbourne International Airport,AU,AU-VIC,yes,MEL
+Mount Magnet Airport,AU,AU-WA,yes,MMG
+Moree Airport,AU,AU-NSW,yes,MRZ
+Moranbah Airport,AU,AU-QLD,yes,MOV
+Moruya Airport,AU,AU-NSW,yes,MYA
+Mount Gambier Airport,AU,AU-SA,yes,MGB
+Mornington Island Airport,AU,AU-QLD,yes,ONG
+Narrandera Airport,AU,AU-NSW,yes,NRA
+Narrabri Airport,AU,AU-NSW,yes,NAA
+Northern Peninsula Airport,AU,AU-QLD,yes,ABM
+Yantai Penglai International Airport,CN,CN-37,yes,YNT
+Normanton Airport,AU,AU-QLD,yes,NTN
+Newman Airport,AU,AU-WA,yes,ZNE
+Olympic Dam Airport,AU,AU-SA,yes,OLP
+Adelaide International Airport,AU,AU-SA,yes,ADL
+Port Augusta Airport,AU,AU-SA,yes,PUG
+Palm Island Airport,AU,AU-QLD,yes,PMK
+Paraburdoo Airport,AU,AU-WA,yes,PBO
+Cocos (Keeling) Islands Airport,CC,CC-U-A,yes,CCK
+Darwin International Airport / RAAF Darwin,AU,AU-NT,yes,DRW
+Gove Airport,AU,AU-NT,yes,GOV
+Karratha Airport,AU,AU-WA,yes,KTA
+Kalgoorlie Boulder Airport,AU,AU-WA,yes,KGI
+Parkes Airport,AU,AU-NSW,yes,PKE
+East Kimberley Regional (Kununurra) Airport,AU,AU-WA,yes,KNX
+Port Lincoln Airport,AU,AU-SA,yes,PLO
+Learmonth Airport,AU,AU-WA,yes,LEA
+Prominent Hill Airport,AU,AU-SA,yes,PXH
+Pormpuraaw Airport,AU,AU-QLD,yes,EDR
+Port Macquarie Airport,AU,AU-NSW,yes,PQQ
+Portland Airport,AU,AU-VIC,yes,PTJ
+Port Hedland International Airport,AU,AU-WA,yes,PHE
+Perth International Airport,AU,AU-WA,yes,PER
+Woomera Airfield,AU,AU-SA,yes,UMR
+Christmas Island Airport,CX,CX-U-A,yes,XCH
+Quilpie Airport,AU,AU-QLD,yes,ULP
+Richmond Airport,AU,AU-QLD,yes,RCM
+Ramingining Airport,AU,AU-NT,yes,RAM
+Roma Airport,AU,AU-QLD,yes,RMA
+Canberra International Airport,AU,AU-ACT,yes,CBR
+Dubbo City Regional Airport,AU,AU-NSW,yes,DBO
+St George Airport,AU,AU-QLD,yes,SGO
+Shark Bay Airport,AU,AU-WA,yes,MJK
+Shellharbour Airport,AU,AU-NSW,yes,WOL
+Saibai Island Airport,AU,AU-QLD,yes,SBR
+Snake Bay Airport,AU,AU-NT,yes,SNB
+Norfolk Island International Airport,NF,NF-U-A,yes,NLK
+Strahan Airport,AU,AU-TAS,yes,SRN
+Sydney Kingsford Smith International Airport,AU,AU-NSW,yes,SYD
+Tamworth Airport,AU,AU-NSW,yes,TMW
+Wagga Wagga City Airport,AU,AU-NSW,yes,WGA
+Thargomindah Airport,AU,AU-QLD,yes,XTG
+Thangool Airport,AU,AU-QLD,yes,THG
+Tennant Creek Airport,AU,AU-NT,yes,TCA
+Taree Airport,AU,AU-NSW,yes,TRO
+Warraber Island Airport,AU,AU-QLD,yes,SYU
+Windorah Airport,AU,AU-QLD,yes,WNR
+Whyalla Airport,AU,AU-SA,yes,WYA
+Newcastle Airport,AU,AU-NSW,yes,NTL
+Wiluna Airport,AU,AU-WA,yes,WUN
+Winton Airport,AU,AU-QLD,yes,WIN
+Wynyard Airport,AU,AU-TAS,yes,BWT
+Yueyang Sanhe Airport,CN,CN-43,yes,YYA
+Yorke Island Airport,AU,AU-QLD,yes,OKR
+Yam Island Airport,AU,AU-QLD,yes,XMY
+Akiachak Airport,US,US-AK,yes,KKI
+Birch Creek Airport,US,US-AK,yes,KBC
+Beijing Capital International Airport,CN,CN-11,yes,PEK
+Beijing Daxing International Airport,CN,CN-11,yes,PKX
+Chengde Puning Airport,CN,CN-13,yes,CDE
+Chifeng Yulong Airport,CN,CN-15,yes,CIF
+Changzhi Wangcun Airport,CN,CN-14,yes,CIH
+Qinhuangdao Beidaihe Airport,CN,CN-13,yes,BPE
+Ordos Ejin Horo Airport,CN,CN-15,yes,DSN
+Datong Yungang Airport,CN,CN-14,yes,DAT
+Erenhot Saiwusu International Airport,CN,CN-15,yes,ERL
+Arxan Yi'ershi Airport,CN,CN-15,yes,YIE
+Handan Airport,CN,CN-13,yes,HDG
+Hohhot Baita International Airport,CN,CN-15,yes,HET
+Holingol Huolinhe Airport,CN,CN-15,yes,HUO
+Hulunbuir Hailar Airport,CN,CN-15,yes,HLD
+Linfen Yaodu Airport,CN,CN-14,yes,LFQ
+Lüliang Dawu Airport,CN,CN-61,yes,LLV
+Manzhouli Xijiao Airport,CN,CN-15,yes,NZH
+Baotou Donghe Airport,CN,CN-15,yes,BAV
+Shijiazhuang Zhengding International Airport,CN,CN-13,yes,SJW
+Tianjin Binhai International Airport,CN,CN-12,yes,TSN
+Tongliao Airport,CN,CN-15,yes,TGO
+Ulanqab Jining Airport,CN,CN-15,yes,UCB
+Wuhai Airport,CN,CN-15,yes,WUA
+Ulanhot Yilelite Airport,CN,CN-15,yes,HLH
+Xilinhot Airport,CN,CN-15,yes,XIL
+Xinzhou Wutaishan Airport,CN,CN-14,yes,WUT
+Yuncheng Zhangxiao Airport,CN,CN-61,yes,YCU
+Taiyuan Wusu Airport,CN,CN-14,yes,TYN
+Bayannur Tianjitai Airport,CN,CN-15,yes,RLK
+Zhalantun Genghis Khan Airport,CN,CN-15,yes,NZL
+Delma Airport,AE,AE-AZ,yes,ZDY
+Beihai Fucheng Airport,CN,CN-45,yes,BHY
+Changde Taohuayuan Airport,CN,CN-43,yes,CGD
+Huaihua Zhijiang Airport,CN,CN-43,yes,HJJ
+Chenzhou Beihu Airport,CN,CN-43,yes,HCZ
+Zhangjiajie Hehua International Airport,CN,CN-43,yes,DYG
+Guangzhou Baiyun International Airport,CN,CN-44,yes,CAN
+Changsha Huanghua International Airport,CN,CN-43,yes,CSX
+Hechi Jinchengjiang Airport,CN,CN-45,yes,HCJ
+Shihezi Huayuan Airport,CN,CN-65,yes,SHF
+Hengyang Nanyue Airport,CN,CN-43,yes,HNY
+Guilin Liangjiang International Airport,CN,CN-45,yes,KWL
+Yongzhou Lingling Airport,CN,CN-43,yes,LLF
+Meizhou Meixian Changgangji International Airport,CN,CN-44,yes,MXZ
+Nanning Wuxu Airport,CN,CN-45,yes,NNG
+Jieyang Chaoshan International Airport,CN,CN-44,yes,SWA
+Zhuhai Jinwan Airport,CN,CN-44,yes,ZUH
+Shaoyang Wugang Airport,CN,CN-43,yes,WGN
+Shenzhen Bao'an International Airport,CN,CN-44,yes,SZX
+Xiangxi Biancheng Airport,CN,CN-43,yes,DXJ
+Yulin Fumian Airport,CN,CN-45,yes,YLX
+Liuzhou Bailian Airport / Bailian Air Base,CN,CN-45,yes,LZH
+Zhengzhou Xinzheng International Airport,CN,CN-41,yes,CGO
+Enshi Xujiaping Airport,CN,CN-42,yes,ENH
+Wuhan Tianhe International Airport,CN,CN-42,yes,WUH
+Jingzhou Shashi Airport,CN,CN-42,yes,SHS
+Luoyang Beijiao Airport,CN,CN-41,yes,LYA
+Nanyang Jiangying Airport,CN,CN-41,yes,NNY
+Anyang Hongqiqu Airport,CN,CN-41,yes,HQQ
+Shennongjia Hongping Airport,CN,CN-42,yes,HPG
+Shiyan Wudangshan Airport,CN,CN-42,yes,WDS
+Xiangyang Liuji Airport,CN,CN-42,yes,XFN
+Yichang Sanxia Airport,CN,CN-42,yes,YIH
+Haikou Meilan International Airport,CN,CN-46,yes,HAK
+Qionghai Bo'ao Airport,CN,CN-46,yes,BAR
+Sanya Phoenix International Airport,CN,CN-46,yes,SYX
+Yongxing Dao (Woody Island) Airport,CN,CN-46,yes,XYI
+Pyongyang Sunan International Airport,KP,KP-01,yes,FNJ
+Sondok Airport,KP,KP-08,yes,DSO
+Wonsan Kalma International Airport,KP,KP-07,yes,WOS
+Ankang Fuqiang Airport,CN,CN-61,yes,AKA
+Dunhuang Mogao International Airport,CN,CN-62,yes,DNH
+Delingha Airport,CN,CN-63,yes,HXD
+Golmud Airport,CN,CN-63,yes,GOQ
+Huatugou Airport,CN,CN-63,yes,HTT
+Hanzhong Chenggu Airport,CN,CN-61,yes,HZG
+Yinchuan Hedong International Airport,CN,CN-64,yes,INC
+Jining Qufu Airport,CN,CN-37,yes,JNG
+Jiayuguan Airport,CN,CN-62,yes,JGN
+Lanzhou Zhongchuan International Airport,CN,CN-62,yes,LHW
+Longnan Chengzhou Airport,CN,CN-62,yes,LNL
+Qingyang Xifeng Airport,CN,CN-62,yes,IQN
+Gannan Xiahe Airport,CN,CN-62,yes,GXH
+Xining Caojiabao International Airport,CN,CN-63,yes,XNN
+Xi'an Xianyang International Airport,CN,CN-61,yes,XIY
+Yulin Yuyang Airport,CN,CN-61,yes,UYN
+Zhongwei Shapotou Airport,CN,CN-64,yes,ZHY
+Arvaikheer Airport,MN,MN-055,yes,AVK
+Altai Airport,MN,MN-065,yes,LTI
+Bayankhongor Airport,MN,MN-069,yes,BYN
+Bulgan Airport,MN,MN-067,yes,UGA
+Ulaanbaatar Chinggis Khaan International Airport,MN,MN-047,yes,UBN
+Donoi Airport,MN,MN-057,yes,ULZ
+Dalanzadgad Airport,MN,MN-053,yes,DLZ
+Khovd Airport,MN,MN-043,yes,HVD
+Mörön Airport,MN,MN-041,yes,MXV
+Ulaangom Airport,MN,MN-046,yes,ULO
+Ölgii Mongolei Airport,MN,MN-071,yes,ULG
+Cangyuan Washan Airport,CN,CN-53,yes,CWJ
+Dali Fengyi Airport,CN,CN-53,yes,DLU
+Diqing Shangri-La Airport,CN,CN-53,yes,DIG
+Xishuangbanna Gasa International Airport,CN,CN-53,yes,JHG
+Lancang Jingmai Airport,CN,CN-53,yes,JMJ
+Lijiang Sanyi International Airport,CN,CN-53,yes,LJG
+Dehong Mangshi Airport,CN,CN-53,yes,LUM
+Kunming Changshui International Airport,CN,CN-53,yes,KMG
+Pu'er Simao Airport,CN,CN-53,yes,SYM
+Wenshan Puzhehei Airport,CN,CN-53,yes,WNH
+Zhaotong Airport,CN,CN-53,yes,ZAT
+Xiamen Gaoqi International Airport,CN,CN-35,yes,XMN
+Anqing Tianzhushan Airport / Anqing North Air Base,CN,CN-34,yes,AQG
+Changzhou Benniu International Airport,CN,CN-32,yes,CZX
+Nanchang Changbei International Airport,CN,CN-36,yes,KHN
+Fuyang Xiguan Airport,CN,CN-34,yes,FUG
+Fuzhou Changle International Airport,CN,CN-35,yes,FOC
+Ganzhou Huangjin Airport,CN,CN-36,yes,KOW
+Hangzhou Xiaoshan International Airport,CN,CN-33,yes,HGH
+Heze Mudan Airport,CN,CN-37,yes,HZA
+Jingdezhen Luojia Airport,CN,CN-36,yes,JDZ
+Jiujiang Lushan Airport,CN,CN-36,yes,JIU
+Jinan Yaoqiang International Airport,CN,CN-37,yes,TNA
+Quzhou Airport,CN,CN-33,yes,JUZ
+Longyan Guanzhishan Airport,CN,CN-35,yes,LCX
+Taizhou Luqiao Airport,CN,CN-33,yes,HYN
+Linyi Qiyang Airport,CN,CN-37,yes,LYI
+Ningbo Lishe International Airport,CN,CN-33,yes,NGB
+Nanjing Lukou International Airport,CN,CN-32,yes,NKG
+Hefei Xinqiao International Airport,CN,CN-34,yes,HFE
+Shanghai Pudong International Airport,CN,CN-31,yes,PVG
+Quanzhou Jinjiang International Airport,CN,CN-35,yes,JJN
+Rizhao Shanzihe Airport,CN,CN-37,yes,RIZ
+Shanghai Hongqiao International Airport,CN,CN-31,yes,SHA
+Tunxi International Airport,CN,CN-34,yes,TXN
+Wuhu Xuanzhou Airport,CN,CN-34,yes,WHA
+Weifang Nanyuan Airport,CN,CN-37,yes,WEF
+Weihai Dashuibo Airport,CN,CN-37,yes,WEH
+Sunan Shuofang International Airport,CN,CN-32,yes,WUX
+Nanping Wuyishan Airport,CN,CN-35,yes,WUS
+Wenzhou Longwan International Airport,CN,CN-33,yes,WNZ
+Xuzhou Guanyin International Airport,CN,CN-32,yes,XUZ
+Yangzhou Taizhou Airport,CN,CN-32,yes,YTY
+Yichun Mingyueshan Airport,CN,CN-36,yes,YIC
+Yancheng Nanyang International Airport,CN,CN-32,yes,YNZ
+Yiwu Airport,CN,CN-33,yes,YIW
+Zhoushan Putuoshan Airport,CN,CN-33,yes,HSN
+Ngari Gunsa Airport,CN,CN-54,yes,NGQ
+Anshun Huangguoshu Airport,CN,CN-52,yes,AVA
+Qamdo Bangda Airport,CN,CN-54,yes,BPX
+Bijie Feixiong Airport,CN,CN-52,yes,BFJ
+Chongqing Jiangbei International Airport,CN,CN-50,yes,CKG
+Daocheng Yading Airport,CN,CN-51,yes,DCY
+Dachuan Airport,CN,CN-51,yes,DAX
+Guangyuan Panlong Airport,CN,CN-51,yes,GYS
+Guiyang Longdongbao International Airport,CN,CN-52,yes,KWE
+Garze Gesar Airport,CN,CN-51,yes,GZG
+Jiuzhai Huanglong Airport,CN,CN-51,yes,JZH
+Kangding Airport,CN,CN-51,yes,KGT
+Kaili Huangping Airport,CN,CN-52,yes,KJH
+Libo Airport,CN,CN-52,yes,LLB
+Lhasa Gonggar Airport,CN,CN-54,yes,LXA
+Luzhou Yunlong Airport,CN,CN-51,yes,LZO
+Zunyi Maotai Airport,CN,CN-52,yes,WMT
+Mianyang Nanjiao Airport,CN,CN-51,yes,MIG
+Nanchong Gaoping Airport,CN,CN-51,yes,NAO
+Liping Airport,CN,CN-52,yes,HZH
+Nyingchi Mainling Airport,CN,CN-54,yes,LZY
+Liupanshui Yuezhao Airport,CN,CN-52,yes,LPF
+Shannan Longzi Airport,CN,CN-54,yes,LGZ
+Tengchong Tuofeng Airport,CN,CN-53,yes,TCZ
+Chengdu Tianfu International Airport,CN,CN-51,yes,TFU
+Tongren Fenghuang Airport,CN,CN-52,yes,TEN
+Chengdu Shuangliu International Airport,CN,CN-51,yes,CTU
+Chongqing Xiannüshan Airport,CN,CN-50,yes,CQW
+Chongqing Wushan Airport,CN,CN-50,yes,WSK
+Wanzhou Wuqiao Airport,CN,CN-50,yes,WXN
+Xichang Qingshan Airport,CN,CN-51,yes,XIC
+Xingyi Wanfenglin Airport,CN,CN-52,yes,ACX
+Zunyi Xinzhou Airport,CN,CN-52,yes,ZYI
+Aksu Hongqipo Airport,CN,CN-65,yes,AKU
+Aral Tarim Airport,CN,CN-65,yes,ACF
+Bole Alashankou Airport,CN,CN-65,yes,BPL
+Qiemo Yudu Airport,CN,CN-65,yes,IQM
+Fuyun Koktokay Airport,CN,CN-65,yes,FYN
+Hami Airport,CN,CN-65,yes,HMI
+Kuqa Qiuci Airport,CN,CN-65,yes,KCA
+Korla Licheng Airport,CN,CN-65,yes,KRL
+Karamay Airport,CN,CN-65,yes,KRY
+Burqin Kanas Airport,CN,CN-65,yes,KJI
+Xinyuan Nalati Airport,CN,CN-65,yes,NLT
+Ruoqiang Loulan Airport,CN,CN-65,yes,RQA
+Shache Airport,CN,CN-65,yes,QSZ
+Kashgar Airport,CN,CN-65,yes,KHG
+Tacheng Airport,CN,CN-65,yes,TCG
+Turpan Jiaohe Airport,CN,CN-65,yes,TLQ
+Hotan Airport,CN,CN-65,yes,HTN
+Ürümqi Diwopu International Airport,CN,CN-65,yes,URC
+Yining Airport,CN,CN-65,yes,YIN
+Yutian Wanfang Airport,CN,CN-65,yes,YTW
+Anshan Teng'ao Airport / Anshan Air Base,CN,CN-21,yes,AOG
+Changchun Longjia International Airport,CN,CN-22,yes,CGQ
+Changhai Airport,CN,CN-21,yes,CNI
+Chaoyang Airport,CN,CN-21,yes,CHG
+Wudalianchi Dedu Airport,CN,CN-23,yes,DTU
+Fuyuan Dongji Aiport,CN,CN-23,yes,FYJ
+Harbin Taiping International Airport,CN,CN-23,yes,HRB
+Heihe Aihui Airport,CN,CN-23,yes,HEK
+Jiamusi Dongjiao Airport,CN,CN-23,yes,JMU
+Jiansanjiang Shidi Airport,CN,CN-23,yes,JSJ
+Jixi Xingkaihu Airport,CN,CN-23,yes,JXA
+Yichun Lindu Airport,CN,CN-23,yes,LDS
+Yushu Batang Airport,CN,CN-63,yes,YUS
+Mudanjiang Hailang International Airport,CN,CN-23,yes,MDG
+Mohe Gulian Airport,CN,CN-23,yes,OHE
+Qiqihar Sanjiazi Airport,CN,CN-23,yes,NDG
+Songyuan Chaganhu Airport,CN,CN-22,yes,YSQ
+Dalian Zhoushuizi International Airport,CN,CN-21,yes,DLC
+Tonghua Sanyuanpu Airport,CN,CN-22,yes,TNH
+Shenyang Taoxian International Airport,CN,CN-21,yes,SHE
+Yanji Chaoyangchuan Airport,CN,CN-22,yes,YNJ
+Yingkou Lanqi Airport,CN,CN-21,yes,YKH

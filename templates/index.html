@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Search</title>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        .search-container {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+        .search-form {
+            display: flex;
+            gap: 10px;
+            align-items: flex-start;
+        }
+        .form-group {
+            display: flex;
+            flex-direction: column;
+        }
+        .airport-group {
+            flex: 2;
+        }
+        .date-group, .button-group, .seats-group {
+            flex: 1;
+        }
+        label {
+            margin-bottom: 5px;
+            font-weight: bold;
+            text-align: left;
+        }
+        .select2-container {
+            width: 100% !important;
+        }
+        .select2-container .select2-selection--single,
+        input[type="text"],
+        button {
+            height: 38px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 0 10px;
+            width: 100%;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+        .select2-container .select2-selection--single {
+            height: 38px;
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+        .select2-container .select2-selection__rendered {
+            line-height: normal;
+            text-align: left;
+            padding-right: 20px;
+            padding-left: 10px;
+            width: 100%;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        .select2-container .select2-selection__arrow {
+            height: 36px;
+            top: 1px;
+            right: 1px;
+        }
+        .date-range {
+            display: flex;
+            align-items: center;
+            margin-top: 5px;
+        }
+        .date-range input[type="checkbox"] {
+            margin: 0;
+            vertical-align: middle;
+        }
+        .date-range label {
+            margin-bottom: 0;
+            margin-left: 5px;
+            display: flex;
+            align-items: center;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .url-list {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+        }
+        .url-list h3 {
+            margin-top: 0;
+        }
+        .url-list ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .url-list li {
+            margin-bottom: 10px;
+            word-break: break-all;
+        }
+        .error-message {
+            background-color: #ffcccb;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <form action="/" method="post" id="flightForm">
+            <div class="search-form">
+                <div class="form-group airport-group">
+                    <label for="origin">Origin Airports</label>
+                    <select id="origin" name="origin" class="airport-select" required>
+                        <option></option>
+                    </select>
+                </div>
+                <div class="form-group airport-group">
+                    <label for="destination">Destination Airports</label>
+                    <select id="destination" name="destination" class="airport-select" required>
+                        <option></option>
+                    </select>
+                </div>
+                <div class="form-group date-group">
+    <label for="selected_date">Departure Date</label>
+    <input type="text" id="selected_date" name="selected_date" placeholder="Select date" required value="{{ form_data.get('selected_date', '') if form_data else '' }}">
+    <div class="date-range">
+        <input type="checkbox" id="use_date_range" name="use_date_range" {% if form_data and form_data.get('use_date_range') %}checked{% endif %}>
+        <label for="use_date_range">Add +/- 1 day</label>
+    </div>
+</div>
+                <div class="form-group seats-group">
+                    <label for="seats">Number of Seats</label>
+                    <select id="seats" name="seats" class="seats-select" required>
+                        {% for i in range(1, 9) %}
+                            <option value="{{ i }}" {% if form_data and form_data.get('seats') == i|string %}selected{% endif %}>{{ i }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="form-group button-group">
+                    <label>&nbsp;</label>
+                    <button type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+        
+        <div id="resultsContainer"></div>
+
+        {% if urls %}
+        <div class="url-list">
+            <h3>Generated URLs:</h3>
+            <ul>
+                {% for url in urls %}
+                <li><a href="{{ url }}" target="_blank">{{ url }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        {% if error_message %}
+        <div class="error-message">
+            {{ error_message }}
+        </div>
+        {% endif %}
+
+        <div>
+            <h4>Debug Info:</h4>
+            <p>Form Data: {{ form_data }}</p>
+            <p>URLs: {{ urls }}</p>
+            {% if scraped_data %}
+            <p>Scraped Data: {{ scraped_data }}</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script>
+        $(document).ready(function() {
+            $('.airport-select').select2({
+                placeholder: "Select an airport",
+                allowClear: true,
+                ajax: {
+                    url: '/search_airports',
+                    dataType: 'json',
+                    delay: 250,
+                    data: function (params) {
+                        return {
+                            query: params.term
+                        };
+                    },
+                    processResults: function (data) {
+                        return {
+                            results: data
+                        };
+                    },
+                    cache: true
+                },
+                minimumInputLength: 2
+            });
+
+            // Clear value and trigger search when dropdown opens
+            $('.airport-select').on('select2:opening', function(e) {
+                var $select = $(this);
+                $select.val(null).trigger('change');
+                setTimeout(function() {
+                    $('.select2-search__field').val('').trigger('input');
+                }, 0);
+            });
+
+            flatpickr("#selected_date", {
+                dateFormat: "Y-m-d",
+                minDate: "today",
+                altInput: true,
+                altFormat: "F j, Y",
+                placeholder: "Select date"
+            });
+
+            // Set initial values if they exist
+            {% if form_data and form_data.get('origin') %}
+                $("#origin").append(new Option("{{ form_data['origin'] }}", "{{ form_data['origin'] }}", true, true)).trigger('change');
+            {% endif %}
+            {% if form_data and form_data.get('destination') %}
+                $("#destination").append(new Option("{{ form_data['destination'] }}", "{{ form_data['destination'] }}", true, true)).trigger('change');
+            {% endif %}
+
+            $('.seats-select').select2({
+                minimumResultsForSearch: Infinity, // Disable search
+                width: '100%'
+            });
+
+            $('#flightForm').on('submit', function(e) {
+                e.preventDefault();
+                
+                $.ajax({
+                    url: '/',
+                    method: 'POST',
+                    data: $(this).serialize(),
+                    success: function(response) {
+                        $('#resultsContainer').html(response).show();
+                    },
+                    error: function(xhr, status, error) {
+                        console.error("Error occurred: " + error);
+                        $('#resultsContainer').html('<p>Error: ' + error + '</p>').show();
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
